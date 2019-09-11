@@ -1,4 +1,6 @@
 title: Gourmandignes
 remote_theme: gourmandignes/maquillage-gourmandignes
 
-collections: producteurs
+collections:
+  producteurs:
+    output: true
