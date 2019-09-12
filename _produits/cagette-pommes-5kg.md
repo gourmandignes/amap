@@ -1,11 +1,11 @@
 ---
-nom: Cagette de pommes 2 kg
-prix: 5 €
+nom: Cagette de pommes 5 kg
+prix: 10 €
 osm: 234567
 description: >
 Mélange de pommes présentant quelques défauts, en agriculture naturelle
 site: [cagette.gourmandignes.org/](https://cagette.gourmandignes.org/contract/view/60#)
-par: Dominique
+producteur: Dominique
 tags: 
   - fruits
   - bio naturel

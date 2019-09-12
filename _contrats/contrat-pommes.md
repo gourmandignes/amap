@@ -1,13 +1,16 @@
 ---
-nom: Contrat annuel Pommes 
-adresse: Producteur - Dominique
+nom: Contrat annuel Pommes
+producteur: Dominique
 osm: 2939725923
 description: >
-    Fourniture de cagettes de pommes cultivées en agriculture naturelle de septembre à décembre
+  Fourniture de cagettes de pommes cultivées en agriculture naturelle de septembre à décembre
 site: https://cagette.gourmandignes.org
-par: Coordinateur - Pascal
-tags: 
-    - Pommes
+coordinateur: pascal
+produits:
+  - cagette-pommes-2kg
+  - cagette-pommes-5kg
+tags:
+  - Pommes
 ---
 
 Bien que la commande soit libre, avec le contrat c'est mieux
