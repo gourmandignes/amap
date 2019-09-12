@@ -4,14 +4,20 @@ remote_theme: gourmandignes/maquillage-gourmandignes
 collections:
   producteurs:
     output: true
+  produits:
+    output: true
+  coordinateurs:
+    output: true
+  contrats:
+    output: true
 
 defaults:
-  - scope: 
+  - scope:
       path: ""
     values:
       layout: location
-  
-plugins: 
+
+plugins:
   - jekyll-remote-theme
   - jekyll-github-metadata
   - jekyll-relative-links
