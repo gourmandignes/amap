@@ -9,6 +9,7 @@ coordinateur: pascal
 produits:
   - cagette-pommes-2kg
   - cagette-pommes-5kg
+  - poires
 tags:
   - Pommes
 ---

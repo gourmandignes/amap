@@ -4,7 +4,7 @@ prix: 10 €
 osm: 234567
 description: >
 Mélange de pommes présentant quelques défauts, en agriculture naturelle
-site: [cagette.gourmandignes.org/](https://cagette.gourmandignes.org/contract/view/60#)
+site: https://cagette.gourmandignes.org/contract/view/60#
 producteur: Dominique
 tags: 
   - fruits
