@@ -5,7 +5,7 @@ osm: 234567
 description: >
   Producteur de pommes à Sain Vincent de Paul depuis plusieurs générations
 site: gayerie.fr
-par: Pascal
+coordinateur: Pascal
 tags:
   - fruits
   - bio naturel
