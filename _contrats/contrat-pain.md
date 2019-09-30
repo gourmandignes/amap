@@ -11,13 +11,13 @@ contrat : ./media/gourmandignes_contrat_pain2019.pdf
 site: https://cagette.gourmandignes.org
 coordinateur: murielle
 produits:
-  - pain-normal-500g.md
-  - pain-normal-1kg.md
-  - pain-normal-2kg.md
-  - pain-graines-500g.md
-  - pain-graines-1kg.md
-  - pain-special-500g.md
-  - pain-special-1kg.md
+  - pain-normal-500g
+  - pain-normal-1kg
+  - pain-normal-2kg
+  - pain-graines-500g
+  - pain-graines-1kg
+  - pain-special-500g
+  - pain-special-1kg
 tags:
   - épicerie
 ---
