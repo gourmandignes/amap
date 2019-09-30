@@ -18,5 +18,3 @@ produits:
 ---
 
 Il fait de l'élevage avec des races robustes
-
-![texte alternatif](./media/david.jpg)

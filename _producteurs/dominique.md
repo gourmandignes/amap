@@ -1,10 +1,11 @@
 ---
 nom: dominique
-adresse: 23 rue de la Reinette
-osm: 234567
+adresse: 15 Avenue Armand Béraud, 33440 Saint-Vincent-de-Paul
+osm: 433810846
 description: >
   Producteur de pommes à Sain Vincent de Paul depuis plusieurs générations
 site: gayerie.fr
+illustration : ./media/dominique.jpg
 coordinateur: Pascal
 tags:
   - fruits
@@ -14,6 +15,4 @@ produits:
   - cagette-pommes-5kg
 ---
 
-Il fait des pommes des poures et des noix
-
-![texte alternatif](./media/dominique.jpg)
+Il fait des pommes des poires et des noix
