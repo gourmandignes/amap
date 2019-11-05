@@ -10,9 +10,7 @@ coordinateur: cedric
 tags:
   - viande
   - bio
-produits:
-  - poulet-2kg
-  - poulet-1.5kg
+contrat: contrat-volaille
 ---
 
 Elle fait des volailles en extérieur

@@ -10,8 +10,8 @@ coordinateur: anne
 tags:
   - viande
   - bio naturel
-produits:
-  - caissette-agneau
+contrat: contrat-agneau
+
 ---
 
 Thérèse est une bergère sans terre qui fait pâturer ses bêtes sur les communs

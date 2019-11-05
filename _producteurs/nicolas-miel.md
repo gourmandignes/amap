@@ -10,9 +10,7 @@ coordinateur: isabelle
 tags:
   - epicerie
   - bio
-produits:
-  - miel-toutesfleurs-250
-  - miel-acacia-250
+contrat: contrat-miel
 ---
 
 Ils font du miel à partir d'arbres ou de fleurs locaux

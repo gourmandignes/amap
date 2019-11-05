@@ -6,13 +6,12 @@ description: >
   Producteurs de produits laitiers, Laurent et Laure proposent différents produits issus de l'élevage de vaches et de brebis
 site: ferme-jarouille.fr
 illustration: ./media/jarouille.jpg 
-coordinateur: dana
+coordinateur: danaia
+contrat: contrat-laitier
 tags:
   - produits laitiers
   - bio
-produits:
-  - lait-vache-1l
-  - lait-chevre-1l
+
 ---
 
-Il fait des produits à base de lait
+Liste des produits (issue : faire un sous-ensemble des produits à partir d'une requête sur le tag associé produit#laitier)

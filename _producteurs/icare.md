@@ -10,14 +10,8 @@ coordinateur: murielle
 tags:
   - pain
   - bio
-produits:
-  - pain-normal-500g
-  - pain-normal-1kg
-  - pain-normal-2kg
-  - pain-graines-500g
-  - pain-graines-1kg
-  - pain-special-500g
-  - pain-special-1kg
+contrat: contrat-pain
+
 ---
 
 Il fait du pain au levain avec la farine qu'il fait moudre par son voisin à partir du blé qu'il fait pousser/

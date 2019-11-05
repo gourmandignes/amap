@@ -10,9 +10,7 @@ coordinateur: elie
 tags:
   - boisson
   - vin
-produits:
-  - chateau-bessan-rouge-2017
-  - chateau-bessan-rouge-2018
+contrat: contrat-vin
 ---
 
 Il fait du vin de différentes couleurs

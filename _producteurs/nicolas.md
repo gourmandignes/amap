@@ -11,9 +11,7 @@ tags:
   - boisson
   - bière
   - limonade
-produits:
-  - biere-blonde-75
-  - biere-rousse-75
+contrat: contrat-biere
 ---
 
 Il fait des bières avec l'orge qu'il produit localement

@@ -10,9 +10,7 @@ coordinateur: magaly
 tags:
   - epicerie
   - bio
-produits:
-  - gros-sel-1k
-  - fleur-sel-1kg
+contrat: contrat-sel
 ---
 
 Il fait du sel suivant les techniques anciennes d'exploitation des marais salant de l'île de Ré sur l'exploitation de son grand-père.

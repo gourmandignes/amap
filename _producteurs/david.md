@@ -10,11 +10,8 @@ coordinateur: celine
 tags:
   - viande
   - bio
-produits:
-  - caissette-boeuf-grillade-5k
-  - caissette-boeuf-grillade-10k
-  - caissette-boeuf-famille-5k
-  - caissette-boeuf-grillade-10k
+contrat: contrat-boeuf-veau
+
 ---
 
 Il fait de l'élevage avec des races robustes

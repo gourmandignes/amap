@@ -11,9 +11,7 @@ tags:
   - maison
   - cosmetique
   - bio
-produits:
-  - savon-boheme-chic
-  - savon-olivo-chanvre
+contrat: contrat-savon
 ---
 
 Les savons de Florence sont réalisés avec la technique de saponification à froid

@@ -7,7 +7,7 @@ osm: 433810846
 description: >
   Fourniture de pommes, de poires et de noix sur un verger naturel
 durée: de septembre à janvier
-contrat : ./media/gourmandigncontratfruits.pdf
+engagement: ./media/gourmandigncontratfruits.pdf
 site: https://cagette.gourmandignes.org
 coordinateur: pascal
 produits:

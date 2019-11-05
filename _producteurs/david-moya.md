@@ -10,8 +10,8 @@ coordinateur: elie
 tags:
   - fruits
   - bio naturel
-produits:
-  - zuma-tempura-5l
-  - zuma-tempura-2-5l
+contrat: 
+  - contrat-agrumes
+  - contrat-huile
 ---
-Il fait plusieurs variétés d'huile d'Olive
+Il fait plusieurs variétés d'huile d'olives

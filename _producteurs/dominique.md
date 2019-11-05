@@ -10,9 +10,7 @@ coordinateur: Pascal
 tags:
   - fruits
   - bio naturel
-produits:
-  - cagette-pommes-2kg
-  - cagette-pommes-5kg
+contrat: contrat-pommes
 ---
 
 Il fait des pommes des poires et des noix

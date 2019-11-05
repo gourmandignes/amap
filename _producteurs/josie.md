@@ -10,9 +10,7 @@ coordinateur: frederique
 tags:
   - cosmetique
   - bio
-produits:
-  - tisane-fleur-amour
-  - tisane-lendemain-fete
+contrat: tisane
 ---
 
 A partir de sa connaissance des fleurs, Josie s'est associée avec 2 jeunes exploitantes pour proposer des fleurs transformées de différentes sortes.

@@ -7,7 +7,7 @@ osm: 89252
 description: >
   Fourniture de pain au levain façonnés à partir du blé cultivé par Icare en agriculture biologique et transformé au moulin voisin
 durée: de janvier à décembre
-contrat : ./media/gourmandignes_contrat_pain2019.pdf
+engagement: ./media/gourmandignes_contrat_pain2019.pdf
 site: https://cagette.gourmandignes.org
 coordinateur: murielle
 produits:

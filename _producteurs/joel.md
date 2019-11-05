@@ -11,10 +11,6 @@ tags:
   - legumes
   - bio
 produits:
-  - part-production-hebdo
-  - part-production-quinzo
-  - petite-part-production-hebdo
-  - petite-part-production-quinzo
 ---
 
 Il fait des légumes de saison sur 3 hectares en agriculture biologique
