@@ -4,6 +4,7 @@ prix: 2,40 €
 description: >
   fromage frais de vache nature au poivre
 producteur: Jarouilles
+contrat: produits-laitiers
 tags: 
   - produit laitier
   - fromage

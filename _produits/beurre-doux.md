@@ -4,6 +4,7 @@ prix: 4,10 €
 description: >
   beurre doux
 producteur: Jarouilles
+contrat: produits-laitiers
 tags: 
   - produit laitier
   - beurre

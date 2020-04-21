@@ -4,10 +4,12 @@ adresse: Coutras
 osm: 23456711
 description: >
   Producteurs de produits laitiers, Laurent et Laure proposent différents produits issus de l'élevage de vaches et de brebis
-site: ferme-jarouille.fr
-illustration: ./media/jarouille.jpg 
+commande: https://cagette.gourmandignes.org/contract/view/64
+site: http://www.jarouilles.fr/
+illustration: ./media/vignette/jarouilles.jpg 
 coordinateur: danaia
-contrat: contrat-laitier
+contrats: 
+  - produits-laitiers
 tags:
   - produits laitiers
   - bio

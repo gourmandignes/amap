@@ -1,0 +1,35 @@
+
+<section id="ghTree" class="ghTree" data-title="tree">
+  <header>
+    <h1>Liste des {{ page.collection | capitalize }}</h1>
+  </header>
+  <table id="table">
+    <tr class="row">
+      <th>Contrat</th>
+      <th>Description</th>
+      <th>Coordinateur</th>
+      <th>Détails</th>
+  </tr> 
+    {% for resource in site[page.collection] %} {% unless resource.url contains
+        "index.html" %}
+    <tr class="row" data-title="dir">
+        <td class="cell" style="width: 212px;">
+            {% if resource.illustration %}
+            <img class="illustration" src="/producteurs/{{ resource.illustration }}" alt="illustration du producteur" width="200px">
+            {{ resource.nom }}    
+            {% endif %}
+        </td>
+        <td class="cell">
+            {{ resource.description }}
+        </td>
+        <td class="cell" data-title="fileExcerpt"><a class="ghTreeReadmore" title="voir le détail du coordinateur : {{ resource.coordinateur }}" data-title="fileReadmoreLink"
+            href="/coordinateurs/{{ resource.coordinateur }}.html"> {{ resource.coordinateur }}</a></td>
+        <td class="cell">
+            <a class="ghTreeReadmore" title="voir le détail du producteur : {{ resource.nom }}" data-title="fileReadmoreLink"
+            href="{{ resource.url }}">détail</a>
+        </td>
+      </tr>
+    {% endunless %} {% endfor %}
+    </table>
+  
+</section>

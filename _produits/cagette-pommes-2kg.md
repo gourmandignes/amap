@@ -5,10 +5,10 @@ osm: 234567
 description: >
   Mélange de pommes présentant quelques défauts, en agriculture naturelle
 site: https://cagette.gourmandignes.org/contract/view/60#
-par: Dominique
+producteur: Dominique
+contrat: pommes
 tags: 
   - fruits
   - bio naturel
+illustration: ./media/cagette-pomme-gala.jpg
 ---
-
-![texte alternatif](./media/dominique.jpg)

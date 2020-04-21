@@ -1,0 +1,152 @@
+---
+nom: Tisanes et dérivés
+type: contrat variable
+producteur: Josie
+adresse : 11 le bourg-est, Gours
+osm: 89252
+description: >
+  Fourniture de produits à base de plantes
+durée: de janvier à décembre
+engagement: ./media/contrat-tisanes.pdf
+commande: https://cagette.gourmandignes.org/contract/view/68
+site: https://www.lafermeauxfleurs.fr
+coordinateur: Frederique
+produits:
+    - Baume-bobos
+    - Baume-carotte
+    - Baume-menthe-poivrée
+    - Baume-rose-Damas
+    - Baume-lèvres-Coco
+    - Baume-immortelle
+    - Baume-Calendula
+    - Baume-géranium-rosat
+    - Baume-lavandin
+    - Baume-millepertuis
+    - Baume-plantain
+    - Baume-romarin
+    - Baume-thym
+    - Baume-synergie-chat-tigré
+    - Baume-synergie-voies-respiratoires
+    - Boisson-Circulez
+    - Boisson-Articulations-douloureuses
+    - Boisson-Détente-sommeil
+    - Boisson-Détox
+    - Boisson-Digestion
+    - Boisson-Energie-matinale
+    - Boisson-Grat-Grat
+    - Boisson-Maux-gorge
+    - Boisson-Maux-tête
+    - Boisson-Mieux-être-cycle-féminin
+    - Boisson-Mieux-être-Femmes-mûres
+    - Boisson-Respirez
+    - Deodorant-corporel
+    - Désodorisant-ménager-Fraîcheur
+    - Désodorisant-ménager-Senteur-fleurie
+    - Huile-massage-Douleurs
+    - Huile-massage-Jambes-lourdes
+    - Huile-essentielle-Lavandin
+    - Huile-essentielle-lavandin
+    - Huile-essentielle-Menthe-poivrée
+    - Huile-essentielle-Menthe-poivrée
+    - Huile-parfumée-Zen-Emoi
+    - Huile-relaxante
+    - Huile-No-mosquito
+    - Hydrolat-Aubépine
+    - Hydrolat-Basilic
+    - Hydrolat-Calendula
+    - Hydrolat-Camomille-romaine
+    - Hydrolat-Carotte-sauvage
+    - Hydrolat-cyprès
+    - Hydrolat-Genévrier
+    - Hydrolat-Géranium-rosat
+    - Hydrolat-Hysope
+    - Hydrolat-Immortelle
+    - Hydrolat-Laurier-noble
+    - Hydrolat-Lavandin
+    - Hydrolat-Marjolaine-sauvage
+    - Hydrolat-Mauve
+    - Hydrolat-Mélisse
+    - Hydrolat-Menthe-poivrée
+    - Hydrolat-Noisetier
+    - Hydrolat-Ortie
+    - Hydrolat-Pin-sylvestre
+    - Hydrolat-Reine-des-près
+    - Hydrolat-Romarin
+    - Hydrolat-Rose-Damas
+    - Hydrolat-Sarriette
+    - Hydrolat-Sauge
+    - Hydrolat-Sureau
+    - Hydrolat-Tanaisie
+    - Hydrolat-Thym-thymol
+    - Hydrolat-Tilleul
+    - Hydrolat-Verveine
+    - Hydrolat-Vigne-rouge
+    - Liniment-Olive
+    - Liniment-Sésame
+    - Lotion-Anti-poux
+    - Lotion-Après-rasage
+    - Lotion-Bain-bouche
+    - Lotion-Bel-œil
+    - Lotion-Cheveux
+    - Lotion-Peaux-couperoses
+    - Lotion-Peaux-juvéniles
+    - Lotion-Peaux-matures
+    - Lotion-Visage
+    - Macérat-huileux-Calendula
+    - Macérat-huileux-Carotte
+    - Macérat-huileux-Citronnelle
+    - Macérat-huileux-Géranium-rosat
+    - Macérat-huileux-Immortelle
+    - Macérat-huileux-Lavandin
+    - Macérat-huileux-Menthe-poivrée
+    - Macérat-huileux-Millepertuis
+    - Macérat-huileux-Plantain
+    - Macérat-huileux-Romarin
+    - Macérat-huileux-Rose-Damas
+    - Macérat-huileux-Thym
+    - Plante-Acacia
+    - Plante-Aubépine
+    - Plante-Bourrache
+    - Plante-Calendula
+    - Plante-Gomphréna
+    - Plante-Lavadin
+    - Plante-Mélisse
+    - Plante-Ortie
+    - Plante-Passiflore
+    - Plante-Pensée-sauvage
+    - Plante-Romarin
+    - Plante-Sarriette
+    - Plante-Sauge
+    - Plante-Sureau
+    - Plante-Thym
+    - Plante-Verveine
+    - Plante-Vigne-rouge
+    - Tisane-coquine
+    - Tisane-délice
+    - Tisane-Douce-Nuit
+    - Tisane-Bonheur
+    - Tisane-Fraîcheur
+    - Tisane-Digestive
+    - Tisane-Matinale
+    - Tisane-Articulation
+    - Tisane-Bien-être-féminin-menopause
+    - Tisane-Bien-être-féminin-système-urinaire
+    - Tisane-Circulez
+    - Tisane-Lendemain-fête
+    - Tisane-Maux-gorge
+    - Tisane-Mélange-carminatif
+    - Tisane-Minceur
+    - Tisane-Résistance
+    - Tisane-Respirez
+    - Tisane-Transit
+    - Tisane-Voie-lactée
+    - Tisane-Nuit-Tranquille
+    - Tisane-Plaisir-fleuri
+    - Tisane-Sérénité
+    - Boisson-Résistance
+    - Lotion-antibactérienne 
+tags:
+  - épicerie
+---
+
+Josie

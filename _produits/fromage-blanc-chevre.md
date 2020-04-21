@@ -4,6 +4,7 @@ prix: 3,20 €
 description: >
   fromage blanc de chèvre
 producteur: Jarouilles
+contrat: produits-laitiers
 tags: 
   - produit laitier
   - fromage

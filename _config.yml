@@ -1,5 +1,4 @@
 title: Gourmandignes
-remote_theme: gourmandignes/maquillage-gourmandignes
 
 collections:
   producteurs:
@@ -18,7 +17,6 @@ defaults:
       layout: location
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-github-metadata
   - jekyll-relative-links
   - jekyll-default-layout

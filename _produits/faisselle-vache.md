@@ -4,6 +4,7 @@ prix: 1,50 €
 description: >
   faisselle de vache
 producteur: Jarouilles
+contrat: produits-laitiers
 tags: 
   - produit laitier
   - faisselle

@@ -4,6 +4,7 @@ prix: 2,80 €
 description: >
   fromage frais de chèvre
 producteur: Jarouilles
+contrat: produits-laitiers
 tags: 
   - produit laitier
   - fromage

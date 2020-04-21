@@ -4,6 +4,7 @@ prix: 3,60 €
 description: >
   fromage frais de chèvre à l'échalotte
 producteur: Jarouilles
+contrat: produits-laitiers
 tags: 
   - produit laitier
   - fromage

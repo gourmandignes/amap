@@ -1,0 +1,22 @@
+<section id="ghTree" class="ghTree" data-title="tree">
+  <header>
+    <h1>Liste des {{ page.collection | capitalize }}</h1>
+  </header>
+  {% for resource in site[page.collection] %} {% unless resource.url contains
+  "index.html" %}
+  <article class="ghTreeItem ghTypeFile" data-title="dir">
+    <h2 class="ghTreeTitle">
+      <a class="folderLink" data-title="folderLink" href="{{ resource.url }}">
+          {% if resource.adresse %}
+          <img class="illustration"
+          src="/producteurs/{{ resource.illustration }}" alt="illustration du producteur">
+          {% endif %}
+          {{ resource.nom }}
+      </a>
+    </h2>
+    <p class="ghTreeExcerpt" data-title="fileExcerpt">{{ resource.description }}</p>
+    <a class="ghTreeReadmore" title="Lire la suite de la fiche : {{ resource.nom }}" data-title="fileReadmoreLink"
+      href="{{ resource.url }}">Lire la suite de la fiche</a>
+  </article>
+  {% endunless %} {% endfor %}
+</section>

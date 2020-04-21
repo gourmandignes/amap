@@ -1,0 +1,29 @@
+
+<section id="ghTree" class="ghTree" data-title="tree">
+  <header>
+    <h1>Liste des {{ page.collection | capitalize }}</h1>
+  </header>
+  <table id="table">
+    <tr class="row">
+      <th>Nom</th>
+      <th>Type</th>
+      <th>coordinateur</th>
+      <th>détails</th>
+  </tr> 
+    {% for resource in site[page.collection] %} {% unless resource.url contains
+        "index.html" %}
+    <tr class="row" data-title="dir">
+        <td class="cell"><a class="ghTreeReadmore" title="voir le détail du producteur : {{ resource.nom }}" data-title="fileReadmoreLink"
+          href="{{ resource.url }}">{{ resource.nom }}</a> </td>
+        <td class="cell">{{ resource.type }} </td>
+        <td class="cell" data-title="fileExcerpt"><a class="ghTreeReadmore" title="voir le détail du coordinateur : {{ resource.coordinateur }}" data-title="fileReadmoreLink"
+            href="/coordinateurs/{{ resource.coordinateur }}.html"> {{ resource.coordinateur }}</a>
+        </td>
+        <td class="cell" data-title="fileExcerpt"><a class="ghTreeReadmore" title="voir le détail du contrat : {{ resource.nom }}" data-title="fileReadmoreLink"
+            href="/contrats/{{ resource.engagement }}"> contrat</a>
+        </td>
+      </tr>
+    {% endunless %} {% endfor %}
+    </table>
+  
+</section>

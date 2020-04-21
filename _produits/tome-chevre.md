@@ -7,6 +7,5 @@ producteur: Jarouilles
 tags: 
   - produit laitier
   - fromage
+illustration: ./media/tome-chevre.jpg  
 ---
-
-![photo du yahourt](./media/tome-chevre.jpg)

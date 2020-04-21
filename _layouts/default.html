@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: "fr" }}">
+    {%- include head.html -%}
+    <body>
+        {%- include header.html -%}
+        <main class="container">
+            <div class="blobContent">
+                {%- for contenu in site.collections -%} {%- unless contenu.label == 'posts' %}
+                <span class="blobContent">
+                    <a href="/{{ contenu.label }}">{{ contenu.label | capitalize }}</a>
+                </span>
+                {%- endunless %} {%- endfor %}
+                <span class="blobContent"><a href="https://cagette.gourmandignes.org/amap" target="_new">Cagette</a></span>
+                </div>
+            {{ content }}
+        </main>
+    </body>
+</html>

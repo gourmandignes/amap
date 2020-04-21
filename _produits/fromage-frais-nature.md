@@ -4,6 +4,7 @@ prix: 1,95 €
 description: >
   fromage frais de vache nature
 producteur: Jarouilles
+contrat: produits-laitiers
 tags: 
   - produit laitier
   - fromage

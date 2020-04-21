@@ -3,7 +3,8 @@ nom: Aloe vera
 prix: 3,5 €
 description: >
   branche d'aloé véra produites à Valence (Espagne)
-producteur: david-moya
+producteur: David-moya
+contrat: huile-olive
 tags: 
   - plante
   - cosmétique
