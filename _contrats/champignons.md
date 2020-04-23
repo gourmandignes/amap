@@ -1,20 +1,22 @@
 ---
 nom: Champignons, endives, micro-pousses
 type: contrat variable
-producteur: La cave agricole
+producteur: La-cave-agricole
 adresse : Floirac
 osm: 89252170397052
 description: >
   Producteur d'endives et de champignons 
 engagement: ./media/contrat-champignons.pdf
 commande: https://cagette.gourmandignes.org/contract/view/80
-coordinateur: Sonia
+coordinateur: 
+  - Sonia
+  - Julie
 produits:
-  - barquette-micropousses
-  - champignons-bruns-paris
+  - micro-pousse
+  - champignons-paris
   - endives
-  - pleurotes
-  - shiitake
+  - champignon-pleurotte
+  - champignon-shitake
 tags:
   - champignons
   - endives

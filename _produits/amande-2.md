@@ -4,10 +4,10 @@ prix: 10 €
 description: >
   amandes non décortiquées produites à Valence (Espagne)
 producteur: David-moya
-contrat: huile-olive
+contrats: 
+  - huile-olive
 tags: 
   - fruit
   - fruit sec
+illustration: ./media/amandes.jpg
 ---
-
-![photo des amandes](./media/amandes.jpg)

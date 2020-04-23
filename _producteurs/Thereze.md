@@ -6,11 +6,11 @@ description: >
   Eleveuse d'agneau Thèrèse nous fournit de la viande
 illustration: ./media/vignette/ThereseKholer.jpg
 commande: https://cagette.gourmandignes.org/contract/view/76
-coordinateur: anne
+coordinateur: Anne
 tags:
   - viande
   - bio naturel
-contrat: 
+contrats: 
   - agneau
 
 ---

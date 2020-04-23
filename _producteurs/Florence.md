@@ -7,15 +7,12 @@ description: >
 commande: https://cagette.gourmandignes.org/contract/view/6
 site: http://caravanesaveur.fr
 illustration : ./media/vignette/florence.jpg
-coordinateur: romain
+coordinateur: Romain
 tags:
   - maison
   - cosmetique
   - bio
 contrats: 
-  - contrat-savon
+  - savon
 ---
-
 Les savons de Florence sont réalisés avec la technique de saponification à froid
-
-![texte alternatif](./media/florence.jpg)

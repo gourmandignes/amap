@@ -5,10 +5,8 @@
   </header>
   <table id="table">
     <tr class="row">
-      <th>Contrat</th>
+      <th>Producteur.rice</th>
       <th>Description</th>
-      <th>Coordinateur</th>
-      <th>Détails</th>
   </tr> 
     {% for resource in site[page.collection] %} {% unless resource.url contains
         "index.html" %}
@@ -16,17 +14,28 @@
         <td class="cell" style="width: 212px;">
             {% if resource.illustration %}
             <img class="illustration" src="/producteurs/{{ resource.illustration }}" alt="illustration du producteur" width="200px">
-            {{ resource.nom }}    
+                
             {% endif %}
         </td>
         <td class="cell">
+          <p class="blobContent"><a class="ghTreeReadmore" title="voir le détail du producteur : {{ resource.nom }}" data-title="fileReadmoreLink"
+            href="{{ resource.url }}">{{ resource.nom }}</a></p> 
+          <p class="blobContent">
             {{ resource.description }}
-        </td>
-        <td class="cell" data-title="fileExcerpt"><a class="ghTreeReadmore" title="voir le détail du coordinateur : {{ resource.coordinateur }}" data-title="fileReadmoreLink"
-            href="/coordinateurs/{{ resource.coordinateur }}.html"> {{ resource.coordinateur }}</a></td>
-        <td class="cell">
-            <a class="ghTreeReadmore" title="voir le détail du producteur : {{ resource.nom }}" data-title="fileReadmoreLink"
-            href="{{ resource.url }}">détail</a>
+            <p class="blobContent">Propose les contrats ci-dessous :
+              <ul>
+                {% for contrat in resource.contrats %}
+                    <li class="cell"><a href="/contrats/{{ contrat }}.html">{{ contrat }}</a></li>
+                {% endfor %}
+             </ul>
+            </p>
+          </p>
+          <p class="blobContent">Coordinateur.rice : 
+            {% for coordo in resource.coordinateur %}
+            <a class="ghTreeReadmore" title="voir le détail du coordinateur : {{ coordo }}" data-title="fileReadmoreLink"
+            href="/coordinateurs/{{ coordo }}.html"> {{ coordo }}</a>
+                {% endfor %}
+            </p>
         </td>
       </tr>
     {% endunless %} {% endfor %}

@@ -6,7 +6,9 @@ description: >
   Productrice de fleurs, Josie réalise des tisanes et des produits cosmétiques
 commande: https://cagette.gourmandignes.org/contract/view/68
 illustration : ./media/vignette/josie.jpg
-coordinateur: Frederique
+coordinateur: 
+  - Frederique
+  - Alexandra
 tags:
   - cosmétique
   - tisanes

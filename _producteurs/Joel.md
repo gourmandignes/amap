@@ -6,11 +6,13 @@ description: >
   Maraîcher converti en agriculture biologique depuis 30 ans
 commande: https://cagette.gourmandignes.org/contract/view/65
 illustration : ./media/vignette/joel.jpg
-coordinateur: denis
+coordinateur: 
+   - Celine
+   - Frederique
+   - Alexandra
 tags:
   - legumes
   - bio
-produits:
 contrats: 
   - legumes
 ---

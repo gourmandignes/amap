@@ -7,10 +7,12 @@ description: >
 illustration: ./media/vignette/davidMoya.jpg
 commande: https://cagette.gourmandignes.org/contract/view/50
 site: https://agrumes.fr
-coordinateur: elie
+coordinateur: Elie
 tags:
   - fruits
-  - bio naturel
+  - bio
+  - huile
+  - fruits secs
 contrats: 
   - agrumes
   - huile-olive

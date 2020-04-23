@@ -7,11 +7,11 @@ description: >
 commande: https://cagette.gourmandignes.org/contract/view/22
 site: http://www/lapeyronne.fr
 illustration : ./media/vignette/DavidViande.jpg
-coordinateur: celine
+coordinateur: Celine
 tags:
   - viande
   - bio
-contrat: 
+contrats: 
   - boeuf-veau
 
 ---

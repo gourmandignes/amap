@@ -7,7 +7,9 @@ description: >
 illustration: ./media/vignette/olivia.jpg
 commande: https://cagette.gourmandignes.org/contract/view/53
 site: https://www.fermedelaruscade.com
-coordinateur: cedric
+coordinateur: 
+  - Cedric
+  - Romain
 tags:
   - viande
   - bio

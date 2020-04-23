@@ -1,7 +1,7 @@
 ---
 nom: Produits apicoles
 type: contrat variable
-producteur: nicolas-miel
+producteur: Nicolas-Bouguet
 adresse : La Borda
 osm: 89252170397052
 description: >

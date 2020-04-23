@@ -1,13 +1,21 @@
 <div class=metas>
-    <ul>
+    {% if page.description %}
+    <p class="blobContent"> {{ page.description}} </p>
+{% endif %} 
+
+<ul>
+            
+    <!--les métas du type de contenu coordinateur-->
+
         {% if  page.coordinateur %}
-            <li>Coordinateur : <a href="/coordinateurs/{{ page.coordinateur }}">{{ page.coordinateur }}</a></li> 
+            coordinateur.rice : 
+            {% for coordo in page.coordinateur %}
+                <li><a href="/coordinateurs/{{ coordo }}">{{ coordo }}</a></li>
+            {% endfor %}
         {% endif %}
-        {% if  page.producteur %}
-        <li>Producteur : <a href="/producteurs/{{ page.producteur }}">{{ page.producteur }}</a></li>
-        {% endif %}
+
         {% if  page.produits %}
-        <li>Produits : 
+        <li>produits : 
             <ul>
                 {% for produit in page.produits %}
             <li><a href="/produits/{{ produit }}">{{ produit }}</a></li>
@@ -15,20 +23,28 @@
             </ul>
         </li>
         {% endif %}
+    
+        {% if  page.contrats %}
+            <ul>contrat(s) : 
+                {% for contrat in page.contrats %}
+                    <li><a href="/contrats/{{ contrat }}.html">{{ contrat }}</a></li>
+                {% endfor %}
+             </ul>
+        {% endif %}
+
+    <!--les métas du type de contenu contrat-->
         {% if  page.prix %}
-<!--les métas du type de contenu contrat-->
-        <li>Prix : {{ page.prix }}</li>
+            <li>Prix : {{ page.prix }}</li>
         {% endif %}
         {% if  page.type %}
-        <li>Type de contrat : {{ page.type }}</li>
+            <li>Type de contrat : {{ page.type }}</li>
         {% endif %}
         {% if  page.durée %}
-        <li>Durée : {{ page.durée }}</li>
+            <li>Durée : {{ page.durée }}</li>
         {% endif %}
         {% if  page.engagement %}
-        <li>contrat à télécharger : <a href="{{ page.engagement }}" target="_blank">contrat</a></li>
+            <li>contrat à télécharger : <a href="{{ page.engagement }}" target="_blank">contrat</a></li>
         {% endif %}
-<!--les métas du type de contenu producteur-->
         {% if page.adresse %}
             <li>Adresse : 
             {% if page.osm %}
@@ -52,12 +68,5 @@
         {% if  page.commande %}
             <li>Commande : <a href="{{ page.commande }}">{{ page.commande }}</a></li> 
         {% endif %}
-        {% if  page.contrats %}
-            <ul>
-                {% for contrat in page.contrats %}
-                    <li>contrat : <a href="/contrats/{{ contrat }}.html">{{ contrat }}</a></li>
-                {% endfor %}
-             </ul>
-        {% endif %}
-    </ul>
+</ul>
 </div>

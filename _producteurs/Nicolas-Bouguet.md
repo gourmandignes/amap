@@ -1,5 +1,5 @@
 ---
-nom: Nicolas La Borda
+nom: Nicolas Bouguet
 adresse: Langon
 osm: 2345676311
 description: >
@@ -7,9 +7,11 @@ description: >
 commande: https://cagette.gourmandignes.org/contract/view/29
 site: http://laborda-ambrosie.fr
 illustration: ./media/vignette/nicolasBouguet.jpeg
-coordinateur: isabelle
+coordinateur: 
+  - Isabelle
+  - Nicole
 tags:
-  - epicerie
+  - miel
   - bio
 contrats: 
   - miel

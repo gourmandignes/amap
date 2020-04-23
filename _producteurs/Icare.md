@@ -6,7 +6,7 @@ description: >
   Paysan boulanger, prodcteur de farine et de pain
 site: icare.fr
 illustration : ./media/vignette/icare.jpg
-coordinateur: murielle
+coordinateur: Muriel
 tags:
   - pain
   - bio
