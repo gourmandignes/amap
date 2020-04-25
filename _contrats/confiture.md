@@ -11,7 +11,7 @@ commande: https://cagette.gourmandignes.org/contract/view/69
 coordinateur: Muriel
 produits:
   - confiture-tomates-vertes-vanille
-  - confiture-butternut-cannelle
+  - confiture-butternut-cannele
   - confiture-tomates-vertes-citron
   - confiture-betterave-gingembre
 tags:

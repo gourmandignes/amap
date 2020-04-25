@@ -1,5 +1,5 @@
 ---
-nom: Dana Gullman
+nom: Dana
 adresse: 6 rue de Madrid
 tel : 06774474565
 mail: dana@gmail.com

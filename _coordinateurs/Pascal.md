@@ -6,10 +6,10 @@ mail: keronos@free.fr
 osm: 2939725923
 description: >
     Coordinateur du contrat Pommes
-illustration: ./media/dominique.jpg
-site: https://www.rhizome-data.fr
+illustration: ./media/pascal.jpg
 contrats:
     - pommes
+    - porc
 ---
 
 Pascal

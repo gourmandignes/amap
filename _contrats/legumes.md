@@ -10,7 +10,10 @@ description: >
 durée: de janvier à décembre
 engagement: ./media/contrat-legumes.pdf
 site: https://cagette.gourmandignes.org
-coordinateur: Frederique
+coordinateur: 
+  - Frederique
+  - Alexandra
+  - Celine
 produits:
   - part-production-hebdo
   - part-production-quinzo

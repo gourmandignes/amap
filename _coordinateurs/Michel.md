@@ -1,5 +1,5 @@
 ---
-nom: Michel Pioline
+nom: Michel
 adresse: 22 rue Lucien Granet, 33150 Cenon
 tel : 0619714278
 mail: m.octopus.plongeur@gmail.com

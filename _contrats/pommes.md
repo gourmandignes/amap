@@ -11,9 +11,9 @@ engagement: ./media/contrat-pommes.pdf
 site: https://cagette.gourmandignes.org
 coordinateur: Pascal
 produits:
-  - cagette-pommes-2kg.md
-  - cagette-pommes-5kg.md
-  - cagette-pommes-10kg.md
+  - cagette-pommes-2kg
+  - cagette-pommes-5kg
+  - cagette-pommes-10kg
 tags:
   - fruits
 ---

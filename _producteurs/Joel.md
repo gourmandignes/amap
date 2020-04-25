@@ -10,11 +10,13 @@ coordinateur:
    - Celine
    - Frederique
    - Alexandra
+   - Pascal
 tags:
   - legumes
   - bio
 contrats: 
   - legumes
+  - porc
 ---
 
 Il fait des légumes de saison sur 3 hectares en agriculture biologique

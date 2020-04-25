@@ -1,4 +1,8 @@
 <div class=metas>
+    {% if page.illustration %}
+    <p class="blobContent"><img src="{{ page.illustration}}"></p>
+{% endif %} 
+
     {% if page.description %}
     <p class="blobContent"> {{ page.description}} </p>
 {% endif %} 

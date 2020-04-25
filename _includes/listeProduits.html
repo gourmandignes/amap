@@ -7,6 +7,7 @@
     <tr class="row">
         <th>Produit</th>
         <th>Producteur</th>
+        <th>Contrat</th>
         <th>prix</th>
         <th>détails</th>
     </tr> 
@@ -21,7 +22,12 @@
    
         </td>
         <td class="cell">
-            {{ resource.producteur }}
+            <a class="ghTreeReadmore" title="voir le détail du producteur : {{ resource.producteur }}" data-title="fileReadmoreLink"
+            href="/producteurs/{{ resource.producteur }}">{{ resource.producteur }}</a>
+        </td>
+        <td class="cell">
+            <a class="ghTreeReadmore" title="voir le détail du contrat : {{ resource.contrat }}" data-title="fileReadmoreLink"
+            href="/contrats/{{ resource.producteur }}">{{ resource.contrat }}</a>
         </td>
         <td class="cell" data-title="fileExcerpt">{{ resource.prix }}</td>
         <td class="cell">

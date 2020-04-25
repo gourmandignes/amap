@@ -15,8 +15,8 @@ produits:
   - micro-pousse
   - champignons-paris
   - endives
-  - champignon-pleurotte
-  - champignon-shitake
+  - champignons-pleurotte
+  - champignons-shitake
 tags:
   - champignons
   - endives

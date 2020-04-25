@@ -1,5 +1,5 @@
 ---
-nom: Muriel Chavanel
+nom: Muriel
 adresse: 16 rue de Barcelone
 tel : 06774474565
 mail: murielle@free.fr

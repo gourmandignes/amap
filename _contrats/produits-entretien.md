@@ -11,20 +11,20 @@ site: https://carvane-senteur.fr
 commande: https://cagette.gourmandignes.org/contract/view/6
 coordinateur: Romain
 produits:
-  - Huile-visage
-  - Lessive
-  - Loofah
-  - Savon-Bohèm&chic
-  - Savon-BZZ-BZZ
-  - Savon-rasage
-  - Savon-Douce-Garance
-  - Savon-douche-sans-huile-essentielle 
-  - Savon-douche-huile-essentielle-ylang-ylang 
-  - Savon-douche-huile-essentielle-menthe-poivrée 
-  - Savon-lait-Crin 
-  - Savon-noir
-  - Savon-Olivôchanvre 	
-  - Shampooing
+  - huile-visage
+  - lessive
+  - loofah
+  - savon-boheme
+  - savon-bzz-bzz
+  - savon-rasage
+  - savon-douce
+  - savon-douche-nature 
+  - savon-douche-ylang 
+  - savon-douche-menthe 
+  - savon-douche-douceur 
+  - savon-noir
+  - savon-olivochanvre 	
+  - shampoing
                            
 tags:
   - savons

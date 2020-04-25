@@ -1,5 +1,5 @@
 ---
-nom: Julie Morana
+nom: Julie
 adresse: 44 rue de la Libération, 33150 cenon
 tel : 06774471122
 mail: morana.julie@gmail.com

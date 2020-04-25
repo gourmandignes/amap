@@ -10,17 +10,17 @@ engagement: ./media/contrat-boeuf-veau.pdf
 site: https://cagette.gourmandignes.org
 coordinateur: Celine
 produits:
-  - caissette-boeuf-grillade-5kg
-  - caissette-boeuf-grillade-10kg
-  - caissette-boeuf-famille-5kg
-  - caissette-boeuf-famille-10kg
+  - caissette-boeuf-grillade-5k
+  - caissette-boeuf-grillade-10k
+  - caissette-boeuf-famille-5k
+  - caissette-boeuf-famille-10k
   - berguez
-  - boeuf mixte-fantaisie-5kg
-  - boeuf mixte-fantaisie-10kg
-  - new-steack
-  - tartar-fantaisie
-  - veau-rosé-10kg
-  - veau-rosé-5kg   
+  - caissette-boeuf-mixte-5k
+  - caissette-boeuf-mixte-10k
+  - new-steak
+  - tartare
+  - caissette-veau-10k
+  - caissette-veau-5k   
 
 tags:
   - boeuf

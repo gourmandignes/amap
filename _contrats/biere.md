@@ -10,17 +10,20 @@ engagement: ./media/contrat_biere.pdf
 commande: https://cagette.gourmandignes.org/contract/view/16
 coordinateur: Sonia
 produits:
-  - Bière-printemps
-  - Bière-sapin
-  - bière-armagnac
-  - bière-blanche
-  - Bière-blonde
-  - Bière-liqueur-malt
-  - Bière-rousse
-  - Limonade
-  - Limonade-framboise
-  - Limonade-rhubarbe
-  - Terra-wasconia 
+  - Biere-printemps
+  - Biere-sapin
+  - Biere-armagnac
+  - Biere-blanche
+  - Biere-blonde
+  - Biere-liqueur-malt
+  - Biere-rousse
+  - Biere-terra-wasconia 
+  - Biere-blonde-caisse
+  - Biere-malt-caisse
+  - limonade
+  - limonade-framboise
+  - limonade-rhubarbe
+  - limonade-caisse
 tags:
   - agrumes
 ---

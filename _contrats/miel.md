@@ -12,11 +12,11 @@ coordinateur: Isabelle
 produits:
     - propolis
     - miel-bruyere-cendree
-    - gelée-royale 
+    - gelee-royale 
     - miel-acacia
     - miel-bourdaine 
-    - miel-châtaignier
-    - miel-bruyère-callune
+    - miel-chataignier
+    - miel-bruyere-callune
     - miel-chataignier
     - miel-rhododendron
     - miel-fleur-ete
@@ -25,6 +25,7 @@ produits:
 
 tags:
   - miel
+illustration: ./media/borda-ambrosie.jpg
 ---
 
 Nicolas et Guillaume

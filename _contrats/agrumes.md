@@ -14,10 +14,14 @@ produits:
   - oranges
   - citrons
   - panier-mixte-14
-  - kumquat
-  - panier-mixte-9 
+  - kumkat
+  - panier-mixte-9.5
+  - clementines
+  - pomelos
+  - limes
+  - grenades
 tags:
   - agrumes
 ---
 
-Coopérative
+Coopérative Saborita

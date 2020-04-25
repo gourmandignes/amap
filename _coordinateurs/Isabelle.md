@@ -1,5 +1,5 @@
 ---
-nom: Isabelle Veron
+nom: Isabelle
 adresse: 6 rue de Madrid
 tel : 06774474565
 mail: sonia@free.fr

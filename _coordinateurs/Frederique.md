@@ -1,5 +1,5 @@
 ---
-nom: Frédérique Goussard
+nom: Frédérique
 adresse: 6 rue d'Aurios
 tel : 06774474565
 mail: frederique@free.fr

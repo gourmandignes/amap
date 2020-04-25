@@ -1,5 +1,5 @@
 ---
-nom: Alexandra Barbier
+nom: Alexandra
 adresse: 8 rue Lucien Granet, 33150 Cenon
 tel : 06774474565
 mail: miss.barbier@gmail.Com

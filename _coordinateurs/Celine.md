@@ -1,5 +1,5 @@
 ---
-nom: Celine Vachier
+nom: Celine
 adresse: 6 rue du 8 mai 1945, Floirac
 tel : 06774474565
 mail: celine.vachier@laposte.net
