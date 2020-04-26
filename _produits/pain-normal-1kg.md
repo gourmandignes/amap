@@ -4,6 +4,7 @@ prix: 4,7 €
 description: >
   Pain au levain de 1 kg
 producteur: Icare
+contrats: pain
 tags: 
   - épicerie
   - pain

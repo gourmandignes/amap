@@ -6,7 +6,7 @@ mail: m.octopus.plongeur@gmail.com
 osm: 29397259334
 description: >
     Coordinateur du contrat agrumes
-illustration: ./media/michel.jpg
+illustration: ./media/archiviste.png
 contrats:
     - agrumes
 ---

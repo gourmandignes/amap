@@ -5,7 +5,7 @@ osm: 234567
 description: >
   Mélange de pommes présentant quelques défauts, en agriculture naturelle
 producteur: Dominique
-contrat: pommes
+contrats: pommes
 tags:
   - fruits
   - bio naturel

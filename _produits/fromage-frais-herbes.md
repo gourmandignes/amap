@@ -4,7 +4,7 @@ prix: 2,40 €
 description: >
   fromage frais de vache nature aïl et fines herbes
 producteur: Jarouilles
-contrat: produits-laitiers
+contrats: produits-laitiers
 tags: 
   - produit laitier
   - fromage

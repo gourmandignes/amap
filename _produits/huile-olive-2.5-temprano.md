@@ -4,7 +4,7 @@ prix: 30 €
 description: >
   1 bidon (2,5l) d'huile d'olive de variété Temprano Intenso produites à Valence (Espagne)
 producteur: David-moya
-contrat: huile-olive
+contrats: huile-olive
 tags: 
   - huile d'olive
 ---

@@ -4,6 +4,7 @@ prix: 6,20 €
 description: >
   tome de vache
 producteur: Jarouilles
+contrats: produit-laitiers
 tags: 
   - produit laitier
   - fromage

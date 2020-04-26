@@ -4,7 +4,7 @@ producteur: David-Moya
 description: >
   Sachet de kumkat bio fourni par la coopérative saborita
 prix:   11,70 €
-contrat: agrumes
+contrats: agrumes
 illustration: ./media/kumkat.jpg
 tags: 
   - fruit

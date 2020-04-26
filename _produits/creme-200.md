@@ -4,7 +4,7 @@ prix: 2,10 €
 description: >
   crème crue de vache
 producteur: Jarouilles
-contrat: produits-laitiers
+contrats: produits-laitiers
 tags: 
   - produit laitier
   - crème fraîche

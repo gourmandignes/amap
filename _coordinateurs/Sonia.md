@@ -6,7 +6,7 @@ mail: sonia@free.fr
 osm: 2939725923
 description: >
     Coordinatrice du contrat Bière
-illustration: ./media/sonia.jpg
+illustration: ./media/archiviste.png
 contrats:
     - biere
     - champignons

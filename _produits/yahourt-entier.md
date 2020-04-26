@@ -4,6 +4,7 @@ prix: 2,15 €
 description: >
   yahourt nature entier
 producteur: Jarouilles
+contrats: produit-laitiers
 tags: 
   - produit laitier
   - yahourt

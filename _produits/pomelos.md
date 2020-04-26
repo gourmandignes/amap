@@ -4,7 +4,7 @@ producteur: David-Moya
 description: >
   Caissette de Pamplemousse / pomelos fournie par la coopérative saborita.
 prix:   24,70 €
-contrat: agrumes
+contrats: agrumes
 illustration: ./media/pomelos.jpg
 tags: 
   - fruit

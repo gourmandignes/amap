@@ -6,7 +6,7 @@ mail: magalie.toustou@ville-cenon.fr
 osm: 29397259334
 description: >
     Coordinatrice du contrat sel
-illustration: ./media/magalie.jpg
+illustration: ./media/archiviste.png
 contrats:
     - sel
 ---

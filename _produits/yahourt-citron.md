@@ -4,6 +4,7 @@ prix: 2,30 €
 description: >
   yahourt à l'huile essentielle de citron
 producteur: Jarouilles
+contrats: produit-laitiers
 tags: 
   - produit laitier
   - yahourt

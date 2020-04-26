@@ -4,6 +4,7 @@ prix: 2,70 €
 description: >
   yahourt aux fruits rouges
 producteur: Jarouilles
+contrats: produit-laitiers
 tags: 
   - produit laitier
   - yahourt

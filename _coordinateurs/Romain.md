@@ -6,7 +6,7 @@ mail: rom1foucher@yahoo.fr
 osm: 29397259334
 description: >
     Coordinateur du contrat savon et produits d'entetien
-illustration: ./media/romain.jpg
+illustration: ./media/archiviste.png
 contrats:
     - produits-entretien
     - volaille

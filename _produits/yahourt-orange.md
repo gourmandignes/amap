@@ -4,6 +4,7 @@ prix: 2,3 €
 description: >
   yahourt à l'huile essentielle d'orange
 producteur: Jarouilles
+contrats: produit-laitiers
 tags: 
   - produit laitier
   - yahourt

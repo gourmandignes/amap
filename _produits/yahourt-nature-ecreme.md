@@ -4,6 +4,7 @@ prix: 2,30 €
 description: >
   yahourt nature écrémé
 producteur: Jarouilles
+contrats: produit-laitiers
 tags: 
   - produit laitier
   - yahourt

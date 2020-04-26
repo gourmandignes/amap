@@ -4,7 +4,7 @@ producteur: David-Moya
 description: >
   Caissette de caquis fournie par la coopérative saborita.
 prix:   27,55 €
-contrat: agrumes
+contrats: agrumes
 illustration: ./media/caquis.jpg
 tags: 
   - fruit

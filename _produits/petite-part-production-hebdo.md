@@ -1,5 +1,5 @@
 ---
-nom: petite part hebdomadaire de production de légumes
+nom: petite part hebdomadaire de légumes
 prix: 45€/mois
 description: >
   production locale et saisonière de légumes cultivés en agriculture biologique

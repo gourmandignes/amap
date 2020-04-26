@@ -4,7 +4,7 @@ prix: 12 €
 description: >
   1 bouteille (0,5l) d'huile d'olive de variété Supraverde produites à Valence (Espagne)
 producteur: David-moya
-contrat: huile-olive
+contrats: huile-olive
 tags: 
   - huile d'olive
 ---

@@ -3,33 +3,24 @@
   <header>
     <h1>Liste des {{ page.collection | capitalize }}</h1>
   </header>
-  <table id="table">
-    <tr class="row">
-        <th>Nom</th>
-        <th>Description</th>
-        <th>contrats</th>
-        <th>email</th>
-        <th>Tél</th>
-    </tr>  
+  <div class="wrapper">
     {% for resource in site[page.collection] %} {% unless resource.url contains
         "index.html" %}
-    <tr class="row" data-title="dir">
-
-        <td class="cell"><a class="ghTreeReadmore" href="/coordinateurs/{{ resource.nom }}.html">{{ resource.nom }}</a> </td>
-        <td class="cell">{{ resource.description }} </td>
-        <td class="cell">
-            <ul>
+    <div class="colonne1">
+        <div style="text-align: center; padding: 4px;"><a class="ghTreeReadmore" href="/coordinateurs/{{ resource.nom }}.html">{{ resource.nom }}</a> </div>
+        <div>
+            <a href="/coordinateurs/{{ resource.nom }}">
+                <img src="{{ resource.illustration }}" width="260">
+            </a>
+        </div>
+        <!--    <span >{{ resource.description }} </span>-->
+        <div class="details">
                 {% for contrat in resource.contrats %}
-                    <li><a class="ghTreeReadmore" href="/contrats/{{ contrat }}.html">{{ contrat }}</a></li>
+                    <span><a class="ghTreeReadmore" href="/contrats/{{ contrat }}.html">{{ contrat }}</a></span>
                 {% endfor %}
-             </ul>
-        </td>
-        <td class="cell"> {{ resource.mail }}
-        </td>
-        <td class="cell"> {{ resource.tel }}
-        </td>
-    </tr>
+        </div>
+    </div>
     {% endunless %} {% endfor %}
-</table>
+</div>
   
 </section>

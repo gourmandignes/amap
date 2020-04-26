@@ -4,7 +4,7 @@ producteur: David-Moya
 description: >
   Caissette de limes fournie par la coopérative saborita.
 prix:   33,25 €
-contrat: agrumes
+contrats: agrumes
 illustration: ./media/limes.jpg
 tags: 
   - fruit

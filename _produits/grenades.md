@@ -4,7 +4,7 @@ producteur: David-Moya
 description: >
   Caissette de Grenade Mollar fournie par la coopérative saborita.
 prix:   24,70 €
-contrat: agrumes
+contrats: agrumes
 illustration: ./media/grenades.jpg
 tags: 
   - fruit

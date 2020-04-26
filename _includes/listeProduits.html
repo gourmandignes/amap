@@ -1,41 +1,23 @@
 
 <section id="ghTree" class="ghTree" data-title="tree">
-  <header>
-    <h1>Liste des {{ page.collection | capitalize }}</h1>
-  </header>
-  <table id="table">
-    <tr class="row">
-        <th>Produit</th>
-        <th>Producteur</th>
-        <th>Contrat</th>
-        <th>prix</th>
-        <th>détails</th>
-    </tr> 
-    {% for resource in site[page.collection] %} {% unless resource.url contains
-        "index.html" %}
-    <tr class="row" data-title="dir">
-        <td class="cell" style="width: 320px;">
-            <span>{{ resource.nom }}</span> 
+    <header>
+        <h1>Liste des {{ page.collection | capitalize }}</h1>
+    </header>
+    <div class="blobContent">
+        {% assign sorted = (site[page.collection] | sort) %}
+        {% for resource in sorted %} {% unless resource.url contains "index.html" %}
+        <p>
+            <span><a class="ghTreeReadmore" title="voir le détail du produit : {{ resource.nom }}" data-title="fileReadmoreLink"
+                href="{{ resource.url }}">{{ resource.nom }}</a> (prix : {{ resource.prix }})</span> 
+            <!--
             {% if resource.illustration %}
-                <span><img src="/produits/{{ resource.illustration }}" width="100"></span>
+                <span class="cell"><img src="/produits/{{ resource.illustration }}" width="100"></span>
             {% endif %}
-   
-        </td>
-        <td class="cell">
-            <a class="ghTreeReadmore" title="voir le détail du producteur : {{ resource.producteur }}" data-title="fileReadmoreLink"
-            href="/producteurs/{{ resource.producteur }}">{{ resource.producteur }}</a>
-        </td>
-        <td class="cell">
-            <a class="ghTreeReadmore" title="voir le détail du contrat : {{ resource.contrat }}" data-title="fileReadmoreLink"
-            href="/contrats/{{ resource.producteur }}">{{ resource.contrat }}</a>
-        </td>
-        <td class="cell" data-title="fileExcerpt">{{ resource.prix }}</td>
-        <td class="cell">
-            <a class="ghTreeReadmore" title="voir le détail du produit : {{ resource.nom }}" data-title="fileReadmoreLink"
-            href="{{ resource.url }}">détail</a>
-        </td>
-    </tr>
-    {% endunless %} {% endfor %}
-</table>
-  
+            -->
+            [contrat: <a class="ghTreeReadmore" title="voir le détail du contrat : {{ resource.contrats }}" data-title="fileReadmoreLink"
+            href="/contrats/{{ resource.contrats }}"> {{ resource.contrats }}</a> - Producteur.rice <a class="ghTreeReadmore" title="voir le détail du producteur : {{ resource.producteur }}" data-title="fileReadmoreLink"
+            href="/producteurs/{{ resource.producteur }}">{{ resource.producteur }}</a>] . 
+        </p>
+        {% endunless %} {% endfor %}
+    </div>
 </section>

@@ -8,6 +8,6 @@ coordinateur: Pascal
 tags: 
   - viande
   - porc
-contrat: porc
+contrats: porc
 illustration: ./media/porc.jpg   
 ---

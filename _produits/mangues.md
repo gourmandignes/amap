@@ -4,7 +4,7 @@ producteur: David-Moya
 description: >
   Caissette de mangues fournie par la coopérative saborita.
 prix:   48,45 €
-contrat: agrumes
+contrats: agrumes
 illustration: ./media/mangues.jpg
 tags: 
   - fruit

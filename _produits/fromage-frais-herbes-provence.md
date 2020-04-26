@@ -4,7 +4,7 @@ prix: 2,40 €
 description: >
   fromage frais de vache nature aux herbes de provence
 producteur: Jarouilles
-contrat: produits-laitiers
+contrats: produits-laitiers
 tags: 
   - produit laitier
   - fromage

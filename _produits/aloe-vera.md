@@ -4,7 +4,7 @@ prix: 3,5 €
 description: >
   branche d'aloé véra produites à Valence (Espagne)
 producteur: David-moya
-contrat: huile-olive
+contrats: huile-olive
 tags: 
   - plante
   - cosmétique

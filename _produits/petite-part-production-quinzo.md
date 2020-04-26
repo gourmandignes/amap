@@ -1,5 +1,5 @@
 ---
-nom: petite part quinzomadaire de production de légumes
+nom: petite part quinzomadaire de légumes
 prix: 22€/mois
 description: >
   production locale et saisonière de légumes cultivés en agriculture biologique

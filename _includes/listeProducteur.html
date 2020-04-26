@@ -3,32 +3,26 @@
   <header>
     <h1>Liste des {{ page.collection | capitalize }}</h1>
   </header>
-  <table id="table">
-    <tr class="row">
-      <th>Producteur.rice</th>
-      <th>Description</th>
-  </tr> 
+  <div>
     {% for resource in site[page.collection] %} {% unless resource.url contains
         "index.html" %}
-    <tr class="row" data-title="dir">
-        <td class="cell" style="width: 212px;">
+    <div class="row" data-title="dir">
+        <div class="cell" style="width: 212px;">
             {% if resource.illustration %}
             <img class="illustration" src="/producteurs/{{ resource.illustration }}" alt="illustration du producteur" width="200px">
                 
             {% endif %}
-        </td>
-        <td class="cell">
-          <p class="blobContent"><a class="ghTreeReadmore" title="voir le détail du producteur : {{ resource.nom }}" data-title="fileReadmoreLink"
-            href="{{ resource.url }}">{{ resource.nom }}</a></p> 
+        </div>
+        <div class="cell">
+          <a class="ghTreeReadmore" title="voir le détail du producteur : {{ resource.nom }}" data-title="fileReadmoreLink"
+            href="{{ resource.url }}">{{ resource.nom }}</a> 
           <p class="blobContent">
             {{ resource.description }}
-            <p class="blobContent">Propose les contrats ci-dessous :
               <ul>
                 {% for contrat in resource.contrats %}
                     <li class="cell"><a href="/contrats/{{ contrat }}.html">{{ contrat }}</a></li>
                 {% endfor %}
              </ul>
-            </p>
           </p>
           <p class="blobContent">Coordinateur.rice : 
             {% for coordo in resource.coordinateur %}
@@ -36,9 +30,9 @@
             href="/coordinateurs/{{ coordo }}.html"> {{ coordo }}</a>
                 {% endfor %}
             </p>
-        </td>
-      </tr>
+        </div>
+      </div>
     {% endunless %} {% endfor %}
-    </table>
+    </div>
   
 </section>

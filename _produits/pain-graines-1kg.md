@@ -4,6 +4,7 @@ prix: 5,3 €
 description: >
   Pain au levain de 1 kg avec des graines
 producteur: Icare
+contrats: pain
 tags: 
   - épicerie
   - pain

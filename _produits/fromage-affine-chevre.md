@@ -4,7 +4,7 @@ prix: 2,80 €
 description: >
   fromage affiné de chèvre
 producteur: Jarouilles
-contrat: produits-laitiers
+contrats: produits-laitiers
 tags: 
   - produit laitier
   - fromage

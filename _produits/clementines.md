@@ -4,7 +4,7 @@ producteur: David-Moya
 description: >
   Caissette de clémentines fournie par la coopérative saborita.
 prix:   22,80 €
-contrat: agrumes
+contrats: agrumes
 illustration: ./media/clementines.jpg
 tags: 
   - fruit

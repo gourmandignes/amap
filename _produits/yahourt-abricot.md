@@ -4,6 +4,7 @@ prix: 2,70 €
 description: >
   yahourt à l'abricot
 producteur: Jarouilles
+contrats: produit-laitiers
 tags: 
   - produit laitier
   - yahourt
