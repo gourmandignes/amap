@@ -1,6 +1,6 @@
 ---
-nom: boîte de 6 oeufs
-prix: 2,2 €
+nom: Oeufs de poule
+prix: 2,2 €/6
 description: >
   boîte de 6 oeufs
 producteur: Olivia

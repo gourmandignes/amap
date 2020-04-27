@@ -1,5 +1,5 @@
 ---
-nom: A2 - Lait entier de vache 1 L
+nom: Lait - Lait entier de vache 1 L
 prix: 1,2 €
 description: >
   1 litre de lait entier cru

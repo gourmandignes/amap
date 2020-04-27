@@ -1,5 +1,5 @@
 ---
-nom: F3 - fromage frais de vache au poivre
+nom: Fromage frais de vache au poivre
 prix: 2,40 €
 description: >
   fromage frais de vache nature au poivre

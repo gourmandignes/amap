@@ -1,6 +1,6 @@
 ---
-nom: 2 kg Amandes Marcona Non decortiqués
-prix: 10 €
+nom: Amandes Marcona Non decortiqués
+prix: 10 €/ 2kg
 description: >
   amandes non décortiquées produites à Valence (Espagne)
 producteur: David-moya

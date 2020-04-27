@@ -1,5 +1,5 @@
 ---
-nom: A3 - Lait de chèvre 1 L
+nom: Lait - Lait de chèvre 1 L
 prix: 2,75 €
 description: >
   1 litre de lait de chèvre entier cru

@@ -1,5 +1,5 @@
 ---
-nom: Pot de confiture butternut et cannele
+nom: Confiture butternut et cannele
 prix: 4,5 €
 description: >
   Confiture fabriquée avec les légumes du jardin de la ferme d'Icare

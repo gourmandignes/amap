@@ -1,5 +1,5 @@
 ---
-nom: B2 - crème crue 45 % 430 ml 
+nom: Crème crue 45 % 430 ml 
 prix: 4,10 €
 description: >
   crème crue de vache

@@ -1,5 +1,5 @@
 ---
-nom: O1 - tome vache 400 g
+nom: Fromage - tome vache 400 g
 prix: 6,20 €
 description: >
   tome de vache

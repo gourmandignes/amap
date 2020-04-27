@@ -1,5 +1,5 @@
 ---
-nom: E5 - yaourt 430 ml abricot
+nom: Yaourt 430 ml abricot
 prix: 2,70 €
 description: >
   yahourt à l'abricot

@@ -11,9 +11,9 @@ site: https://lafermedelaruscade.fr
 commande: https://cagette.gourmandignes.org/contract/view/53
 coordinateur: Romain
 produits:
-  - Poulet-petit
-  - Poulet-moyen
-  - Poulet-gros
+  - poulet-petit
+  - poulet-moyen
+  - poulet-gros
                            
 tags:
   - volaille

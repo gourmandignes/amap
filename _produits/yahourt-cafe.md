@@ -1,5 +1,5 @@
 ---
-nom: E3 - yaourt 430 ml café
+nom: Yaourt 430 ml café
 prix: 2,30 €
 description: >
   yahourt au café

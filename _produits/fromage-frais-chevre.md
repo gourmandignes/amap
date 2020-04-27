@@ -1,5 +1,5 @@
 ---
-nom: M1 - Fromage frais de chèvre 90g
+nom: Fromage frais de chèvre 90g
 prix: 2,80 €
 description: >
   fromage frais de chèvre

@@ -1,5 +1,5 @@
 ---
-nom: D2 - Faisselle de chèvre
+nom: Faisselle de chèvre
 prix: 2,30 €
 description: >
   faisselle de chèvre

@@ -1,5 +1,5 @@
 ---
-nom: F2 - fromage frais de vache ail et fines herbes
+nom: Fromage frais de vache ail et fines herbes
 prix: 2,40 €
 description: >
   fromage frais de vache nature aïl et fines herbes

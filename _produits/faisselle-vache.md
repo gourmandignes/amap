@@ -1,5 +1,5 @@
 ---
-nom: D1 - faisselle 200 g
+nom: Faisselle 200 g
 prix: 1,50 €
 description: >
   faisselle de vache

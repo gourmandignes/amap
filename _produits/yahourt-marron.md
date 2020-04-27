@@ -1,5 +1,5 @@
 ---
-nom: E6 - yaourt 430 ml crème de marron
+nom: Yaourt 430 ml crème de marron
 prix: 2,70 €
 description: >
     yahourt à la crème de marron

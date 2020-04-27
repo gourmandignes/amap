@@ -1,5 +1,5 @@
 ---
-nom: H1 - fromage blanc 430 ml
+nom: Fromage blanc 430 ml
 prix: 2,80 €
 description: >
   fromage blanc de vache

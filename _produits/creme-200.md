@@ -1,5 +1,5 @@
 ---
-nom: B 1 - crème crue 45 % 200 ml 200 cl 
+nom: Crème crue 45 % 200 ml 200 cl 
 prix: 2,10 €
 description: >
   crème crue de vache

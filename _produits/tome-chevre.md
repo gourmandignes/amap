@@ -1,5 +1,5 @@
 ---
-nom: L1 tome de chèvre 250g
+nom: Fromage - tome de chèvre 250g
 prix: 6,60 €
 description: >
   tome de chèvre

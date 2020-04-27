@@ -1,5 +1,5 @@
 ---
-nom: E4 - yaourt 430 ml vanille
+nom: Yaourt 430 ml vanille
 prix: 2,30 €
 description: >
   yahourt à la vanille

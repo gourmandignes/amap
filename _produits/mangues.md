@@ -1,5 +1,5 @@
 ---
-nom: Caissette de Mangues (9,5 kg) 
+nom: Mangues (9,5 kg) 
 producteur: David-Moya
 description: >
   Caissette de mangues fournie par la coopérative saborita.

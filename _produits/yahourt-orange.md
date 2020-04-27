@@ -1,5 +1,5 @@
 ---
-nom: E 10 - yaourt 400 ml orange
+nom: Yaourt 400 ml orange
 prix: 2,3 €
 description: >
   yahourt à l'huile essentielle d'orange

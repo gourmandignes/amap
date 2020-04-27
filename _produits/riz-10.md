@@ -1,5 +1,5 @@
 ---
-nom: 1 sachet de riz bombita 12kg
+nom: Riz bombita 12kg
 prix: 55 €
 description: >
   1 sachet de riz de variété bombita produite à Valence (Espagne)

@@ -1,5 +1,5 @@
 ---
-nom: N1 - Fromage affiné de chèvre 80g
+nom: Fromage affiné de chèvre 80g
 prix: 2,80 €
 description: >
   fromage affiné de chèvre

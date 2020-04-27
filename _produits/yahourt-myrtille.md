@@ -1,5 +1,5 @@
 ---
-nom: E8 - yaourt 430 ml myrtille
+nom: Yaourt 430 ml myrtille
 prix: 2,70 €
 description: >
   yahourt aux myrtilles

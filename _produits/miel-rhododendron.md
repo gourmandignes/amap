@@ -1,5 +1,5 @@
 ---
-nom: pot de miel de rhododendron
+nom: Miel de rhododendron
 prix: 22€/kilo
 description: >
    Le rhododendron est une fleur
