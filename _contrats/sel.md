@@ -1,7 +1,7 @@
 ---
 nom: Sel et produits du marais
 type: contrat variable
-producteur: eloi
+producteur: Eloi-Keller
 adresse : île de Ré
 osm: 89252170397052
 description: >
@@ -12,12 +12,12 @@ commande: https://cagette.gourmandignes.org/contract/view/15
 coordinateur: Magalie
 produits:
     - asssortiment-5-tubes-fleurs-sel
-    - caramel-fleur-sel
-    - confiture-eglantine-sauvage
+    - caramel
+    - confiture-eglantine
     - fleur-sel
     - gros-sel
     - moutarde-sauvage
-    - maceron-poivre-sauvage
+    - maceron
     - salicorne
 
 tags:

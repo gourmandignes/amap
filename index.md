@@ -20,8 +20,6 @@ Pour l'association gourmandignes deux principes ont guidé l'idée de la créati
 
 En effet, bien souvent l'alimentation biologique est considérée comme un privilège dont seraient exclus les plus pauvres. Au travers de cette association et des animations que nous souhaitons organiser avec notre réseau de producteurs, nous espérons pouvoir prouver le contraire et favoriser la diffusion de ce mode de consommation alternatif.
 
-
-
 L'ensemble des contrats avec les producteurs est lié à l'adhésion à l'association gourmandignes. La cotisation est de 17 € par an (ou 8.5 € si l'adhésion a lieu après le 1er juillet de l'année en cours).
 
 Les livraisons s'effectuent le jeudi soir de 19h à 20h dans le chalet à gauche du garage de la mairie de Cenon.
