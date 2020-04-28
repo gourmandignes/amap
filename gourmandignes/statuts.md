@@ -1,0 +1,304 @@
+---
+titre:
+description:
+date:
+---
+
+<h1>Statuts de Gourmandignes (version 2017)</h1>
+
+<div class="level1">&nbsp;</div>
+
+<h2>Article 1 : TITRE</h2>
+
+<div class="level2">
+<p>Il est fond&eacute; entre les adh&eacute;rents aux pr&eacute;sents statuts une association r&eacute;gie par la loi du 1er juillet 1901 et le d&eacute;cret du 16 ao&ucirc;t 1901,</p>
+</div>
+
+<h2>Article 2 : NOM</h2>
+
+<div class="level2">
+<p>L&rsquo;Association prend le nom de Les Gourmandignes</p>
+</div>
+
+<h2>Article 3 : OBJETS</h2>
+
+<div class="level2">
+<p>L&rsquo;Association a pour objet :</p>
+
+<ul>
+	<li class="level1">De regrouper des consommateurs conscients et d&eacute;sireux de s&rsquo;impliquer dans l&rsquo;&eacute;conomie solidaire</li>
+</ul>
+
+<ul>
+	<li class="level1">De mettre en relation les adh&eacute;rents et les producteurs. L&rsquo;Association intervient dans l&rsquo;organisation des relations entre les partenaires et la distribution des produits dans le cadre d&rsquo;une gestion d&eacute;sint&eacute;ress&eacute;e.</li>
+</ul>
+
+<p>Elle ne participe pas &agrave; l&rsquo;achat et la vente des denr&eacute;es.</p>
+
+<ul>
+	<li class="level1">De (re)cr&eacute;er un lien social entre le monde urbain et le monde rural en mettant en place notamment des ateliers de jardinage sur la ferme ou toute autre activit&eacute; en lien avec l&rsquo;objet</li>
+</ul>
+</div>
+
+<h2>Article 4 : SIEGE</h2>
+
+<div class="level2">
+<p>Le si&egrave;ge social est fix&eacute; au 12 rue Lucien Granet - 33150 Cenon</p>
+
+<p>Il pourra &ecirc;tre transf&eacute;r&eacute; par simple d&eacute;cision du conseil d&rsquo;administration.</p>
+</div>
+
+<h2>Article 5 : INDEPENDANCE</h2>
+
+<div class="level2">
+<p>L&rsquo;Association est ind&eacute;pendante de tout parti politique.</p>
+</div>
+
+<h2>Article 6 : DUR&Eacute;E</h2>
+
+<div class="level2">
+<p>La dur&eacute;e de l&#39;Association est illimit&eacute;e.</p>
+</div>
+
+<h2>Article 7 : MOYENS D&rsquo;ACTION</h2>
+
+<div class="level2">
+<p>Les moyens d&#39;action de l&#39;Association sont illimit&eacute;s pourvu qu&#39;ils soient utiles &agrave; l&#39;accomplissement du but de celle-ci.</p>
+</div>
+
+<h2>Article 8 : COMPOSITION</h2>
+
+<div class="level2">
+<p>L&rsquo;association se compose :</p>
+
+<ul>
+	<li class="level1">de membres actifs. Ont la qualit&eacute; de membres actifs les personnes qui versent annuellement une cotisation de soutient, fix&eacute;e chaque ann&eacute;e par l&rsquo;assembl&eacute;e g&eacute;n&eacute;rale, et qui s&rsquo;engagent selon les modalit&eacute;s fix&eacute;es par la r&egrave;glement int&eacute;rieur de l&#39;association pour le soutient &agrave; l&#39;agriculture paysanne. Les membres actifs s&rsquo;engagent &agrave; respecter les principes d&eacute;finis dans l&rsquo;article 3 des pr&eacute;sents statuts.</li>
+	<li class="level1">de membres sympathisants. Les membres sympathisants n&#39;adh&eacute;rent &agrave; l&#39;association que dans le seul but de b&eacute;n&eacute;ficier de ses services. Ceux-ci versent annuellement une cotisation d&#39;usage dont le montant minimum est fix&eacute; par l&rsquo;Assembl&eacute;e G&eacute;n&eacute;rale.</li>
+</ul>
+</div>
+
+<h2>Article 9 : MEMBRES</h2>
+
+<div class="level2">
+<p>Pour &ecirc;tre membre de l&rsquo;Association, il faut :</p>
+
+<ul>
+	<li class="level1">Adh&eacute;rer &agrave; l&rsquo;objet des pr&eacute;sents statuts, aux principes et engagements d&eacute;finis par le r&egrave;glement int&eacute;rieur.</li>
+	<li class="level1 node">S&rsquo;acquitter de la cotisation destin&eacute;e &agrave; caisse de soutien financier aux producteurs et &agrave; couvrir les frais de fonctionnement de l&rsquo;association. Cette cotisation est de 2 types :
+	<ul>
+		<li class="level3">cotisation de soutient donnant acc&egrave;s aux contrats avec les producteurs</li>
+		<li class="level3">cotisation d&#39;usage pour acc&eacute;der aux services offerts ponctuellement par l&#39;association</li>
+	</ul>
+	</li>
+</ul>
+</div>
+
+<h2>Article 10 : RADIATION</h2>
+
+<div class="level2">
+<ul>
+	<li class="level1">La d&eacute;mission ou le non renouvellement de la cotisation,</li>
+	<li class="level1">le d&eacute;c&egrave;s,</li>
+	<li class="level1">la radiation prononc&eacute;e par le conseil d&rsquo;Administration, pour motif grave, l&rsquo;int&eacute;ress&eacute; ayant &eacute;t&eacute; invit&eacute; &agrave; se pr&eacute;senter devant le conseil d&rsquo;Administration pour fournir des explications.</li>
+</ul>
+</div>
+
+<h2>Article 11 : RESSOURCES</h2>
+
+<div class="level2">
+<p>Les ressources de l&#39;association comprennent :</p>
+
+<ul>
+	<li class="level1">les cotisations, dont le montant est fix&eacute; annuellement par le conseil d&rsquo;Administration,</li>
+	<li class="level1">les subventions, les dons,</li>
+	<li class="level1">toutes formes de ressources non contraires la loi</li>
+</ul>
+</div>
+
+<h2>Article 12 : CONSEIL D&rsquo;ADMINISTRATION</h2>
+
+<div class="level2">
+<p>Le Conseil d&rsquo;Administration est un collectif compos&eacute; des membres adh&eacute;rents pr&eacute;sents lors de r&eacute;unions organis&eacute;es au cours de la vie de l&rsquo;association. Le Conseil d&rsquo;Administration se compose d&rsquo;au minimum 5 personnes, sans maximum. L&rsquo;Association ne nomme pas de pr&eacute;sident mais d&eacute;signe un repr&eacute;sentant l&eacute;gal charg&eacute; de repr&eacute;senter l&#39;association aupr&egrave;s des partenaires.</p>
+
+<p>Les d&eacute;cisions sont prises &agrave; la majorit&eacute; simple des suffrages exprim&eacute;s des membres du Conseil d&rsquo;Administration pr&eacute;sents lors de ses r&eacute;unions</p>
+
+<p>Le Conseil d&rsquo;Administration a la responsabilit&eacute; de la gestion de l&rsquo;Association.</p>
+
+<p>Il a notamment dans ses attributions d&rsquo;initier la politique g&eacute;n&eacute;rale de l&rsquo;Association et de prendre toutes dispositions n&eacute;cessaires &agrave; l&rsquo;organisation et au fonctionnement de celle-ci.</p>
+
+<p>Le Conseil d&rsquo;Administration nomme en son sein deux d&eacute;l&eacute;gu&eacute;s, un(e) secr&eacute;taire et un(e) tr&eacute;sorier, et leurs adjoints &eacute;ventuels, pour assurer le bon fonctionnement des affaires administratives et financi&egrave;res :</p>
+
+<ul>
+	<li class="level1">Le (la) secr&eacute;taire est charg&eacute; de tout ce qui concerne la correspondance et les archives, les proc&egrave;s verbaux des r&eacute;unions et assembl&eacute;es et, en g&eacute;n&eacute;ral, toutes les &eacute;critures concernant le fonctionnement de l&rsquo;Association, &agrave; l&rsquo;exception de celles concernant la comptabilit&eacute;.</li>
+	<li class="level1">Le (la) tr&eacute;sorier(e) est charg&eacute; de tenir ou faire tenir la comptabilit&eacute; de l&rsquo;Association. Il effectue tout paiement et re&ccedil;oit toutes sommes dues &agrave; l&rsquo;Association.</li>
+</ul>
+
+<p>Le Conseil d&rsquo;Administration est investi des pouvoirs n&eacute;cessaires au fonctionnement de l&rsquo;Association. Il peut ainsi agir en toutes circonstances au nom de l&rsquo;Association. Il peut d&eacute;signer un de ses membres pour repr&eacute;senter l&rsquo;Association dans tous les actes de la vie civile.</p>
+
+<p>Chaque membre du Conseil d&rsquo;Administration peut &ecirc;tre habilit&eacute; &agrave; remplir toutes les formalit&eacute;s de d&eacute;claration et de publication prescrites par la l&eacute;gislation et tout autre acte administratif n&eacute;cessaire au fonctionnement de l&rsquo;Association et d&eacute;cid&eacute; par le Conseil d&rsquo;Administration.</p>
+
+<p>Le mandat des membres du Conseil d&rsquo;Administration est sans limitation de dur&eacute;e, et d&eacute;pend de leur pr&eacute;sence aux r&eacute;unions. Ils exercent leurs fonctions b&eacute;n&eacute;volement. Toutefois, les frais occasionn&eacute;s par l&rsquo;accomplissement de leur mandat, peuvent &ecirc;tre rembours&eacute;s sur justificatif apr&egrave;s accord pr&eacute;alable du Conseil d&rsquo;Administration.</p>
+</div>
+
+<h2>Article 13 : REPR&Eacute;SENTANT L&Eacute;GAL</h2>
+
+<div class="level2">
+<p>Le Conseil d&#39;Administration d&eacute;signe en son sein un repr&eacute;sentant l&eacute;gal charg&eacute; de repr&eacute;senter l&#39;association &agrave; l&#39;ext&eacute;rieur dans le cadre notamment de relation avec les partenaires associatifs ou institutionnels. Il est habilit&eacute; &agrave; signer des conventions de partenariat ou des dossiers de demande de subvention et dispose d&#39;un acc&egrave;s au compte bancaire de l&#39;association. Son mandat est d&#39;un an renouvelable par vote du Conseil d&#39;Administration.</p>
+</div>
+
+<h2>Article 14 : ASSEMBLEE GENERALE</h2>
+
+<div class="level2">
+<p>L&#39;Assembl&eacute;e G&eacute;n&eacute;rale de l&#39;Association comprend les membres actifs de l&rsquo;association.</p>
+
+<p>Elle se r&eacute;unit au moins deux fois l&#39;an et chaque fois qu&#39;elle est convoqu&eacute;e par le Conseil d&rsquo;Administration ou sur demande du quart au moins de ses membres. Son ordre du jour est r&eacute;gl&eacute; par le Conseil d&rsquo;Administration.</p>
+
+<p>L&#39;Assembl&eacute;e est anim&eacute;e par le Conseil d&rsquo;Administration. Elle entend les rapports sur la gestion du Conseil d&rsquo;Administration, sur la situation financi&egrave;re et morale de l&#39;Association. Elle approuve les comptes de l&rsquo;exercice clos, vote le budget de l&#39;exercice suivant, d&eacute;lib&egrave;re sur les questions mises &agrave; l&#39;ordre du jour et pr&eacute;voit la fr&eacute;quence des r&eacute;unions du Conseil d&rsquo;Administration.</p>
+
+<p>Les d&eacute;cisions de l&#39;Assembl&eacute;e g&eacute;n&eacute;rale sont prises par consensus et &agrave; d&eacute;faut &agrave; la majorit&eacute; simple des membres pr&eacute;sents.</p>
+
+<p>Tout membre du conseil qui, sans excuse, n&#39;aura pas assist&eacute; &agrave; trois r&eacute;unions cons&eacute;cutives<em>, </em>sera consid&eacute;r&eacute; comme d&eacute;missionnaire.</p>
+</div>
+
+<h2>Article 15 : ASSEMBLEE GENERALE EXTRAORDINAIRE</h2>
+
+<div class="level2">
+<p>Si besoin est, ou sur la demande de la moiti&eacute; plus un des membres inscrits, le Collectif peut convoquer une assembl&eacute;e g&eacute;n&eacute;rale extraordinaire.</p>
+</div>
+
+<h2>Article 16 : CHARTE DE L&rsquo;ASSOCIATION</h2>
+
+<div class="level2">
+<p>Un r&egrave;glement int&eacute;rieur peut &ecirc;tre &eacute;tabli ult&eacute;rieurement et soumis &agrave; l&rsquo;assembl&eacute;e la plus proche.</p>
+
+<p>Ce r&egrave;glement est destin&eacute; &agrave; fixer les divers points non pr&eacute;vus par les statuts, notamment le montant des cotisations annuelles, le lieu et le jour de distribution des produits, etc.</p>
+</div>
+
+<h2>Article 17 : DISSOLUTION</h2>
+
+<div class="level2">
+<p>La dissolution de l&rsquo;association ne peut &ecirc;tre prononc&eacute;e que par une assembl&eacute;e extraordinaire convoqu&eacute;e sp&eacute;cialement &agrave; cet effet.</p>
+
+<p>L&rsquo;assembl&eacute;e g&eacute;n&eacute;rale extraordinaire d&eacute;signe un commissaire charg&eacute; de la liquidation des biens de l&rsquo;association.</p>
+
+<p>Elle attribue l&rsquo;actif net conform&eacute;ment &agrave; l&rsquo;article 9 de la loi du 1er juillet 1901 et au d&eacute;cret du 16 ao&ucirc;t 1901, &agrave; une association poursuivant un but identique.</p>
+
+<p>La dissolution doit faire l&rsquo;objet d&rsquo;une d&eacute;claration &agrave; la pr&eacute;fecture du si&egrave;ge social.</p>
+
+<p>Fait &agrave; Cenon, le 12 mars 2017.</p>
+
+<p>Signature des membres du Conseil d&#39;Administration</p>
+</div>
+
+<h2>Article 9 : MEMBRES</h2>
+
+<div class="level2">
+<p>Pour &ecirc;tre membre de l&rsquo;Association, il faut :</p>
+
+<ul>
+	<li class="level1">Adh&eacute;rer &agrave; l&rsquo;objet des pr&eacute;sents statuts, aux principes et engagements d&eacute;finis par le r&egrave;glement int&eacute;rieur.</li>
+	<li class="level1 node">S&rsquo;acquitter de la cotisation destin&eacute;e &agrave; couvrir les frais de fonctionnement de l&rsquo;Association. Cette cotisation est de 2 types :
+	<ul>
+		<li class="level3">cotisation adh&eacute;rent produits</li>
+		<li class="level3">cotisation adh&eacute;rents animation</li>
+	</ul>
+	</li>
+</ul>
+</div>
+
+<h2>Article 10 : RADIATION</h2>
+
+<div class="level2">
+<ul>
+	<li class="level1">La d&eacute;mission ou le non renouvellement de la cotisation,</li>
+	<li class="level1">le d&eacute;c&egrave;s,</li>
+	<li class="level1">la radiation prononc&eacute;e par le conseil d&rsquo;Administration, pour motif grave, l&rsquo;int&eacute;ress&eacute; ayant &eacute;t&eacute; invit&eacute; &agrave; se pr&eacute;senter devant le conseil d&rsquo;Administration pour fournir des explications.</li>
+</ul>
+</div>
+
+<h2>Article 11 : RESSOURCES</h2>
+
+<div class="level2">
+<p>Les ressources de l&#39;association comprennent :</p>
+
+<ul>
+	<li class="level1">les cotisations, dont le montant est fix&eacute; annuellement par le conseil d&rsquo;Administration,</li>
+	<li class="level1">les subventions, les dons,</li>
+	<li class="level1">toutes formes de ressources non contraires la loi</li>
+</ul>
+</div>
+
+<h2>Article 12 : CONSEIL D&rsquo;ADMINISTRATION</h2>
+
+<div class="level2">
+<p>Le Conseil d&rsquo;Administration est un collectif compos&eacute; des membres adh&eacute;rents pr&eacute;sents lors de r&eacute;unions organis&eacute;es au cours de la vie de l&rsquo;association. Le Conseil d&rsquo;Administration se compose d&rsquo;au minimum 5 personnes, sans maximum. L&rsquo;Association ne nomme pas de pr&eacute;sident mais d&eacute;signe un repr&eacute;sentant l&eacute;gal charg&eacute; de repr&eacute;senter l&#39;association aupr&egrave;s des partenaires.</p>
+
+<p>Les d&eacute;cisions sont prises &agrave; la majorit&eacute; simple des suffrages exprim&eacute;s des membres du Conseil d&rsquo;Administration pr&eacute;sents lors de ses r&eacute;unions</p>
+
+<p>Le Conseil d&rsquo;Administration a la responsabilit&eacute; de la gestion de l&rsquo;Association.</p>
+
+<p>Il a notamment dans ses attributions d&rsquo;initier la politique g&eacute;n&eacute;rale de l&rsquo;Association et de prendre toutes dispositions n&eacute;cessaires &agrave; l&rsquo;organisation et au fonctionnement de celle-ci.</p>
+
+<p>Le Conseil d&rsquo;Administration nomme en son sein deux d&eacute;l&eacute;gu&eacute;s, un(e) secr&eacute;taire et un(e) tr&eacute;sorier, et leurs adjoints &eacute;ventuels, pour assurer le bon fonctionnement des affaires administratives et financi&egrave;res :</p>
+
+<ul>
+	<li class="level1">Le (la) secr&eacute;taire est charg&eacute; de tout ce qui concerne la correspondance et les archives, les proc&egrave;s verbaux des r&eacute;unions et assembl&eacute;es et, en g&eacute;n&eacute;ral, toutes les &eacute;critures concernant le fonctionnement de l&rsquo;Association, &agrave; l&rsquo;exception de celles concernant la comptabilit&eacute;.</li>
+	<li class="level1">Le (la) tr&eacute;sorier(e) est charg&eacute; de tenir ou faire tenir la comptabilit&eacute; de l&rsquo;Association. Il effectue tout paiement et re&ccedil;oit toutes sommes dues &agrave; l&rsquo;Association.</li>
+</ul>
+
+<p>Le Conseil d&rsquo;Administration est investi des pouvoirs n&eacute;cessaires au fonctionnement de l&rsquo;Association. Il peut ainsi agir en toutes circonstances au nom de l&rsquo;Association. Il peut d&eacute;signer un de ses membres pour repr&eacute;senter l&rsquo;Association dans tous les actes de la vie civile.</p>
+
+<p>Chaque membre du Conseil d&rsquo;Administration peut &ecirc;tre habilit&eacute; &agrave; remplir toutes les formalit&eacute;s de d&eacute;claration et de publication prescrites par la l&eacute;gislation et tout autre acte administratif n&eacute;cessaire au fonctionnement de l&rsquo;Association et d&eacute;cid&eacute; par le Conseil d&rsquo;Administration.</p>
+
+<p>Le mandat des membres du Conseil d&rsquo;Administration est sans limitation de dur&eacute;e, et d&eacute;pend de leur pr&eacute;sence aux r&eacute;unions. Ils exercent leurs fonctions b&eacute;n&eacute;volement. Toutefois, les frais occasionn&eacute;s par l&rsquo;accomplissement de leur mandat, peuvent &ecirc;tre rembours&eacute;s sur justificatif apr&egrave;s accord pr&eacute;alable du Conseil d&rsquo;Administration.</p>
+</div>
+
+<h2>Article 13 : REPR&Eacute;SENTANT L&Eacute;GAL</h2>
+
+<div class="level2">
+<p>Le Conseil d&#39;Administration d&eacute;signe en son sein un repr&eacute;sentant l&eacute;gal charg&eacute; de repr&eacute;senter l&#39;association &agrave; l&#39;ext&eacute;rieur dans le cadre notamment de relation avec les partenaires associatifs ou institutionnels. Il est habilit&eacute; &agrave; signer des conventions de partenariat ou des dossiers de demande de subvention et dispose d&#39;un acc&egrave;s au compte bancaire de l&#39;association. Son mandat est d&#39;un an renouvelable par vote du Conseil d&#39;Administration.</p>
+</div>
+
+<h2>Article 14 : ASSEMBLEE GENERALE</h2>
+
+<div class="level2">
+<p>L&#39;Assembl&eacute;e G&eacute;n&eacute;rale de l&#39;Association comprend les membres actifs de l&rsquo;association.</p>
+
+<p>Elle se r&eacute;unit au moins deux fois l&#39;an et chaque fois qu&#39;elle est convoqu&eacute;e par le Conseil d&rsquo;Administration ou sur demande du quart au moins de ses membres. Son ordre du jour est r&eacute;gl&eacute; par le Conseil d&rsquo;Administration.</p>
+
+<p>L&#39;Assembl&eacute;e est anim&eacute;e par le Conseil d&rsquo;Administration. Elle entend les rapports sur la gestion du Conseil d&rsquo;Administration, sur la situation financi&egrave;re et morale de l&#39;Association. Elle approuve les comptes de l&rsquo;exercice clos, vote le budget de l&#39;exercice suivant, d&eacute;lib&egrave;re sur les questions mises &agrave; l&#39;ordre du jour et pr&eacute;voit la fr&eacute;quence des r&eacute;unions du Conseil d&rsquo;Administration.</p>
+
+<p>Les d&eacute;cisions de l&#39;Assembl&eacute;e g&eacute;n&eacute;rale sont prises par consensus et &agrave; d&eacute;faut &agrave; la majorit&eacute; simple des membres pr&eacute;sents.</p>
+
+<p>Tout membre du conseil qui, sans excuse, n&#39;aura pas assist&eacute; &agrave; trois r&eacute;unions cons&eacute;cutives<em>, </em>sera consid&eacute;r&eacute; comme d&eacute;missionnaire.</p>
+</div>
+
+<h2>Article 15 : ASSEMBLEE GENERALE EXTRAORDINAIRE</h2>
+
+<div class="level2">
+<p>Si besoin est, ou sur la demande de la moiti&eacute; plus un des membres inscrits, le Collectif peut convoquer une assembl&eacute;e g&eacute;n&eacute;rale extraordinaire.</p>
+</div>
+
+<h2>Article 16 : CHARTE DE L&rsquo;ASSOCIATION</h2>
+
+<div class="level2">
+<p>Un r&egrave;glement int&eacute;rieur peut &ecirc;tre &eacute;tabli ult&eacute;rieurement et soumis &agrave; l&rsquo;assembl&eacute;e la plus proche.</p>
+
+<p>Ce r&egrave;glement est destin&eacute; &agrave; fixer les divers points non pr&eacute;vus par les statuts, notamment le montant des cotisations annuelles, le lieu et le jour de distribution des produits, etc.</p>
+</div>
+
+<h2>Article 17 : DISSOLUTION</h2>
+
+<div class="level2">
+<p>La dissolution de l&rsquo;association ne peut &ecirc;tre prononc&eacute;e que par une assembl&eacute;e extraordinaire convoqu&eacute;e sp&eacute;cialement &agrave; cet effet.</p>
+
+<p>L&rsquo;assembl&eacute;e g&eacute;n&eacute;rale extraordinaire d&eacute;signe un commissaire charg&eacute; de la liquidation des biens de l&rsquo;association.</p>
+
+<p>Elle attribue l&rsquo;actif net conform&eacute;ment &agrave; l&rsquo;article 9 de la loi du 1er juillet 1901 et au d&eacute;cret du 16 ao&ucirc;t 1901, &agrave; une association poursuivant un but identique.</p>
+
+<p>La dissolution doit faire l&rsquo;objet d&rsquo;une d&eacute;claration &agrave; la pr&eacute;fecture du si&egrave;ge social.</p>
+
+<p>Fait &agrave; Cenon, le 12 mars 2017.</p>
+
+<p>Signature des membres du Conseil d&#39;Administration</p>
+</div>
