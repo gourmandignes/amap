@@ -3,7 +3,7 @@ nom: Miel de rhododendron
 prix: 22€/kilo
 description: >
    Le rhododendron est une fleur
-producteur: Nicolas-Bouguet
+producteur: Borda-Ambrosie
 contrats: 
   - miel
 tags: 

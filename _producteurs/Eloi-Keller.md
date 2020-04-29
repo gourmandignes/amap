@@ -15,4 +15,6 @@ contrats:
   - sel
 ---
 
-Il fait du sel suivant les techniques anciennes d'exploitation des marais salant de l'île de Ré sur l'exploitation de son grand-père.
+Eloi Keller est un tout jeune saunier sur lîIle de Ré. Il vient de remettre en état le marais familial et a décidé de travailler à l'ancienne : récolte à la force des bras avec des instruments traditionnels, aucun ajout de produit chimique, séchage naturel de la Fleur de Sel au soleil, etc. Et si sa production n'a pas de label bio, elle est produite dans des conditions idéales ! Prix : 13 euros le kilo et 8 euros les 500gr.
+
+Contrat d'un an - 2 livraisons (une par semestre).
