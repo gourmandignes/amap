@@ -413,14 +413,15 @@ header .search-engine input[type="submit"] {
 
  /*tentative de page en 5 colonnes de div flottant*/
 
- .wrapper
+ .grille
  {
-   display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-gap: 1px;
-    grid-auto-rows: minmax(462px, 470px);
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1px;
+    //grid-auto-rows: minmax(462px, 470px);
  }
-  .colonne1 {
+
+.colonne {
 	float: left;
 	width: 292px;
   border: 1px solid;
@@ -438,7 +439,7 @@ header .search-engine input[type="submit"] {
   padding-bottom: 0.1em;
   padding-left: 0.1em;
   padding-top: 0.1em;
-  text-align: left;
+  text-align: center;
   vertical-align: top;
 }
 

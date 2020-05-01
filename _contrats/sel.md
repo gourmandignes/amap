@@ -5,9 +5,11 @@ producteur: Eloi-Keller
 adresse : île de Ré
 osm: 89252170397052
 description: >
-    Saunier installé sur la pointe de l'île de Ré, Eloi cultive le sel dans le marais familial.
+    Eloi est un producteur de sel indépendant sur l'île de Ré qui défend les techniques artisanales. Il utilise des techniques ancestrales datant de l'apparition de l'activité salicole sur l'île au XIIIe siècle. Eloi a un petit marais de 26 aires saunantes hérité de son arrière grand-mère.
+
 engagement: ./media/contrat_sel.pdf
 site: https://www.eloi-keller.fr
+illustration: ./media/sel.png
 commande: https://cagette.gourmandignes.org/contract/view/15
 coordinateur: Magalie
 produits:
@@ -25,4 +27,4 @@ tags:
   - confiture
 ---
 
-Nicolas et Guillaume
+Il récolte, en plus d'un gros sel et d'une fleur de sel de haute qualité, des plantes sauvages du terroir réthais afin de réaliser des produits divers au fil des saisons tels que la moutarde sauvage, du maceron, de l'immortelle ou encore des églantines. Son sel est riche en iode et en magnésium ! 

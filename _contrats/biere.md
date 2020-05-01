@@ -9,6 +9,7 @@ description: >
 engagement: ./media/contrat_biere.pdf
 commande: https://cagette.gourmandignes.org/contract/view/16
 coordinateur: Sonia
+illustration: ./media/biere.jpg
 produits:
   - Biere-printemps
   - Biere-sapin

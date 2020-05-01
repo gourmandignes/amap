@@ -9,6 +9,7 @@ description: >
 engagement: ./media/contrat-produits-laitiers.pdf
 commande: https://cagette.gourmandignes.org/contract/view/64
 site: http://www.jarouilles.fr/
+illustration: ./media/jarouilles.jpg
 coordinateur: Dana
 produits:
   - lait-ecreme

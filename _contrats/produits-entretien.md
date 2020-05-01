@@ -5,9 +5,10 @@ producteur: Florence
 adresse : Carbon-Blanc
 osm: 89252170397052
 description: >
-  Productrice de savon et de produits d'entretien biologiques
+  La savonnerie artisanale La Caravane des Senteurs est née en 2015 après plusieurs mois de recherches, de formulations, de tests. Elle est située à Carbon-Blanc en Gironde (33). Les savons proposés sont fabriqués par la méthode de saponification à froid (SAF) qui a le grand avantage de garder la glycérine dans le savon. Vous trouverez des savons avec huile essentielle, des savons sans huile essentielle, un savon à barbe, un shampoing solide. 
 engagement: ./media/contrat-produits-entretien.pdf
-site: https://carvane-senteur.fr
+illustration: ./media/savons.jpg
+site: http://lacaravanedessenteurs.com/index.php
 commande: https://cagette.gourmandignes.org/contract/view/6
 coordinateur: Romain
 produits:
@@ -31,4 +32,4 @@ tags:
   - produits d'entretien
 ---
 
-Florence
+La majorité des ingrédients est issue de l’agriculture biologique. Les savons ne contiennent ni paraben, ni conservateurs.

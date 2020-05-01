@@ -7,7 +7,7 @@ osm: 89252170397052
 description: >
   Eléveur de vache et de veau pour la production de viande
 engagement: ./media/contrat-boeuf-veau.pdf
-site: https://cagette.gourmandignes.org
+illustration: ./media/boeuf-veau.jpg
 coordinateur: Celine
 produits:
   - caissette-boeuf-grillade-5k

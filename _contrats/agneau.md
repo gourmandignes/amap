@@ -13,7 +13,7 @@ commande: https://cagette.gourmandignes.org/contract/view/76
 coordinateur: Anne
 produits:
   - colis-agneau
-#illustration: ./media/chezThereze.jpg
+illustration: ./media/agneau.jpeg
 ---
 
 Thérèse nous propose 2 fois dans l'année de la viande d'agneau. Elle élève son troupeau dans les pairies et la fôret de la Double ce qui donne une viande peu grasse et très gouteuse.

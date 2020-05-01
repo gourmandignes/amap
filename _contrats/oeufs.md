@@ -7,6 +7,7 @@ osm: 89252170397052
 description: >
   Production d'oeufs en agriculture biologique
 engagement: ./media/contrat-oeufs.pdf
+illustration: ./media/oeufs.jpg
 site: https://lafermedelaruscade.fr
 commande: https://cagette.gourmandignes.org/contract/view/53
 coordinateur: Julie

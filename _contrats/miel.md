@@ -8,6 +8,7 @@ description: >
   Apiculteurs installés dans la région de Langon, Nicolas et Guillaume produisent du miel et des produits dérivés des ruches en agriculture biologique
 site: https://www.laborda-ambrosie.fr
 commande: https://cagette.gourmandignes.org/contract/view/29
+illustration: ./media/miel.jpg
 coordinateur: Isabelle
 produits:
     - propolis
@@ -25,7 +26,6 @@ produits:
 
 tags:
   - miel
-illustration: ./media/borda-ambrosie.jpg
 ---
 
 Nicolas et Guillaume

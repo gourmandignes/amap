@@ -8,7 +8,7 @@ description: >
   Viande de porc fournie par Joël.
 durée: de janvier à décembre
 engagement: ./media/contrat-porc.pdf
-site: https://cagette.gourmandignes.org
+illustration: ./media/porc.jpg
 commande: https://cagette.gourmandignes.org/contract/view/51
 coordinateur: Pascal
 produits:

@@ -8,6 +8,7 @@ description: >
   Producteur d'huile d'olive
 engagement: ./media/contrat_huile.pdf
 commande: https://cagette.gourmandignes.org/contract/view/61
+illustration: ./media/huile-olive.png
 coordinateur: pascal
 produits:
   - amande-2

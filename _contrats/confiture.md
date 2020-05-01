@@ -7,6 +7,7 @@ osm: 89252170397052
 description: >
   Production de confitures franbriquées à partir des fruits et légumes de l'exploitation
 engagement: ./media/contrat-confiture.pdf
+illustration: ./media/confitures.jpg
 commande: https://cagette.gourmandignes.org/contract/view/69
 coordinateur: Muriel
 produits:

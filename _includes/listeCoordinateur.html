@@ -3,21 +3,23 @@
   <header>
     <h1>Liste des {{ page.collection | capitalize }}</h1>
   </header>
-  <div class="wrapper">
+  <div class="grille">
     {% for resource in site[page.collection] %} {% unless resource.url contains
         "index.html" %}
-    <div class="colonne1">
-        <div style="text-align: center; padding: 4px;"><a class="ghTreeReadmore" href="/coordinateurs/{{ resource.nom }}.html">{{ resource.nom }}</a> </div>
+    <div class="colonne">
+        <div>
+                <a class="ghTreeReadmore" href="/coordinateurs/{{ resource.nom }}.html">{{ resource.nom }}</a>
+        </div>
         <div>
             <a href="/coordinateurs/{{ resource.nom }}">
                 <img src="{{ resource.illustration }}" width="260">
             </a>
         </div>
-        <!--    <span >{{ resource.description }} </span>-->
+            <!--    <span >{{ resource.description }} </span>-->
         <div class="details">
-                {% for contrat in resource.contrats %}
-                    <span><a class="ghTreeReadmore" href="/contrats/{{ contrat }}.html">{{ contrat }}</a></span>
-                {% endfor %}
+            {% for contrat in resource.contrats %}
+                <span><a class="ghTreeReadmore" href="/contrats/{{ contrat }}.html">{{ contrat }}</a></span>
+            {% endfor %}
         </div>
     </div>
     {% endunless %} {% endfor %}
