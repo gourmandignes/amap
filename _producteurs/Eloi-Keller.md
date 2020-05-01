@@ -3,7 +3,7 @@ nom: Eloi Keller
 adresse: Saint-Clément-les-Baleines, île de Ré
 osm: 12234567
 description: >
-  Producteur de sel sur le marais familial
+  Eloi Keller est un tout jeune saunier sur lîIle de Ré. Il vient de remettre en état le marais familial et a décidé de travailler à l'ancienne : récolte à la force des bras avec des instruments traditionnels, aucun ajout de produit chimique, séchage naturel de la Fleur de Sel au soleil, etc. Et si sa production n'a pas de label bio, elle est produite dans des conditions idéales !
 commande: https://cagette.gourmandignes.org/contract/view/15
 site: https://www.eloikeller.fr
 illustration : ./media/vignette/eloi.jpg
@@ -14,7 +14,5 @@ tags:
 contrats: 
   - sel
 ---
-
-Eloi Keller est un tout jeune saunier sur lîIle de Ré. Il vient de remettre en état le marais familial et a décidé de travailler à l'ancienne : récolte à la force des bras avec des instruments traditionnels, aucun ajout de produit chimique, séchage naturel de la Fleur de Sel au soleil, etc. Et si sa production n'a pas de label bio, elle est produite dans des conditions idéales ! Prix : 13 euros le kilo et 8 euros les 500gr.
 
 Contrat d'un an - 2 livraisons (une par semestre).

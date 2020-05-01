@@ -3,7 +3,7 @@ nom: Nicolas Hebert
 adresse: Créon
 osm: 23456763
 description: >
-  Producteur de céréales, Nicolas produit de la bière et de la limonade
+  Nicolas Hebert en plus de fabriquer ses délicieuses bières artisanales, cultive son propre orge sur 8 hectares de terre, c'est ce qui fait aujourd'hui l'originalité de la Brasserie Saint-Léon à Creon.
 commande: https://cagette.gourmandignes.org/contract/view/16
 site: https://brasserie-saintleon.fr
 illustration: ./media/vignette/nicolasBiere.jpg
@@ -15,9 +15,6 @@ tags:
 contrats: 
   - biere
 ---
-
-Nicolas Hebert en plus de fabriquer ses délicieuses bières artisanales, cultive son propre orge sur 8 hectares de terre, c'est ce qui fait aujourd'hui l'originalité de la Brasserie Saint-Léon à Creon.
-
 Il nous propose :
 
 * La Blonde : brassée à partir d'un seul type de malt. Bière d'une seule fermentation à haute température durant 4 jours. Elevage sur lies de 3 à 5 semaines. Sous ses airs légers et rafraichissants se cache une belle complexité allant du miel au citron.
