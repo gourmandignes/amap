@@ -18,6 +18,11 @@
             {% endfor %}
         {% endif %}
 
+        {% if  page.producteur %}
+        producteur.rice : 
+            <li><a href="/producteurs/{{ page.producteur }}">{{ page.producteur }}</a></li>
+    {% endif %}
+
         {% if  page.produits %}
         <li>produits : 
             <ul>
