@@ -7,7 +7,7 @@ description: >
   Il cultive son propre blé en agriculture biologique, le transforme en farine de façon traditionnelle à la meule de pierre et fabrique son pain artisanalement (four à bois et levain biologique).
 
 site: icare.fr
-illustration : ./media/vignette/icare.jpg
+illustration : icare.jpg
 coordinateur: Muriel
 tags:
   - pain

@@ -6,7 +6,7 @@ mail: elie.sloim@gmail.com
 osm: 2939345923
 description: >
     Coordinateur du contrat vin
-illustration: ./media/archiviste.png
+illustration: archiviste.png
 contrats:
     - vin
 ---

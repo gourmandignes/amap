@@ -6,7 +6,7 @@ mail: sonia@free.fr
 osm: 2939725923
 description: >
     Coordinatrice du contrat Miel
-illustration: ./media/isabelle.jpg
+illustration: isabelle.jpg
 contrats:
     - miel
 ---

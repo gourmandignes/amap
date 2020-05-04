@@ -6,8 +6,8 @@ adresse : Floirac
 osm: 89252170397052
 description: >
   Producteur d'endives et de champignons 
-engagement: ./media/contrat-champignons.pdf
-illustration: ./media/contrat-champignons.jpg
+engagement: contrat-champignons.pdf
+illustration: contrat-champignons.jpg
 commande: https://cagette.gourmandignes.org/contract/view/80
 coordinateur: 
   - Sonia

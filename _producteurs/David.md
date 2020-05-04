@@ -8,7 +8,7 @@ description: >
 
 commande: https://cagette.gourmandignes.org/contract/view/22
 site: http://www/lapeyronne.fr
-illustration : ./media/vignette/DavidViande.jpg
+illustration : DavidViande.jpg
 coordinateur: Celine
 tags:
   - viande

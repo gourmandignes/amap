@@ -8,7 +8,7 @@ description: >
   Fourniture de pommes, de poires et de noix sur un verger naturel
 durée: de septembre à janvier
 engagement: ./media/contrat-pommes.pdf
-illustration: ./media/pommes.jpg
+illustration: pommes.jpg
 commande: https://cagette.gourmandignes.org/contract/view/72
 coordinateur: Pascal
 produits:

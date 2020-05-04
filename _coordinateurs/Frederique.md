@@ -6,7 +6,7 @@ mail: frederique@free.fr
 osm: 2939725923
 description: >
     Co-Coordinatrice du contrat Tisanes et légumes
-illustration: ./media/archiviste.png
+illustration: archiviste.png
 contrats : 
     - tisane
     - legumes

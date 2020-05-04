@@ -6,7 +6,7 @@ description: >
   Nicolas Hebert en plus de fabriquer ses délicieuses bières artisanales, cultive son propre orge sur 8 hectares de terre, c'est ce qui fait aujourd'hui l'originalité de la Brasserie Saint-Léon à Creon.
 commande: https://cagette.gourmandignes.org/contract/view/16
 site: https://brasserie-saintleon.fr
-illustration: ./media/vignette/nicolasBiere.jpg
+illustration: nicolasBiere.jpg
 coordinateur: sonia
 tags:
   - boisson

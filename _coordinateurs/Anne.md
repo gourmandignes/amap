@@ -6,7 +6,7 @@ mail: anne.girod@wanadoo.fr
 osm: 2939725923
 description: >
     Coordinatrice du contrat agneau
-illustration: ./media/archiviste.png
+illustration: archiviste.png
 contrats : 
     - agneau
     - legumes

@@ -6,7 +6,7 @@ mail: keronos@free.fr
 osm: 2939725923
 description: >
     Coordinateur du contrat Pommes
-illustration: ./media/pascal.jpg
+illustration: pascal.jpg
 contrats:
     - pommes
     - porc

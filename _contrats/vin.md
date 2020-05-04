@@ -8,7 +8,7 @@ description: >
   Famille de viticulteurs à Tabenac produisant des vins et du jus de raison bio.
 engagement: ./media/contrat-vin.pdf
 commande: https://cagette.gourmandignes.org/contract/view/17
-illustration: ./media/vin.jpg
+illustration: vin.jpg
 site: https://chateaubessan.fr/
 coordinateur: Elie
 produits:

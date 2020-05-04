@@ -6,7 +6,7 @@ description: >
   etc...)
 commande: https://cagette.gourmandignes.org/contract/view/29
 site: http://jardin-gourmand.fr
-illustration: ./media/vignette/aurelie.jpg
+illustration: aurelie.jpg
 coordinateur: 
   - Pascal
   - Florence

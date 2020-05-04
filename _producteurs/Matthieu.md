@@ -9,7 +9,7 @@ description: >
 
 commande: https://cagette.gourmandignes.org/contract/view/17
 site: https://www.bessan.fr
-illustration: ./media/vignette/matthieuVin.jpg
+illustration: matthieuVin.jpg
 coordinateur: elie
 tags:
   - boisson

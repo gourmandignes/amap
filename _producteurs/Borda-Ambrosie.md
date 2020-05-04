@@ -6,7 +6,7 @@ description: >
   La Bôrda d'Ambrôsi est une petite exploitation familiale prés de Langon avec environ 400 ruches. Nicolas Bouguet, sa femme Stéphanie et leur associé Guillaume gérent la production. Ils souhaitent pratiquer une apiculture la plus respectueuse possible de l'abeille, favorisant également un volume et une diversité de production suffisant pour la pérennisation de l'exploitation (acacia, toutes fleurs, châtaigner, bourdaine, tilleul, etc...)
 commande: https://cagette.gourmandignes.org/contract/view/29
 site: http://laborda-ambrosie.fr
-illustration: ./media/nicolasBouguet.jpeg
+illustration: nicolasBouguet.jpeg
 coordinateur: 
   - Isabelle
   - Nicole

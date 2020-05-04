@@ -9,7 +9,7 @@ description: >
 durée: de janvier à décembre
 engagement: ./media/contrat-pain.pdf
 commande: https://cagette.gourmandignes.org/contract/view/78
-illustration: ./media/pain.jpg
+illustration: pain.jpg
 coordinateur: Muriel
 produits:
   - pain-normal-500g

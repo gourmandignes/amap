@@ -8,7 +8,7 @@ description: >
   Fourniture de produits à base de plantes
 duree: de janvier à decembre
 engagement: ./media/contrat-tisanes.pdf
-illustration: ./media/tisanes.jpg
+illustration: tisanes.jpg
 commande: https://cagette.gourmandignes.org/contract/view/68
 site: https://www.lafermeauxfleurs.fr
 coordinateur: 

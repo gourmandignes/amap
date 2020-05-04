@@ -9,7 +9,7 @@ description: >
   Joël y exploite 4 hectares de terres argileuses propices à la production de légumes bio de saison
 durée: de janvier à décembre
 engagement: ./media/contrat-legumes.pdf
-illustration: ./media/contrat-legumes.png
+illustration: contrat-legumes.png
 commande: voir coordinateur
 coordinateur: 
   - Frederique

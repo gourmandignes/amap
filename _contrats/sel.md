@@ -9,7 +9,7 @@ description: >
 
 engagement: ./media/contrat_sel.pdf
 site: https://www.eloi-keller.fr
-illustration: ./media/sel.png
+illustration: sel.png
 commande: https://cagette.gourmandignes.org/contract/view/15
 coordinateur: Magalie
 produits:

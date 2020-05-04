@@ -6,7 +6,7 @@ description: >
   Productrice de savons et de produits d'entretien pour le corprs ou la maison
 commande: https://cagette.gourmandignes.org/contract/view/6
 site: http://caravanesaveur.fr
-illustration : ./media/vignette/florence.jpg
+illustration : florence.jpg
 coordinateur: Romain
 tags:
   - maison

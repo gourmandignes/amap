@@ -7,7 +7,7 @@ description: >
 
 commande: https://cagette.gourmandignes.org/contract/view/64
 site: http://www.jarouilles.fr/
-illustration: ./media/vignette/jarouilles.jpg 
+illustration: jarouilles.jpg 
 coordinateur: 
   - Dana
   - Noellie

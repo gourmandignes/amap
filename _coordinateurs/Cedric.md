@@ -6,7 +6,7 @@ mail: credic.gautier@gmail.com
 osm: 29397259334
 description: >
     Coordinateur du contrat Volaille
-illustration: ./media/archiviste.png
+illustration: archiviste.png
 contrats:
     - volaille
 ---

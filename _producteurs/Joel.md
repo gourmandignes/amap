@@ -7,7 +7,7 @@ description: >
   Ils a fait le choix de ne travailler qu'en AMAP. Ils sème en fonction du nombre de familles à nourrir en légumes et divise les récoltes en parts de production égales. Presque toute sa production est sous serre.
   Il nous porpose aussi parfois de la viande de porc.
 commande: https://cagette.gourmandignes.org/contract/view/65
-illustration : ./media/vignette/joel.jpg
+illustration : joel.jpg
 coordinateur: 
    - Celine
    - Frederique

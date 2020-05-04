@@ -22,7 +22,7 @@ produits:
   - grenades
 tags:
   - agrumes
-illustration: ./media/agrumes.png
+illustration: agrumes.png
 ---
 
 Coopérative Saborita
