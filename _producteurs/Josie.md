@@ -14,7 +14,7 @@ tags:
   - tisanes
   - plantes
 contrats: 
-  - tisane
+  - tisanes
   - plants
 ---
 

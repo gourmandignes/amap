@@ -1,12 +1,14 @@
 ---
-nom: Nicolas Bouguet
-adresse: Langon
-osm: 2345676311
+nom: GAEC la Bòrda d’Ambròsi
+adresse: Sillas, lieu dit Moulin Neuf
+osm: way/442273773
 description: >
-  La Bôrda d'Ambrôsi est une petite exploitation familiale prés de Langon avec environ 400 ruches. Nicolas Bouguet, sa femme Stéphanie et leur associé Guillaume gérent la production. Ils souhaitent pratiquer une apiculture la plus respectueuse possible de l'abeille, favorisant également un volume et une diversité de production suffisant pour la pérennisation de l'exploitation (acacia, toutes fleurs, châtaigner, bourdaine, tilleul, etc...)
+  La ferme apicole la Bòrda d'Ambròsi est un GAEC (Groupement Agricole d'Exploitation en Commun) situé à Sillas, dans le sud-Gironde, au croisement des coteaux du haut entre-deux-mers et de la forêt landaise.
+  Nous conduisons autour de 500 ruches de production et des centaines de ruchettes de renouvellement, dans le respect des principes de l'apiculture biologique.
+
 commande: https://cagette.gourmandignes.org/contract/view/29
-site: http://laborda-ambrosie.fr
-illustration: nicolasBouguet.jpeg
+site: http://www.borda-ambrosi.fr
+illustration: borda-ambrosie.jpg
 coordinateur: 
   - Isabelle
   - Nicole
@@ -17,6 +19,11 @@ contrats:
   - miel
 ---
 
-Ils proposent aussi du pollen frais, de la gelée royale et de l'extrait de propolis ainsi que des produits cosmétiques (stick à lévres, baumes).
+La synergie entre des colonies d'abeilles préservées et cette diversité de terroirs au cœur de la Gironde, des Landes de Gascogne et des Pyrénées, nous permet de produire **jusqu'à une dizaine de miels bios de crus fermiers** tels que les miels d'acacia, les miels de bourdaine, les miels de tilleul et de rhododendron de montagne, les miels de châtaignier, les miels de bruyère cendrée et de bruyère callune,...
+Nous récoltons également du pollen et de la propolis biologiques pour leurs grands bienfaits pour la santé humaine.
 
-Le contrat est d'un an et les livraisons tous les 2 mois. L'engagement minimum : un pot par livraison. La commande se fait au cours du mois précédent.
+**Nous souhaitons pratiquer une apiculture la plus respectueuse possible de l'abeille, de ses équilibres et de ses cycles de développement naturels**, favorisant également un volume et une diversité de productions suffisant pour la pérennisation de l'exploitation.
+
+S'il est parfois difficile de concilier ces deux intentions dans l'absolu, des choix raisonnés de conduite du cheptel doivent permettre de s'approcher d'une exploitation relativement acceptable et durable.
+
+Mais entre sédentarisation de certains ruchers, adhésion aux cahiers des charges de l'agriculture biologique et exploitation extensive des colonies, les techniques s'avèrent bien souvent beaucoup plus incertaines.

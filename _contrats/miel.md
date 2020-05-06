@@ -1,19 +1,17 @@
 ---
 nom: Produits apicoles
 type: contrat variable
-producteur: Nicolas-Bouguet
+producteur: Borda-Ambrosie
 adresse : La Borda
-osm: 89252170397052
+osm: way/442273773
 description: >
-  Apiculteurs installés dans la région de Langon, Nicolas et Guillaume produisent du miel et des produits dérivés des ruches en agriculture biologique
-site: https://www.laborda-ambrosie.fr
+  Apiculteurs installés à Sillas dans la région de Langon, Nicolas et Guillaume produisent du miel et des produits dérivés des ruches en agriculture biologique.
+site: http://www.borda-ambrosi.fr
 commande: https://cagette.gourmandignes.org/contract/view/29
 illustration: miel.jpg
 coordinateur: Isabelle
 produits:
-    - propolis
     - miel-bruyere-cendree
-    - gelee-royale 
     - miel-acacia
     - miel-bourdaine 
     - miel-chataignier
@@ -21,11 +19,15 @@ produits:
     - miel-chataignier
     - miel-rhododendron
     - miel-fleur-ete
+    - propolis
     - pollen-frais
-    - pollen-seche 
+    - pollen-seche
+    - gelee-royale
 
 tags:
   - miel
 ---
 
-Nicolas et Guillaume
+Le contrat est d'un an et les livraisons tous les 2 mois. 
+
+L'engagement minimum : un pot par livraison. La commande se fait au cours du mois précédent.

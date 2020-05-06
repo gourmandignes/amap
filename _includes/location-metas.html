@@ -22,16 +22,6 @@
         producteur.rice : 
             <li><a href="/producteurs/{{ page.producteur }}">{{ page.producteur }}</a></li>
     {% endif %}
-
-        {% if  page.produits %}
-        <li>produits : 
-            <ul>
-                {% for produit in page.produits %}
-            <li><a href="/produits/{{ produit }}">{{ produit }}</a></li>
-            {% endfor %}
-            </ul>
-        </li>
-        {% endif %}
     
         {% if  page.contrats %}
             <ul>contrat(s) : 
@@ -57,7 +47,7 @@
         {% if page.adresse %}
             <li>Adresse : 
             {% if page.osm %}
-                <a href="https://www.openstreetmap.org/node/{{ page.osm }}">
+                <a href="https://www.openstreetmap.org/{{ page.osm }}">
             {% endif %}
                 {{ page.adresse }}</a>
                 </li>
@@ -77,5 +67,15 @@
         {% if  page.commande %}
             <li>Commande : <a href="{{ page.commande }}">{{ page.commande }}</a></li> 
         {% endif %}
-</ul>
+        {% if  page.produits %}
+        <li>produits : 
+            <ul>
+                {% for produit in page.produits %}
+            <li><a href="/produits/{{ produit }}">{{ produit }}</a></li>
+            {% endfor %}
+            </ul>
+        </li>
+        {% endif %}
+    
+    </ul>
 </div>
