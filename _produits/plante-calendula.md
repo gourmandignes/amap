@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-calendula.jpg
+illustration: plante-calendula.jpg
 ---
 

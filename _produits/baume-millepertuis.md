@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-millepertuis.jpg
+illustration: baume-millepertuis.jpg
 ---
 

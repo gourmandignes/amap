@@ -8,6 +8,6 @@ contrats: biere
 tags: 
   - boisson
   - bière
-illustration: ./media/biere-malt-carton.jpg
+illustration: biere-malt-carton.jpg
 ---
 

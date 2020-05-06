@@ -11,5 +11,5 @@ tags:
   - viande
   - volaille
 contrats: volaille
-illustration: ./media/poulet.jpg   
+illustration: poulet.jpg   
 ---

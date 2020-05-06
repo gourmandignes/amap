@@ -5,7 +5,7 @@ description: >
   Caissette de Pamplemousse / pomelos fournie par la coopérative saborita.
 prix:   24,70 €
 contrats: agrumes
-illustration: ./media/pomelos.jpg
+illustration: pomelos.jpg
 tags: 
   - fruit
 ---

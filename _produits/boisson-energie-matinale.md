@@ -8,7 +8,7 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/boisson-energie-matinale.jpg
+illustration: boisson-energie-matinale.jpg
 ---
 
 Synergie d’eaux florales à prendre en interne à raison d’1 à 3 CàS/jour diluées dans un verre d’eau, Bouteille en verre teinté

@@ -6,7 +6,7 @@ adresse : Chemin des Jarouilles 36, Les Landes 33230 COUTRAS
 osm: 89252170397052
 description: >
   Eléveur de vache et de veau pour la production de viande
-engagement: ./media/contrat-boeuf-veau.pdf
+engagement: contrat-boeuf-veau.pdf
 illustration: boeuf-veau.jpg
 coordinateur: Celine
 produits:

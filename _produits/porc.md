@@ -9,5 +9,5 @@ tags:
   - viande
   - porc
 contrats: porc
-illustration: ./media/porc.jpg   
+illustration: porc.jpg   
 ---

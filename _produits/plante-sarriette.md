@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-sarriette.jpg
+illustration: plante-sarriette.jpg
 ---
 

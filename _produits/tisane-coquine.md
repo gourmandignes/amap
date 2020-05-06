@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-coquine.jpg
+illustration: tisane-coquine.jpg
 ---
 

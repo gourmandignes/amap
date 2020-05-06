@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-noisetier.jpg
+illustration: hydrolat-noisetier.jpg
 ---
 

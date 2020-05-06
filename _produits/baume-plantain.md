@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-plantain.jpg
+illustration: baume-plantain.jpg
 ---
 

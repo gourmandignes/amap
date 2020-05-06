@@ -6,7 +6,7 @@ adresse : Tabenac
 osm: 89252170397052
 description: >
   Famille de viticulteurs à Tabenac produisant des vins et du jus de raison bio.
-engagement: ./media/contrat-vin.pdf
+engagement: contrat-vin.pdf
 commande: https://cagette.gourmandignes.org/contract/view/17
 illustration: vin.jpg
 site: https://chateaubessan.fr/

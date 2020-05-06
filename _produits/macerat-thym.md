@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/macerat-thym.jpg
+illustration: macerat-thym.jpg
 ---
 

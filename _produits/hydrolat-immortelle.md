@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-immortelle.jpg
+#illustration: hydrolat-immortelle.jpg
 ---
 

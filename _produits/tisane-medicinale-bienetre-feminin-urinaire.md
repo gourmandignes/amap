@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-bienetre-feminin-urinaire.jpg
+illustration: tisane-medicinale-bienetre-feminin-urinaire.jpg
 ---
 

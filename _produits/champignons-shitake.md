@@ -8,5 +8,5 @@ contrats:
   - champignons
 tags: 
   - champignons
-illustration: ./media/champignon-shitake.jpg
+illustration: champignon-shitake.jpg
 ---

@@ -8,6 +8,6 @@ contrats:
   - miel
 tags: 
   - miel
-illustration: ./media/pollen-frais.jpg
+illustration: pollen-frais.jpg
 
 ---

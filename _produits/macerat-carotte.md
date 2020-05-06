@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/macerat-carotte.jpg
+illustration: macerat-carotte.jpg
 ---
 

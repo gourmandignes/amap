@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-maux-gorge.jpg
+illustration: tisane-medicinale-maux-gorge.jpg
 ---
 

@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/macerat-romarin.jpg
+illustration: macerat-romarin.jpg
 ---
 

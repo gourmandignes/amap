@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-digestive.jpg
+illustration: tisane-digestive.jpg
 ---
 

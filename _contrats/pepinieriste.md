@@ -6,7 +6,7 @@ adresse : Gujan-Mestras
 osm: 89252170397052
 description: >
   Production de plants de fleurs et de légumes bio issus de semences vivantes
-engagement: ./media/contrat-pepinieriste.pdf
+engagement: contrat-pepinieriste.pdf
 illustration: pepinieriste.jpg
 commande: https://cagette.gourmandignes.org/contract/view/69
 coordinateur: Pascal

@@ -10,4 +10,4 @@ tags:
   - crème fraîche
 ---
 
-![photo du lait](./media/creme.jpg)
+![photo du lait](creme.jpg)

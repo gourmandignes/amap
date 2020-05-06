@@ -10,4 +10,4 @@ tags:
   - lait
 ---
 
-![photo du lait](./media/lait.jpg)
+![photo du lait](lait.jpg)

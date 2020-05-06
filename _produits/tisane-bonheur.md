@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-bonheur.jpg
+illustration: tisane-bonheur.jpg
 ---
 

@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-thym.jpg
+illustration: plante-thym.jpg
 ---
 

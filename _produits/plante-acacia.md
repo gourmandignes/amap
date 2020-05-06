@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-acacia.jpg
+illustration: plante-acacia.jpg
 ---
 

@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/macerat-lavandin.jpg
+illustration: macerat-lavandin.jpg
 ---
 

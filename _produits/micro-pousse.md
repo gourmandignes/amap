@@ -9,5 +9,5 @@ contrats:
 tags: 
   - légumes
   - graines
-illustration: ./media/micro-pousse.jpg
+illustration: micro-pousse.jpg
 ---

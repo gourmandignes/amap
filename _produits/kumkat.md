@@ -5,7 +5,7 @@ description: >
   Sachet de kumkat bio fourni par la coopérative saborita
 prix:   11,70 €
 contrats: agrumes
-illustration: ./media/kumkat.jpg
+illustration: kumkat.jpg
 tags: 
   - fruit
 ---

@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-contre-courante.jpg
+illustration: tisane-medicinale-contre-courante.jpg
 ---
 

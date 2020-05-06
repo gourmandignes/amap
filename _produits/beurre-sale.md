@@ -10,4 +10,4 @@ tags:
   - beurre
 ---
 
-![photo du lait](./media/beurre.jpg)
+![photo du lait](beurre.jpg)

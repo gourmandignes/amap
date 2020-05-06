@@ -8,5 +8,5 @@ contrats: confiture
 tags: 
   - confiture
   - légumes
-illustration: ./media/confiture-butternut-cannele.jpg
+illustration: confiture-butternut-cannele.jpg
 ---

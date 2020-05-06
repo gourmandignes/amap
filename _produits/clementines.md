@@ -5,7 +5,7 @@ description: >
   Caissette de clémentines fournie par la coopérative saborita.
 prix:   22,80 €
 contrats: agrumes
-illustration: ./media/clementines.jpg
+illustration: clementines.jpg
 tags: 
   - fruit
 ---

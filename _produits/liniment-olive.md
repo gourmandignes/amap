@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/liniment-olive.jpg
+illustration: liniment-olive.jpg
 ---
 

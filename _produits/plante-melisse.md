@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-melisse.jpg
+illustration: plante-melisse.jpg
 ---
 

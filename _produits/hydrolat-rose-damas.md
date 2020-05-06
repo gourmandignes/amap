@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-rose-damas.jpg
+illustration: hydrolat-rose-damas.jpg
 ---
 

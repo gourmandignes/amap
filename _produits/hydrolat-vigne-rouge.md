@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-vigne-rouge.jpg
+illustration: hydrolat-vigne-rouge.jpg
 ---
 

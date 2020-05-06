@@ -8,5 +8,5 @@ contrats:
   - champignons
 tags: 
   - champignons
-illustration: ./media/champignon-paris.jpg
+illustration: champignon-paris.jpg
 ---

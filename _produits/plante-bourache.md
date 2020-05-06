@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-bourache.jpg
+illustration: plante-bourache.jpg
 ---
 

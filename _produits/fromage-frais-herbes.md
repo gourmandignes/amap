@@ -10,4 +10,4 @@ tags:
   - fromage
 ---
 
-![photo du yahourt](./media/fromage-frais.jpg)
+![photo du yahourt](fromage-frais.jpg)

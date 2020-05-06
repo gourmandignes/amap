@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-voie-lactee.jpg
+illustration: tisane-medicinale-voie-lactee.jpg
 ---
 

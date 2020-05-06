@@ -7,6 +7,6 @@ producteur: Florence
 contrats: produits-entretien
 tags: 
   - savons
-illustration: ./media/savon-douche.jpg
+illustration: savon-douche.jpg
 ---
 

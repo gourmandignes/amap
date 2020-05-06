@@ -8,6 +8,6 @@ contrats: biere
 tags: 
   - boisson
   - limonade
-illustration: ./media/limonade-rhubarbe.jpg
+illustration: limonade-rhubarbe.jpg
 ---
 

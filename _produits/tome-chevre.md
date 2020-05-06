@@ -8,5 +8,5 @@ contrats: produit-maitiers
 tags: 
   - produit laitier
   - fromage
-illustration: ./media/tome-chevre.jpg  
+illustration: tome-chevre.jpg  
 ---

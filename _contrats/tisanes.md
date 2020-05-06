@@ -7,7 +7,7 @@ osm: 89252
 description: >
   Fourniture de produits à base de plantes
 duree: de janvier à decembre
-engagement: ./media/contrat-tisanes.pdf
+engagement: contrat-tisanes.pdf
 illustration: tisanes.jpg
 commande: https://cagette.gourmandignes.org/contract/view/68
 site: https://www.lafermeauxfleurs.fr
@@ -95,18 +95,18 @@ produits:
     - lotion-peaux-mature
     - lotion-visage
     - lotion-antibacterienne
-    - macerat-huileux-calendula
-    - macerat-huileux-carotte
-    - macerat-huileux-citronnelle
-    - macerat-huileux-geranium
-    - macerat-huileux-immortelle
-    - macerat-huileux-lavandin
-    - macerat-huileux-menthe-poivree
-    - macerat-huileux-millepertuis
-    - macerat-huileux-plantain
-    - macerat-huileux-romarin
-    - macerat-huileux-rose-damas
-    - macerat-huileux-thym
+    - macerat-calendula
+    - macerat-carotte
+    - macerat-citronnelle
+    - macerat-geranium
+    - macerat-immortelle
+    - macerat-lavandin
+    - macerat-menthe-poivree
+    - macerat-millepertuis
+    - macerat-plantain
+    - macerat-romarin
+    - macerat-rose-damas
+    - macerat-thym
     - plante-acacia
     - plante-aubepine
     - plante-bourrache

@@ -8,5 +8,5 @@ contrats:
   - legumes
 tags: 
   - légumes
-illustration: ./media/part-production-quinzo.jpg
+illustration: part-production-quinzo.jpg
 ---

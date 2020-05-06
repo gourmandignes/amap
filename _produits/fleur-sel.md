@@ -7,6 +7,6 @@ producteur: Eloi-Keller
 contrats: sel
 tags: 
   - confiture
-#illustration : ./media/caramel.jpg
+#illustration : caramel.jpg
 ---
 

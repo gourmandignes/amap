@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-verveine.jpg
+illustration: plante-verveine.jpg
 ---
 

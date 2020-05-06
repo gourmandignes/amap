@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/macerat-citronelle.jpg
+illustration: macerat-citronelle.jpg
 ---
 

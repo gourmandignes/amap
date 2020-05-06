@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-nuit-tranquille.jpg
+illustration: tisane-nuit-tranquille.jpg
 ---
 

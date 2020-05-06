@@ -8,5 +8,5 @@ contrats: confiture
 tags: 
   - confiture
   - légumes
-illustration: ./media/confiture-tomate-vanille.jpg
+illustration: confiture-tomate-vanille.jpg
 ---

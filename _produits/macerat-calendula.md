@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/macerat-calendula.jpg
+illustration: macerat-calendula.jpg
 ---
 

@@ -7,7 +7,7 @@ osm: 89252
 description: >
   Viande d'agneau fournie par Thérèze.
 durée: de janvier à décembre
-engagement: ./media/contrat-agneau.pdf
+engagement: contrat-agneau.pdf
 site: https://cagette.gourmandignes.org
 commande: https://cagette.gourmandignes.org/contract/view/76
 coordinateur: Anne

@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-thym.jpg
+illustration: baume-thym.jpg
 ---
 

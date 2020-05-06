@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-voie-respiratoire.jpg
+illustration: tisane-medicinale-voie-respiratoire.jpg
 ---
 

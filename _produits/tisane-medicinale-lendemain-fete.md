@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-lendemain-fete.jpg
+illustration: tisane-medicinale-lendemain-fete.jpg
 ---
 

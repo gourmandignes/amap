@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-resistance-hivernale.jpg
+illustration: tisane-medicinale-resistance-hivernale.jpg
 ---
 

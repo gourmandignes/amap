@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-lavandin.jpg
+illustration: plante-lavandin.jpg
 ---
 

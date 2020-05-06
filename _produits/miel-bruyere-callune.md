@@ -8,6 +8,6 @@ contrats:
   - miel
 tags: 
   - miel
-illustration: ./media/miel-bruyere-callune.jpg
+illustration: miel-bruyere-callune.jpg
 
 ---

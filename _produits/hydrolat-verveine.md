@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-verveine.jpg
+illustration: hydrolat-verveine.jpg
 ---
 

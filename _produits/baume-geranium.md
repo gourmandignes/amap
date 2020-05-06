@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-geranium.jpg
+illustration: baume-geranium.jpg
 ---
 

@@ -6,7 +6,7 @@ adresse : Laruscade
 osm: 89252170397052
 description: >
   Production d'oeufs en agriculture biologique
-engagement: ./media/contrat-oeufs.pdf
+engagement: contrat-oeufs.pdf
 illustration: oeufs.jpg
 site: https://lafermedelaruscade.fr
 commande: https://cagette.gourmandignes.org/contract/view/53

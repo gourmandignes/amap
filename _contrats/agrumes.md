@@ -6,7 +6,7 @@ adresse : Valencia
 osm: 89252170397052
 description: >
   Producteur d'agrumes
-engagement: ./media/contrat_agrumes.pdf
+engagement: contrat_agrumes.pdf
 commande: https://cagette.gourmandignes.org/contract/view/50
 coordinateur: Michel
 produits:

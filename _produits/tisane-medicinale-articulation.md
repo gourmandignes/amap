@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-articulation.jpg
+illustration: tisane-medicinale-articulation.jpg
 ---
 

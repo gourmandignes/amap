@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-ortie.jpg
+illustration: hydrolat-ortie.jpg
 ---
 

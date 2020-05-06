@@ -9,6 +9,6 @@ contrats:
 tags: 
   - boisson
   - bière
-illustration: ./media/biere-armagnac.jpg
+illustration: biere-armagnac.jpg
 ---
 

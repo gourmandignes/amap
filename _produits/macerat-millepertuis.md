@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/macerat-millepertuis.jpg
+illustration: macerat-millepertuis.jpg
 ---
 

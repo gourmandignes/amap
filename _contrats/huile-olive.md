@@ -6,7 +6,7 @@ adresse : Valencia
 osm: 89252170397052
 description: >
   Producteur d'huile d'olive
-engagement: ./media/contrat_huile.pdf
+engagement: contrat_huile.pdf
 commande: https://cagette.gourmandignes.org/contract/view/61
 illustration: huile-olive.png
 coordinateur: pascal

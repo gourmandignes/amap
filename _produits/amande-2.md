@@ -9,5 +9,5 @@ contrats:
 tags: 
   - fruit
   - fruit sec
-illustration: ./media/amandes.jpg
+illustration: amandes.jpg
 ---

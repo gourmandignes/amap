@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-aubepine.jpg
+illustration: plante-aubepine.jpg
 ---
 

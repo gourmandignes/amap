@@ -8,5 +8,5 @@ contrats:
   - champignons
 tags: 
   - champignons
-illustration: ./media/champignon-pleurotte.jpg
+illustration: champignon-pleurotte.jpg
 ---

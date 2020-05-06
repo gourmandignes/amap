@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-camomille-romaine.jpg
+illustration: hydrolat-camomille-romaine.jpg
 ---
 

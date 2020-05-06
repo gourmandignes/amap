@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-reine-des-pres.jpg
+illustration: hydrolat-reine-des-pres.jpg
 ---
 

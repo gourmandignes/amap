@@ -8,5 +8,5 @@ contrats:
   - champignons
 tags: 
   - endives
-illustration: ./media/endives.jpg
+illustration: endives.jpg
 ---

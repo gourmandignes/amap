@@ -7,6 +7,6 @@ producteur: Josie
 contrats: tisanes
 tags: 
   - produits ménagers
-illustration: ./media/desodorisant-menager-fleurie.jpg
+illustration: desodorisant-menager-fleurie.jpg
 ---
 

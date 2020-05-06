@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-pin-sylvestre.jpg
+illustration: hydrolat-pin-sylvestre.jpg
 ---
 

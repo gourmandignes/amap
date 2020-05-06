@@ -5,7 +5,7 @@ description: >
   Caissette d'oranges bio fourni par la coopérative saborita
 prix:   19 €
 contrats: agrumes
-illustration: ./media/oranges.jpg
+illustration: oranges.jpg
 tags: 
   - fruit
 ---

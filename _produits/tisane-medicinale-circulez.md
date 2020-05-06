@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-circulez.jpg
+illustration: tisane-medicinale-circulez.jpg
 ---
 

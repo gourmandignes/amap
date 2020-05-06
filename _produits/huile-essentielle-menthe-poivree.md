@@ -8,5 +8,5 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/huile-essentielle-menthe-poivree.jpg
+illustration: huile-essentielle-menthe-poivree.jpg
 ---

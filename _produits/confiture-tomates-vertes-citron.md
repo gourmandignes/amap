@@ -8,5 +8,5 @@ contrats: confiture
 tags: 
   - confiture
   - légumes
-illustration: ./media/confiture-tomate-citron.jpg
+illustration: confiture-tomate-citron.jpg
 ---

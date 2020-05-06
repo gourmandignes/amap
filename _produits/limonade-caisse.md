@@ -8,6 +8,6 @@ contrats: biere
 tags: 
   - boisson
   - limonade
-illustration: ./media/limonade-caisse.jpg
+illustration: limonade-caisse.jpg
 ---
 

@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/macerat-menthe-poivree.jpg
+illustration: macerat-menthe-poivree.jpg
 ---
 

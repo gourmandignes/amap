@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-romarin.jpg
+illustration: plante-romarin.jpg
 ---
 

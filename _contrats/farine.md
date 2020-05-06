@@ -6,7 +6,7 @@ adresse : Coutras
 osm: 89252170397052
 description: >
   Production de farine T80 issue de l'agriculture biologique
-engagement: ./media/contrat-farine.pdf
+engagement: contrat-farine.pdf
 illustration: farine.jpg
 commande: https://cagette.gourmandignes.org/contract/view/79
 coordinateur: Muriel

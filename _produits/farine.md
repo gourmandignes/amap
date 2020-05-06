@@ -7,6 +7,6 @@ producteur: Icare
 contrats: farine
 tags: 
   - farine
-illustration: ./media/farine.jpg
+illustration: farine.jpg
 ---
 

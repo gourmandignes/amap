@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-lavandin.jpg
+illustration: baume-lavandin.jpg
 ---
 

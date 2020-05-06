@@ -8,6 +8,6 @@ contrats:
   - miel
 tags: 
   - miel
-illustration: ./media/gelee-royale.jpg
+illustration: gelee-royale.jpg
 
 ---

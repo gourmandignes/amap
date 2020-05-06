@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/macerat-immortelle.jpg
+illustration: macerat-immortelle.jpg
 ---
 

@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-plaisir-fleuri.jpg
+illustration: tisane-plaisir-fleuri.jpg
 ---
 

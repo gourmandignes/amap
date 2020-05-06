@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-sauge.jpg
+illustration: plante-sauge.jpg
 ---
 

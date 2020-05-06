@@ -7,7 +7,7 @@ osm: 89252
 description: >
   Viande de porc fournie par Joël.
 durée: de janvier à décembre
-engagement: ./media/contrat-porc.pdf
+engagement: contrat-porc.pdf
 illustration: porc.jpg
 commande: https://cagette.gourmandignes.org/contract/view/51
 coordinateur: Pascal

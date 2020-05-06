@@ -8,5 +8,5 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/huile-essentielle-lavandin.jpg
+illustration: huile-essentielle-lavandin.jpg
 ---

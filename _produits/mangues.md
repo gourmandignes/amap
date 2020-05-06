@@ -5,7 +5,7 @@ description: >
   Caissette de mangues fournie par la coopérative saborita.
 prix:   48,45 €
 contrats: agrumes
-illustration: ./media/mangues.jpg
+illustration: mangues.jpg
 tags: 
   - fruit
 ---

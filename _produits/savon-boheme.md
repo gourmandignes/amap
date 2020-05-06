@@ -7,6 +7,6 @@ producteur: Florence
 contrats: produits-entretien
 tags: 
   - produits d'entretien
-illustration: ./media/savon-boheme.jpg
+illustration: savon-boheme.jpg
 ---
 

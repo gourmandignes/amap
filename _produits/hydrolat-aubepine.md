@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-aubepine.jpg
+illustration: hydrolat-aubepine.jpg
 ---
 

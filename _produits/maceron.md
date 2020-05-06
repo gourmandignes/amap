@@ -7,6 +7,6 @@ producteur: Eloi-Keller
 contrats: sel
 tags: 
   - poivre
-#illustration : ./media/moutarde.jpg
+#illustration : moutarde.jpg
 ---
 

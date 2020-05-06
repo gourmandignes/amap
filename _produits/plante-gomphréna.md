@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-gomphrena.jpg
+illustration: plante-gomphrena.jpg
 ---
 

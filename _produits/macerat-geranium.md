@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/macerat-geranium.jpg
+illustration: macerat-geranium.jpg
 ---
 

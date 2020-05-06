@@ -8,5 +8,5 @@ contrats:
   - legumes
 tags: 
   - légumes
-illustration: ./media/petite-part-production-hebdo.jpg
+illustration: petite-part-production-hebdo.jpg
 ---

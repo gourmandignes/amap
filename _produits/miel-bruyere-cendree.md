@@ -8,6 +8,6 @@ contrats:
   - miel
 tags: 
   - miel
-illustration: ./media/miel-bruyere-cendree.jpg
+illustration: miel-bruyere-cendree.jpg
 
 ---

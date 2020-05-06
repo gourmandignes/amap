@@ -8,6 +8,6 @@ contrats: biere
 tags: 
   - boisson
   - bière
-illustration: ./media/biere-blanche.jpg
+illustration: biere-blanche.jpg
 ---
 

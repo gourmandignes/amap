@@ -10,4 +10,4 @@ tags:
   - fruit sec
 ---
 
-![photo des amandes](./media/amandes.jpg)
+![photo des amandes](amandes.jpg)

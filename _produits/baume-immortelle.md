@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-immortelle.jpg
+illustration: baume-immortelle.jpg
 ---
 

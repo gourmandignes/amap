@@ -10,4 +10,4 @@ tags:
   - yahourt
 ---
 
-![photo du yahourt](./media/yahourt.jpg)
+![photo du yahourt](yahourt.jpg)

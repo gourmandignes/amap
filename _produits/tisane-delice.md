@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-delice.jpg
+illustration: tisane-delice.jpg
 ---
 

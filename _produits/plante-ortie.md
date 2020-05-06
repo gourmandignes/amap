@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-ortie.jpg
+illustration: plante-ortie.jpg
 ---
 

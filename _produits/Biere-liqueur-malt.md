@@ -8,6 +8,6 @@ contrats: biere
 tags: 
   - boisson
   - bière
-illustration: ./media/biere-liqueur-malt.jpg
+illustration: biere-liqueur-malt.jpg
 ---
 

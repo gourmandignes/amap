@@ -8,6 +8,6 @@ contrats: produits-entretien
 tags: 
   - savons
   - produits d'entretien
-illustration: ./media/huile-visage.jpg
+illustration: huile-visage.jpg
 ---
 

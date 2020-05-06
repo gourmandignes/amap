@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-romarin.jpg
+illustration: hydrolat-romarin.jpg
 ---
 

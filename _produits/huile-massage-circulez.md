@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - huile
-illustration: ./media/huile-massage-circulez.jpg
+illustration: huile-massage-circulez.jpg
 ---
 

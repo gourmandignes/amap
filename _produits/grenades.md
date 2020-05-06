@@ -5,7 +5,7 @@ description: >
   Caissette de Grenade Mollar fournie par la coopérative saborita.
 prix:   24,70 €
 contrats: agrumes
-illustration: ./media/grenades.jpg
+illustration: grenades.jpg
 tags: 
   - fruit
 ---

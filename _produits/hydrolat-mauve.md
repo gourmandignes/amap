@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-mauve.jpg
+illustration: hydrolat-mauve.jpg
 ---
 

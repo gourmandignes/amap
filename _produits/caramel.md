@@ -7,6 +7,6 @@ producteur: Eloi-Keller
 contrats: sel
 tags: 
   - sel
-#illustration : ./media/caramel.jpg
+#illustration : caramel.jpg
 ---
 

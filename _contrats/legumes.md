@@ -8,7 +8,7 @@ description: >
   Exploitation maraîchère située entre Borg-en-Gironde et Saint-André-de-Cubzac fournissant exclusivement des amaps.
   Joël y exploite 4 hectares de terres argileuses propices à la production de légumes bio de saison
 durée: de janvier à décembre
-engagement: ./media/contrat-legumes.pdf
+engagement: contrat-legumes.pdf
 illustration: contrat-legumes.png
 commande: voir coordinateur
 coordinateur: 

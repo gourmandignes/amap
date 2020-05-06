@@ -5,7 +5,7 @@ description: >
   1 plant de tomates
 prix: 3,80 €
 contrats: pepinieriste
-illustration: ./media/tomate.jpg
+illustration: tomate.jpg
 tags: 
   - légume
 ---

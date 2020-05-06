@@ -5,7 +5,7 @@ description: >
   Caissette d'avocats bio fourni par la coopérative saborita
 prix: 4,10 €
 contrats: agrumes
-illustration: ./media/avocat.jpg
+illustration: avocat.jpg
 tags: 
   - fruit
 ---

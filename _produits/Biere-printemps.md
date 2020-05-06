@@ -8,6 +8,6 @@ contrats: biere
 tags: 
   - boisson
   - bière
-illustration: ./media/biere-printemps.jpg
+illustration: biere-printemps.jpg
 ---
 

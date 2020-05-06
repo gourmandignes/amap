@@ -7,6 +7,6 @@ producteur: Olivia
 contrats: oeufs
 tags: 
   - oeuf
-illustration: ./media/oeuf.jpg
+illustration: oeuf.jpg
 ---
 

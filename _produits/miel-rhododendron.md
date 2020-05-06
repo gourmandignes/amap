@@ -8,6 +8,6 @@ contrats:
   - miel
 tags: 
   - miel
-illustration: ./media/miel-rhododendron.jpg
+illustration: miel-rhododendron.jpg
 
 ---

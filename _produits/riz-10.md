@@ -10,4 +10,4 @@ tags:
   - épicerie
 ---
 
-![photo riz](./media/riz.jpg)
+![photo riz](riz.jpg)

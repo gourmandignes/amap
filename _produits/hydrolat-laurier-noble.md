@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-laurier-noble.jpg
+illustration: hydrolat-laurier-noble.jpg
 ---
 

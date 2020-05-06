@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-melange-carminatif.jpg
+illustration: tisane-medicinale-melange-carminatif.jpg
 ---
 

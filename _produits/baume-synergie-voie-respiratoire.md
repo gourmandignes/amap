@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-synergie-voie-respiratoire.jpg
+illustration: baume-synergie-voie-respiratoire.jpg
 ---
 

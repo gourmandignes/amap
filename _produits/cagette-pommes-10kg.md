@@ -8,7 +8,7 @@ contrats: pommes
 tags:
   - fruits
   - bio naturel
-illustration: ./media/pommes-cagette.jpg
+illustration: pommes-cagette.jpg
 ---
 
 

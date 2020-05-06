@@ -8,5 +8,5 @@ contrats: confiture
 tags: 
   - confiture
   - légumes
-illustration: ./media/confiture-betterave-gingembre.jpg
+illustration: confiture-betterave-gingembre.jpg
 ---

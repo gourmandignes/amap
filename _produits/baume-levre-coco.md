@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-levre-coco.jpg
+illustration: baume-levre-coco.jpg
 ---
 

@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-lavandin.jpg
+illustration: hydrolat-lavandin.jpg
 ---
 

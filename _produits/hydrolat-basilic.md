@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-basilic.jpg
+illustration: hydrolat-basilic.jpg
 ---
 

@@ -10,4 +10,4 @@ tags:
   - fromage
 ---
 
-![photo du yahourt](./media/tome-vache.jpg)
+![photo du yahourt](tome-vache.jpg)

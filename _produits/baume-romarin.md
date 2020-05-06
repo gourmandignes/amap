@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-romarin.jpg
+illustration: baume-romarin.jpg
 ---
 

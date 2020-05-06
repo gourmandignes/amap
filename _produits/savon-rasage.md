@@ -7,6 +7,6 @@ producteur: Florence
 contrats: produits-entretien
 tags: 
   - produits d'entretien
-illustration: ./media/savon-rasage.jpg
+illustration: savon-rasage.jpg
 ---
 

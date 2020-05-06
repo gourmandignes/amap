@@ -8,6 +8,6 @@ contrats: biere
 tags: 
   - boisson
   - bière
-illustration: ./media/biere-terra-wasconia.jpg
+illustration: biere-terra-wasconia.jpg
 ---
 

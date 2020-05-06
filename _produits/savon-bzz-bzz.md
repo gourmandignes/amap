@@ -7,6 +7,6 @@ producteur: Florence
 contrats: produits-entretien
 tags: 
   - produits d'entretien
-illustration: ./media/savon-bzz-bzz.jpg
+illustration: savon-bzz-bzz.jpg
 ---
 

@@ -8,6 +8,6 @@ contrats:
   - miel
 tags: 
   - miel
-illustration: ./media/miel-chataignier.jpg
+illustration: miel-chataignier.jpg
 
 ---

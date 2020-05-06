@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-tanaisie.jpg
+illustration: hydrolat-tanaisie.jpg
 ---
 

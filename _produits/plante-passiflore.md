@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-passiflore.jpg
+illustration: plante-passiflore.jpg
 ---
 

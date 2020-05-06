@@ -5,7 +5,7 @@ description: >
   Caissette de limes fournie par la coopérative saborita.
 prix:   33,25 €
 contrats: agrumes
-illustration: ./media/limes.jpg
+illustration: limes.jpg
 tags: 
   - fruit
 ---

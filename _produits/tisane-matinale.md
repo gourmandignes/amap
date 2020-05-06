@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-matinale.jpg
+illustration: tisane-matinale.jpg
 ---
 

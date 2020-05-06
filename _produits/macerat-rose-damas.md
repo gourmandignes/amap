@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/macerat-rose-damas.jpg
+illustration: macerat-rose-damas.jpg
 ---
 

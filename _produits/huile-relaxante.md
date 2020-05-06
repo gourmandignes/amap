@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - huile
-illustration: ./media/huile-relaxante.jpg
+illustration: huile-relaxante.jpg
 ---
 

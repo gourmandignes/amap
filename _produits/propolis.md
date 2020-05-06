@@ -8,5 +8,5 @@ contrats:
   - miel
 tags: 
   - miel
-#illustration: ./media/propolis.jpg
+#illustration: propolis.jpg
 ---

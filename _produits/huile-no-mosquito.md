@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - huile
-illustration: ./media/huile-no-mosquito.jpg
+illustration: huile-no-mosquito.jpg
 ---
 

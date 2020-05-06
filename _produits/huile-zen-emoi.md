@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - huile
-illustration: ./media/huile-zen-emoi.jpg
+illustration: huile-zen-emoi.jpg
 ---
 

@@ -10,4 +10,4 @@ tags:
   - pain
 ---
 
-![photo du pain](./media/pain-normal.jpg)
+![photo du pain](pain-normal.jpg)

@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-pensee-sauvage.jpg
+illustration: plante-pensee-sauvage.jpg
 ---
 

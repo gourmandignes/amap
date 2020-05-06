@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-calendula.jpg
+illustration: baume-calendula.jpg
 ---
 

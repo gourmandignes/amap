@@ -10,4 +10,4 @@ tags:
   - cosmétique
 ---
 
-![photo de l'aloé véra](./media/aloe-vera.jpg)
+![photo de l'aloé véra](aloe-vera.jpg)

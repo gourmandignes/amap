@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-minceur.jpg
+illustration: tisane-medicinale-minceur.jpg
 ---
 

@@ -8,6 +8,6 @@ contrats:
   - miel
 tags: 
   - miel
-illustration: ./media/miel-fleur-ete.jpg
+illustration: miel-fleur-ete.jpg
 
 ---

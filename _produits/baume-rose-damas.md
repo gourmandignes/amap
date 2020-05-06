@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-rose-damas.jpg
+illustration: baume-rose-damas.jpg
 ---
 

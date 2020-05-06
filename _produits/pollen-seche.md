@@ -8,6 +8,6 @@ contrats:
   - miel
 tags: 
   - miel
-#illustration: ./media/pollen-seche.jpg
+#illustration: pollen-seche.jpg
 
 ---

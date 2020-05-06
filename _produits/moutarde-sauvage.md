@@ -7,6 +7,6 @@ producteur: Eloi-Keller
 contrats: sel
 tags: 
   - moutarde
-#illustration : ./media/moutarde.jpg
+#illustration : moutarde.jpg
 ---
 

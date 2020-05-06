@@ -7,6 +7,6 @@ producteur: Josie
 contrats: tisanes
 tags: 
   - santé
-illustration: ./media/baume-bobos.jpg
+illustration: baume-bobos.jpg
 ---
 

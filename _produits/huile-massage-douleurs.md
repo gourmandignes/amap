@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - huile
-illustration: ./media/huile-massage-douleurs.jpg
+illustration: huile-massage-douleurs.jpg
 ---
 

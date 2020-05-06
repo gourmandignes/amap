@@ -8,6 +8,6 @@ contrats: biere
 tags: 
   - boisson
   - bière
-illustration: ./media/biere-rousse.jpg
+illustration: biere-rousse.jpg
 ---
 

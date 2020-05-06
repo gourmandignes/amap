@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-medicinale-oxygene.jpg
+illustration: tisane-medicinale-oxygene.jpg
 ---
 

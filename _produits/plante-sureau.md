@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-sureau.jpg
+illustration: plante-sureau.jpg
 ---
 

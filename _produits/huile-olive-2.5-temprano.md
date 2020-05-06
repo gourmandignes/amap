@@ -9,4 +9,4 @@ tags:
   - huile d'olive
 ---
 
-![photo d'huile d'olive](./media/huile-olive.jpg)
+![photo d'huile d'olive](huile-olive.jpg)

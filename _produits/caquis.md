@@ -5,7 +5,7 @@ description: >
   Caissette de caquis fournie par la coopérative saborita.
 prix:   27,55 €
 contrats: agrumes
-illustration: ./media/caquis.jpg
+illustration: caquis.jpg
 tags: 
   - fruit
 ---

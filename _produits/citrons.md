@@ -5,7 +5,7 @@ description: >
   Caissette de citrons bio fourni par la coopérative saborita
 prix:   23,75 €
 contrats: agrumes
-illustration: ./media/citron.jpg
+illustration: citron.jpg
 tags: 
   - fruit
 ---

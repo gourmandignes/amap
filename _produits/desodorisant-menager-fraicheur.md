@@ -7,6 +7,6 @@ producteur: Josie
 contrats: tisanes
 tags: 
   - produits ménagers
-illustration: ./media/desodorisant-menager-fraicheur.jpg
+illustration: desodorisant-menager-fraicheur.jpg
 ---
 

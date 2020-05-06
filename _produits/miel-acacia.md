@@ -8,6 +8,6 @@ contrats:
   - miel
 tags: 
   - miel
-illustration: ./media/miel-acacia.jpg
+illustration: miel-acacia.jpg
 
 ---

@@ -10,4 +10,4 @@ tags:
   - faisselle
 ---
 
-![photo du faisselle](./media/faisselle.jpg)
+![photo du faisselle](faisselle.jpg)

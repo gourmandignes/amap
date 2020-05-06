@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-synergie-chat-tigre.jpg
+illustration: baume-synergie-chat-tigre.jpg
 ---
 

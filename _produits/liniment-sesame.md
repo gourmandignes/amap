@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/liniment-sesame.jpg
+illustration: liniment-sesame.jpg
 ---
 

@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-thym-thymol.jpg
+illustration: hydrolat-thym-thymol.jpg
 ---
 

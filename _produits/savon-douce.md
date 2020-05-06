@@ -7,6 +7,6 @@ producteur: Florence
 contrats: produits-entretien
 tags: 
   - produits d'entretien
-illustration: ./media/savon-douce.jpg
+illustration: savon-douce.jpg
 ---
 

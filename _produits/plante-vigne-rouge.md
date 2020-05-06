@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/plante-vigne-rouge.jpg
+illustration: plante-vigne-rouge.jpg
 ---
 

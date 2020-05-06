@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-marjolaine-sauvage.jpg
+illustration: hydrolat-marjolaine-sauvage.jpg
 ---
 

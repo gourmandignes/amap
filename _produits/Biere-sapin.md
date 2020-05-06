@@ -8,6 +8,6 @@ contrats: biere
 tags: 
   - boisson
   - bière
-illustration: ./media/biere-sapin.jpg
+illustration: biere-sapin.jpg
 ---
 

@@ -8,5 +8,5 @@ contrats: tisanes
 tags: 
   - santé
   - plante
-illustration: ./media/deodorant-corporel.jpg
+illustration: deodorant-corporel.jpg
 ---

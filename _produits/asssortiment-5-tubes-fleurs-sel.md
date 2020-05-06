@@ -7,6 +7,6 @@ producteur: Eloi-Keller
 contrats: sel
 tags: 
   - sel
-#illustration : ./media/asssortiment-5-tubes-fleurs-sel.jpg
+#illustration : asssortiment-5-tubes-fleurs-sel.jpg
 ---
 

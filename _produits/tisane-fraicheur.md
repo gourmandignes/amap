@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/tisane-fraicheur.jpg
+illustration: tisane-fraicheur.jpg
 ---
 

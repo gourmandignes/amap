@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: ./media/hydrolat-carotte-sauvage.jpg
+illustration: hydrolat-carotte-sauvage.jpg
 ---
 

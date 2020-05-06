@@ -8,6 +8,6 @@ contrats: tisanes
 tags: 
   - santé
   - beauté
-illustration: ./media/baume-menthe-poivree.jpg
+illustration: baume-menthe-poivree.jpg
 ---
 

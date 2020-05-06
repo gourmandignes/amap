@@ -6,7 +6,7 @@ adresse : Chemin des Jarouilles 36, Les Landes 33230 COUTRAS
 osm: 89252170397052
 description: >
   Groupement d'éléveurs de vache et de chèvre
-engagement: ./media/contrat-produits-laitiers.pdf
+engagement: contrat-produits-laitiers.pdf
 commande: https://cagette.gourmandignes.org/contract/view/64
 site: http://www.jarouilles.fr/
 illustration: jarouilles.jpg
