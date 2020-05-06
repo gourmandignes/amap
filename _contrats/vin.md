@@ -12,18 +12,18 @@ illustration: vin.jpg
 site: https://chateaubessan.fr/
 coordinateur: Elie
 produits:
-  - Bib-5L-Vin-rouge
-  - Bordeaux-Blanc-sec-2018
-  - Bordeaux-rosé-2019	
-  - Bordeaux-supérieur-2012-Rouge
-  - Cadillac-2016-blanc-liquoreux
-  - Cadillac-Côte-Bordeaux-Rouge-2015
-  - Cadillac-côtes-Bordeaux-Rouge-2017
-  - Côtes-Bordeaux-2017-Mascaret-Rouge
-  - Cuvée-Excellence-2016-Rouge
-  - Magnum-Bordeaux-Supérieur-2012-Rouge
-  - Perle-Bessan-Crémant-Rosé
-  - Perles-Bessan-Crémant-Blanc 
+  - bib-5L-vin-rouge
+  - bordeaux-blanc-sec-2018
+  - bordeaux-rose-2019	
+  - bordeaux-superieur-2012-rouge
+  - cadillac-2016-blanc-liquoreux
+  - cadillac-cotes-bordeaux-rouge-2015
+  - cadillac-cotes-bordeaux-rouge-2017
+  - cotes-bordeaux-2017-mascaret-rouge
+  - cuvee-excellence-2016-rouge
+  - magnum-bordeaux-superieur-2012-rouge
+  - perle-bessan-cremant-rose
+  - perles-bessan-cremant-blanc 
 
 
 tags:
