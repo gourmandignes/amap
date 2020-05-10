@@ -1,5 +1,5 @@
 ---
-nom: Nicolas Hebert
+nom: Brasserie Saint-Léon
 adresse: Créon
 osm: 23456763
 description: >
@@ -15,10 +15,11 @@ tags:
 contrats: 
   - biere
 ---
-Il nous propose :
+## Brasserie Saint-Léon
 
-* La Blonde : brassée à partir d'un seul type de malt. Bière d'une seule fermentation à haute température durant 4 jours. Elevage sur lies de 3 à 5 semaines. Sous ses airs légers et rafraichissants se cache une belle complexité allant du miel au citron.
-* La Rousse : brassée à partir d'un malt blond et d'un malt légèrement torréfié. La torréfaction d'une partie du grain donne à cette rousse ses arômes de café et de caramel.
-* Limonade : Elaborée à partir de pur jus de citron bio, de sucre de canne non raffiné bio et d'eau.
-* Bouteilles de 75cl ou 33. Prix à consulter sur notre site. Contrat d'un an, sans minimum de commande.
+Notre brasseur Nicolas Hebert fût tout d’abord agriculteur et viticulteur à Saint Léon durant de nombreuses années.
+
+C’est en 2002, à partir de ses essais de bière avec un ami et une cocotte-minute dans sa cuisine, qu’il a su que la bière serait son credo.
+
+Après de nombreuses tentatives avec sa propre orge, il arriva au résultat escompté. C’est ainsi qu’il décida de faire de sa passion son métier. Pour cela il acheta un terrain à Créon en 2006 sur lequel il bâtit avec tout son cœur sa brasserie
 

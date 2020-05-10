@@ -2,7 +2,7 @@
 nom: Bière rousse
 prix: 4 €
 description: >
-  bouteille de 75cl de bière de la brasserie Saint-Léon
+  Rousse brassée à partir d’un malt blond et d’un malt légèrement torréfié. La torréfaction d’une partie du grain donne à notre rousse ses arômes de café et de caramel. Son amertume s’arrête où le plaisir commence…
 producteur: Nicolas-Hébert
 contrats: biere
 tags: 

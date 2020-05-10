@@ -2,7 +2,7 @@
 nom: Bière armagnac
 prix: 4,5 €
 description: >
-  bouteille de 75cl de bière de la brasserie Saint-Léon
+  Bière rousse aux arômes toastés, une pointe d’armagnac lui apporte force et rondeur.
 producteur: Nicolas-Hébert
 contrats: 
   - biere
