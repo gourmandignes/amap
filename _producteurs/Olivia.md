@@ -1,12 +1,12 @@
 ---
-nom: Olivia
-adresse: Ferme de laruscade
-osm: 234567003
+nom: Ferme de Laruscade
+adresse: 1 Nauves Plates
+osm: way/582672937
 description: >
-  Eleveuse de volailles, Olivia fournit des poulets et des oeufs
+  Olivia Quillet et Maxime Garba se sont reconvertis dans l'évelage avicole en privilégiant la nature et l'espace. Dans une vaste exploitation proche de la nationale 10, ils nous proposent des oeufs et de la volaille suivant les standards de l'agriculture biologique. 
 illustration: olivia.jpg
 commande: https://cagette.gourmandignes.org/contract/view/53
-site: https://www.fermedelaruscade.com
+site: https://www.facebook.com/fermedelaruscade33620
 coordinateur: 
   - Cedric
   - Romain
@@ -18,4 +18,4 @@ contrats:
   - oeufs
 ---
 
-Elle fait des volailles en extérieur
+

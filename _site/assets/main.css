@@ -15,6 +15,12 @@
   font-family: "Lexend Deca";
   src: url(/assets/font/LexendDeca-Regular.ttf) format("truetype"); }
 @font-face {
+  font-family: "Gilroy";
+  src: url(/assets/font/Gilroy-Light.otf) format("truetype"); }
+@font-face {
+  font-family: "Gilroy-bold";
+  src: url(/assets/font/Gilroy-ExtraBold.otf) format("truetype"); }
+@font-face {
   font-family: 'Glyphicons Halflings';
   src: url(/assets/font/glyphicons-halflings-regular.eot);
   src: url(/assets/font/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"), url(/assets/font/glyphicons-halflings-regular.woff2) format("woff2"), url(/assets/font/glyphicons-halflings-regular.woff) format("woff"), url(/assets/font/glyphicons-halflings-regular.ttf) format("truetype"), url(/assets/font/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg"); }
@@ -55,7 +61,7 @@ ul {
   box-sizing: border-box; }
 
 body {
-  font-family: "Lexend Deca", Arial, sans-serif;
+  font-family: "Gilroy", Arial, sans-serif;
   font-size: 1rem;
   line-height: 1.2;
   color: #002920;
@@ -76,17 +82,17 @@ a {
 
 h2,
 h3 {
-  color: #73d56b; }
+  color: #135d2b; }
 
 h1 {
-  font-family: "Lexend Deca", Arial, sans-serif; }
+  font-family: "Gilroy-bold", Arial, sans-serif; }
 
 h1 a {
   color: #002920;
   text-decoration: none; }
 
 h1 span {
-  color: #73d56b; }
+  color: #135d2b; }
 
 header {
   display: table;
@@ -213,7 +219,7 @@ header .search-engine input[type="submit"] {
   text-align: center; }
 
 .blobContent {
-  font-family: "Lexend Deca", "Times New Roman", Times, serif;
+  font-family: "Gilroy", "Times New Roman", Times, serif;
   content: "medium";
   box-sizing: border-box;
   padding: 0px;
