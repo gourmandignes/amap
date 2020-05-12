@@ -1,6 +1,8 @@
 ---
 nom: La Peyronne
-adresse: Rue Cantemerle, Saint Gervais (Gironde)
+adresse: 4 rue des Esteys 33240 Saint Gervais
+email: sarldelapeyronne@gmail.com
+tel: 06 12 53 76 15	
 osm: way/429690551
 description: >
   David gère la ferme « La Peyronne » (Nord-Gironde) et propose à la vente sa production de bœuf et de veau sous forme de caissette de 10 ou 5 kg. Les prix est de 17 €/kg. Contrat d’un an - 4 livraisons (une par trimestre).

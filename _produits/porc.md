@@ -1,8 +1,8 @@
 ---
-nom: 1 colis de 5kg de viande de porc
+nom: Viande de porc (5kg)
 prix: 60 €
 description: >
-  morceaux de viande de porc bio
+  Morceaux de viande de porc bio
 producteur: Joel
 coordinateur: Pascal
 tags: 

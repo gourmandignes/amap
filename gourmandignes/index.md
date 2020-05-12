@@ -5,6 +5,8 @@ date:
 layout: default
 ---
 
+![l'alimentation c'est politique](./maispasque.jpg)
+
 L'association Gourmandignes espère contribuer au développement d'un **intérêt collectif**. Alimentaire mais pas que.
 
 Elle repose sur une bande de **joyeux voisins à cercles excentriques**, des **paysan.ne.s engagé.e.s** et des **habitant.e.s solidaires**.

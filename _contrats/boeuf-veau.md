@@ -2,11 +2,11 @@
 nom: Viande de boeuf et de veau
 type: contrat variable
 producteur: david
-adresse : Chemin des Jarouilles 36, Les Landes 33230 COUTRAS
-osm: 89252170397052
+adresse : 4 rue des Esteys, 33240 Saint-Gervais
+osm: way/162986432
 description: >
-  Eléveur de vache et de veau pour la production de viande
-engagement: contrat-boeuf-veau.pdf
+  Eléveur de vache et de veau pour la production de viande de race Hilford
+engagement: contrat-boeuf.pdf
 illustration: boeuf-veau.jpg
 coordinateur: Celine
 produits:

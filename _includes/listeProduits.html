@@ -1,23 +1,24 @@
 
 <section id="ghTree" class="ghTree" data-title="tree">
     <header>
-        <h1>Liste des produits distribué en amap</h1>
+        <h1>Liste des produits distribués par Gourmandignes</h1>
     </header>
-    <div class="blobContent">
-        {% assign sorted = (site[page.collection] | sort) %}
+    <div class="table">
+        {% assign sorted = (site[page.collection] | sort: 'producteur') |  %}
         {% for resource in sorted %} {% unless resource.url contains "index.html" %}
-        <p>
-            <span><a class="ghTreeReadmore" title="voir le détail du produit : {{ resource.nom }}" data-title="fileReadmoreLink"
-                href="{{ resource.url }}">{{ resource.nom }}</a> (prix : {{ resource.prix }})</span> 
-            <!--
-            {% if resource.illustration %}
-                <span class="cell"><img src="/produits/{{ resource.illustration }}" width="100"></span>
-            {% endif %}
-            -->
-            [contrat: <a class="ghTreeReadmore" title="voir le détail du contrat : {{ resource.contrats }}" data-title="fileReadmoreLink"
-            href="/contrats/{{ resource.contrats }}"> {{ resource.contrats }}</a> - Producteur.rice <a class="ghTreeReadmore" title="voir le détail du producteur : {{ resource.producteur }}" data-title="fileReadmoreLink"
-            href="/producteurs/{{ resource.producteur }}">{{ resource.producteur }}</a>] . 
-        </p>
+        <div class="row">
+            <span class="cell"><a class="ghTreeReadmore" title="voir le détail du produit : {{ resource.nom }}" data-title="fileReadmoreLink"
+            href="{{ resource.url }}">{{ resource.nom }}</a></span> 
+        <!--
+        {% if resource.illustration %}
+            <span class="cell"><img src="/produits/{{ resource.illustration }}" width="100"></span>
+        {% endif %}
+        -->
+            <span class="cell">
+                (prix : {{ resource.prix }}) - voir contrat: <a class="ghTreeReadmore" title="voir le détail du contrat : {{ resource.contrats }}" data-title="fileReadmoreLink"
+            href="/contrats/{{ resource.contrats }}"> {{ resource.contrats }}</a> . 
+            </span>
+        </div>
         {% endunless %} {% endfor %}
     </div>
 </section>

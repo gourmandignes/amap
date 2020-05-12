@@ -9,7 +9,6 @@ description: >
 illustration: archiviste.png
 contrats : 
     - agneau
-    - legumes
 ---
 
 Anne

@@ -1,3 +1,10 @@
+---
+titre:
+description:
+date:
+layout: default
+---
+
 <div class="table">
 <table class="inline">
 	<thead>

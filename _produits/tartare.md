@@ -10,3 +10,5 @@ tags:
   - boeuf
   - veau
 ---
+
+Le bourguignon (1 kg en 2 poches de 500G) est présenté sous forme de tartar’s fantaisie (maigre de bovin haché, sel et épices bio)

@@ -1,5 +1,5 @@
 ---
-nom: Mathieu Verdier
+nom: Chateau Bessan - famille Verdier
 adresse: Tabanac
 osm: 234567112
 description: >

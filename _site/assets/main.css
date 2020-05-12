@@ -78,11 +78,11 @@ p {
   margin-bottom: 10px; }
 
 a {
-  color: #73d56b; }
+  color: #135d2b; }
 
 h2,
 h3 {
-  color: #135d2b; }
+  color: #73d56b; }
 
 h1 {
   font-family: "Gilroy-bold", Arial, sans-serif; }
@@ -92,7 +92,7 @@ h1 a {
   text-decoration: none; }
 
 h1 span {
-  color: #135d2b; }
+  color: #73d56b; }
 
 header {
   display: table;
@@ -127,6 +127,9 @@ header .search-engine input[type="submit"] {
     padding: 0 20px; }
 
   img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
     height: auto; } }
 /*
@@ -296,7 +299,9 @@ header .search-engine input[type="submit"] {
 .blobContent img {
   display: block;
   padding: 1px;
-  margin: 0.75rem 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   background-color: #fff;
   border: 1px solid #73d56b;
   border-radius: 1px;
@@ -524,5 +529,5 @@ th {
   display: inline-block;
   font-family: 'Glyphicons Halflings';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
   line-height: 1; }

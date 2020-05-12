@@ -1,5 +1,5 @@
 ---
-nom: Caissette viande de boeuf (10kg)
+nom: Viande de boeuf à cuire (10kg)
 prix: 148 €
 description: >
   Mélange de morceaux de boeuf de race hilford à cuire conditionnés dans un sachet sous vide de 10kg
@@ -8,5 +8,8 @@ producteur: David
 contrats: boeuf-veau
 tags:
   - boeuf
-  - veau
+  - viande
 ---
+
+- 5 kg à griller (rôtis, beefsteak, côtes, aloyaux, rumstecks)
+- 5 kg à cuisiner (jarret, bourguignon, poitrine, plat de côte)

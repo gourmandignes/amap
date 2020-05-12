@@ -8,5 +8,5 @@ contrats:
   - legumes
 tags: 
   - légumes
-illustration: part-production-hebdo.jpg
+illustration: panier-printemps.jpg
 ---

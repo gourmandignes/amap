@@ -1,0 +1,17 @@
+
+<section id="ghTree" class="ghTree" data-title="tree">
+    <header>
+        <h1>Catégories des produits distribués par Gourmandignes</h1>
+    </header>
+    <div class="table">
+        {% assign titles = site[page.collection] | map: 'tags' | uniq %}
+
+        <ul>
+          {% for item in titles %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+        
+        
+    </div>
+</section>

@@ -1,5 +1,5 @@
 ---
-nom: Caissette viande de boeuf (10kg)
+nom: Viande de boeuf à griller (5kg)
 prix: 92 €
 description: >
   Mélange de morceaux de boeuf de race hilford à griller conditionnés dans un sachet sous vide de 5kg
@@ -8,5 +8,5 @@ producteur: David
 contrats: boeuf-veau
 tags:
   - boeuf
-  - veau
+  - viande
 ---

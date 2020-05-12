@@ -1,5 +1,5 @@
 ---
-nom: Caissette viande de veau (5kg)
+nom: Viande de veau (5kg)
 prix: 87 €
 description: >
   Mélange de morceaux de veeau rosé conditionnés dans un sachet sous vide de 5kg
@@ -8,4 +8,5 @@ producteur: David
 contrats: boeuf-veau
 tags:
   - veau
+  - viande
 ---
