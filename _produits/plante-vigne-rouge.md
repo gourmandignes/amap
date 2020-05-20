@@ -1,4 +1,5 @@
 ---
+categorie: Maison & Jardin
 nom: Plante vigne rouge
 prix:  4 € / 10€ les 3
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Chateau Bessan cuvée excellence 2016 (75cl)
 prix: 94,5 € / 6 bouteilles
 description: >

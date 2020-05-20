@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Fromage frais de vache Herbes de Provence
 prix: 2,40 €
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: petite part hebdomadaire de légumes
 prix: 45€/mois
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Huile d'olive zumo serana 0.5 litres
 prix: 8 €
 description: >

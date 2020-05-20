@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Lotion cheveux
 prix:  8 € / 200 ml
 description: >

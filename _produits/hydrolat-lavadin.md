@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat lavandin
 prix:  5€ (200ml)
 description: >

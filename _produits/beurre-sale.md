@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: C2 - beurre salé cru 250 g
 prix: 4,10 €
 description: >

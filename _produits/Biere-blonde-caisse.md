@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bières blondes (carton 12x33cl) 
 prix: 33 €
 description: >

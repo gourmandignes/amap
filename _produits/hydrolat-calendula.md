@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat calendula
 prix:  8€ (200ml)
 description: >

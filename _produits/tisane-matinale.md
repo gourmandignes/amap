@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane la matinale
 prix:  10€
 description: >

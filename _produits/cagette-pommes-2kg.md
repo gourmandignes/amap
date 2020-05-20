@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: Cagette de pommes 2 kg
 prix: 5 €
 osm: 234567

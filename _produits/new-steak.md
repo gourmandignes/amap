@@ -1,4 +1,5 @@
 ---
+categorie: Viandes
 nom: steak haché de boeuf (1kg)
 prix: 16 €
 description: >

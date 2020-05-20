@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat immortelle
 prix:  8€ (200ml)
 description: >

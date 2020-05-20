@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bière blonde
 prix: 4,5 €
 description: >

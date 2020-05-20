@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane médicinale maux de gorge
 prix:  7,5 € / 70-100g
 description: >

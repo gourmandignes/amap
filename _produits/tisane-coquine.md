@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane coquine
 prix:  10€
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Boisson grat-grat
 prix:  8 € / 200 ml
 description: >

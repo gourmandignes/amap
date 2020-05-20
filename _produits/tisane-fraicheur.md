@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane fraîcheur
 prix:  10€
 description: >

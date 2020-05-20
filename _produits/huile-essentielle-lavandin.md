@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Huile essentielle de lavandin
 prix:  5 €
 description: >

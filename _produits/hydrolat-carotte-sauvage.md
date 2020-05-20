@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat carotte sauvage
 prix:  9€ (200ml)
 description: >

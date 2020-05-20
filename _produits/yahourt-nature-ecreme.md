@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Yaourt 430 ml nature écrémé
 prix: 2,30 €
 description: >

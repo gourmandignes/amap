@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Limonade
 prix: 2,5 €
 description: >

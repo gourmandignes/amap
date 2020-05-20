@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Faisselle de chèvre
 prix: 2,30 €
 description: >

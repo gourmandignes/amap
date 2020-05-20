@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat camomille romaine
 prix:  9€ (200ml)
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Huile d'olive 2.5 litres
 prix: 30 €
 description: >

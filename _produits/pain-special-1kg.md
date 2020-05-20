@@ -1,4 +1,5 @@
 ---
+categorie: Boulangerie & Pâtisserie
 nom: Pain spécial 1 kg
 prix: 7,4 €
 description: >

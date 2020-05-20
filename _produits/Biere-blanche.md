@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bière blanche
 prix: 4,5 €
 description: >

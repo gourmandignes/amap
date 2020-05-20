@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Huile essentielle de menthe poivrée
 prix:  5 €
 description: >

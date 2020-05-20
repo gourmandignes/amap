@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Moutarde sauvage
 prix: 5 €
 description: >

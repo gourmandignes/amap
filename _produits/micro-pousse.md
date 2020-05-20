@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: barquette de micro-pousses
 prix: 1,50 € la barquette
 description: >

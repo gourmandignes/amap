@@ -1,6 +1,7 @@
 ---
+categorie: Beauté & soins
 nom: Savon Olivôchanvre
-prix:  3,30€
+prix: 3,30€
 description: >
    savon pour le corps
 producteur: Florence

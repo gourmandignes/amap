@@ -1,4 +1,5 @@
 ---
+categorie: Boulangerie & Pâtisserie
 nom: Pain normal 500 g
 prix: 2,5 €
 description: >

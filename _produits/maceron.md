@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Maçeron
 prix: 3 €
 description: >

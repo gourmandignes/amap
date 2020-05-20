@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bières à la liqueur de malt (carton 12x33cl) 
 prix: 36 €
 description: >

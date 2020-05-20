@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Boisson Mieux-être femme mûre
 prix:  8 € / 200 ml
 description: >

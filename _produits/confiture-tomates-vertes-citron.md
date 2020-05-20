@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Confiture tomates vertes et citron
 prix: 4,5 €
 description: >

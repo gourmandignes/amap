@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: pot de pollen frais (250g)
 prix: 19€
 description: >

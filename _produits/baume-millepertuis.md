@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Baume au millepertuis
 prix:  13€ (125ml)
 description: >

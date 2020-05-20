@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Huile pour le visage 
 prix:  €
 description: >

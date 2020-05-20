@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Amandes Marcona Non decortiqués
 prix: 45 €/ 10kg
 description: >

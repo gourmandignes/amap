@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Yaourt 430 ml citron
 prix: 2,30 €
 description: >

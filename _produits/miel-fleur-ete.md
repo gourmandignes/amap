@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Miel de fleurs d'été
 prix: 16€/kilo
 description: >

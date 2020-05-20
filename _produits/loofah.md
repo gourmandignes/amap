@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Loofah
 prix:  8€
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Huile no mosquito
 prix:  13€ (100ml)
 description: >

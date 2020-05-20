@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Fromage frais de vache nature
 prix: 1,95 €
 description: >

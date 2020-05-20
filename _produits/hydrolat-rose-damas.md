@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat rose de Damas
 prix:  9€ (200ml)
 description: >

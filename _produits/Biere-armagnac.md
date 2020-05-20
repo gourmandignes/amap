@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bière armagnac
 prix: 4,5 €
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane sérénité
 prix:  10€
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: part hebdomadaire de légumes
 prix: 75 €/mois
 description: >

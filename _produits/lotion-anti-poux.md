@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Lotion anti poux/acariens/puces
 prix:  8 € / 200 ml
 description: >

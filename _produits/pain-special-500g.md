@@ -1,4 +1,5 @@
 ---
+categorie: Boulangerie & Pâtisserie
 nom: Pain spécial 500 g
 prix: 3,7 €
 description: >

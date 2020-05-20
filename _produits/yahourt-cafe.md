@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Yaourt 430 ml café
 prix: 2,30 €
 description: >

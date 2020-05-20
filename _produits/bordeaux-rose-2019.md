@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bordeaux rosé 2019
 prix: 27 € / 6 bouteilles
 description: >

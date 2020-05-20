@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Oeufs de poule
 prix: 2,2 €/6
 description: >

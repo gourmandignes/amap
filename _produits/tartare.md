@@ -1,4 +1,5 @@
 ---
+categorie: Viandes
 nom: tartare fantaisie de boeuf (1kg)
 prix: 16 €
 description: >

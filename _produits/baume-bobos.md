@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Baume à bobos
 prix:  10€
 description: >

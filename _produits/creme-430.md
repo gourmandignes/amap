@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Crème crue 45 % 430 ml 
 prix: 4,10 €
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: sachet d'endives
 prix: 2,25 € / 350g
 description: >

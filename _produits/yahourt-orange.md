@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Yaourt 400 ml orange
 prix: 2,3 €
 description: >

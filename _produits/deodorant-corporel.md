@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Déodorant corporel à base d'eaux florales
 prix:  5 € / 200 ml
 description: >

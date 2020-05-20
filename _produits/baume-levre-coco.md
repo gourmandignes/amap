@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Baume à lèvres Coco douceur
 prix:  3€
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: Panier mixte d'agrumes (14 kg)
 producteur: David-Moya
 description: >

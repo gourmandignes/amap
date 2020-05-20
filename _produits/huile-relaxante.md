@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Huile de massage relaxante
 prix:  13€ (100ml)
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: Cagette de pommes 10 kg
 prix: 16 €
 description: >

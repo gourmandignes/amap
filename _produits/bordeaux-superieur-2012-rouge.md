@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bordeaux supérieur rouge 2012
 prix: 29,25 € / 6 bouteilles
 description: >

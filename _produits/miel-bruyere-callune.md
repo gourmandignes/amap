@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Miel de bruyere callune
 prix: 19€/kilo
 description: >

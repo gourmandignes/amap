@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Fromage frais de vache ail et fines herbes
 prix: 2,40 €
 description: >

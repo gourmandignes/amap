@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: Caissette de limes (9,5 kg) 
 producteur: David-Moya
 description: >

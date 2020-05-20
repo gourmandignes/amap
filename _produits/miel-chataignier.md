@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Miel de chataignier
 prix: 16€/kilo
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat marjolaine sauvage
 prix:  8€ (200ml)
 description: >

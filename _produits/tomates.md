@@ -1,4 +1,5 @@
 ---
+categorie: Maison & Jardin
 nom: Tomate
 producteur: Jardin-gourmand
 description: >

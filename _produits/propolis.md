@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: propolis
 prix: 12€
 description: >

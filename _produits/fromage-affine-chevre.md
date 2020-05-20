@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Fromage affiné de chèvre 80g
 prix: 2,80 €
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Fromage blanc 430 ml
 prix: 2,80 €
 description: >

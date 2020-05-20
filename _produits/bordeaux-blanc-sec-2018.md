@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bordeaux blanc sec 2018
 prix: 27 € / 6 bouteilles
 description: >

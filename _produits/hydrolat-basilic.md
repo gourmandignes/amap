@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat basilic
 prix:  6,5€ (200ml)
 description: >

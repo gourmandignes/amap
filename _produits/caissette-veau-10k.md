@@ -1,4 +1,5 @@
 ---
+categorie: Viandes
 nom: Viande de veau (10kg)
 prix: 172 €
 description: >

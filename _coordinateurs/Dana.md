@@ -6,7 +6,7 @@ mail: dana@gmail.com
 osm: 2939725923
 description: >
     Coordinatrice du contrat produits laitiers
-illustration: archiviste.png
+illustration: dana.jpg
 contrats:
     - produits-laitiers
 ---

@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Côtes de Bordeaux rouge 2017 (75cl)
 prix: 45 € / 6 bouteilles
 description: >

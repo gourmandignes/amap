@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Aloe vera
 prix: 3,5 €
 description: >

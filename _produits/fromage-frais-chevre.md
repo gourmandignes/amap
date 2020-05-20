@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Fromage frais de chèvre 90g
 prix: 2,80 €
 description: >

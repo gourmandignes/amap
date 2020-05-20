@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Huile d'olive Superverde 0.5 litres
 prix: 12 €
 description: >

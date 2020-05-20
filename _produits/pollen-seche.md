@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: pot de pollen seché (250g)
 prix: 12€
 description: >

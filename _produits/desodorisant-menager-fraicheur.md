@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Désodorisant ménager fraîcheur
 prix:  6€ (250ml)
 description: >

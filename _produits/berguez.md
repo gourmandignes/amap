@@ -1,4 +1,5 @@
 ---
+categorie: Viandes
 nom: Berguez de boeuf (1kg)
 prix: 18 €
 description: >

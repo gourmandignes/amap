@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Confiture d'églantine (106ml)
 prix: 3 €
 description: >

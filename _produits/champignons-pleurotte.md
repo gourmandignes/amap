@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: Champignons - Pleurottes
 prix: 3,25 € / 250g
 description: >

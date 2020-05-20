@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Limonade à la framboise
 prix: 3 €
 description: >

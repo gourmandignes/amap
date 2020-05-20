@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Caramel (196ml)
 prix: 5 €
 description: >

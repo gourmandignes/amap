@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: Caissette d'Avocats  (9,5 kg)
 producteur: David-Moya
 description: >

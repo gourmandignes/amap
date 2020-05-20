@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Lotion visage
 prix:  8 € / 200 ml
 description: >

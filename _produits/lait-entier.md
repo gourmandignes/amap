@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Lait - Lait entier de vache 1 L
 prix: 1,2 €
 description: >

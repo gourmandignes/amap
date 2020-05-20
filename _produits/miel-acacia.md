@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Miel d'acacia
 prix: 20€/kilo
 description: >

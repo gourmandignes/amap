@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Fromage - tome de chèvre 250g
 prix: 6,60 €
 description: >

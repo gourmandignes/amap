@@ -1,6 +1,7 @@
 ---
+categorie: Beauté & soins
 nom: Savon de rasage (vanille) 
-prix:  3,30€
+prix: 3,30€
 description: >
    savon pour le rasage
 producteur: Florence

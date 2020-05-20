@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Fromage - tome vache 400 g
 prix: 6,20 €
 description: >

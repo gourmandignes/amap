@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Baume en synergie voies respiratoires
 prix:  17€ (125ml)
 description: >

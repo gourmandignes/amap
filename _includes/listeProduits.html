@@ -1,11 +1,11 @@
 
 <section id="ghTree" class="ghTree" data-title="tree">
     <header>
-        <h1>Liste des produits distribués par Gourmandignes</h1>
+        <h1>Liste des produits distribués par Gourmandignes : {{ page.hash }}</h1>
     </header>
     <div class="table">
         {% assign sorted = (site[page.collection] | sort: 'producteur') |  %}
-        {% for resource in sorted %} {% unless resource.url contains "index.html" %}
+        {% for resource in sorted %} {% unless resource.url contains "index.html" %}{% unless resource.url contains "categories.html" %}
         <div class="row">
             <span class="cell"><a class="ghTreeReadmore" title="voir le détail du produit : {{ resource.nom }}" data-title="fileReadmoreLink"
             href="{{ resource.url }}">{{ resource.nom }}</a></span> 
@@ -19,6 +19,6 @@
             href="/contrats/{{ resource.contrats }}"> {{ resource.contrats }}</a> . 
             </span>
         </div>
-        {% endunless %} {% endfor %}
+        {% endunless %}{% endunless %} {% endfor %}
     </div>
 </section>

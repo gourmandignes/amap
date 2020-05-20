@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat No mosquito
 prix:  6€ (250ml)
 description: >

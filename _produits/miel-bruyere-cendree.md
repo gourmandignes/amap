@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Miel de bruyere cendrée
 prix: 16€/kilo
 description: >

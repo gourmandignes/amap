@@ -1,4 +1,5 @@
 ---
+categorie: Viandes
 nom: Viande de veau (5kg)
 prix: 87 €
 description: >

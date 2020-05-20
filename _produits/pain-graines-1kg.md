@@ -1,4 +1,5 @@
 ---
+categorie: Boulangerie & Pâtisserie
 nom: Pain aux graines 1 kg
 prix: 5,3 €
 description: >

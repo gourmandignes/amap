@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Baume à l'immortelle
 prix:  13€ (125ml)
 description: >

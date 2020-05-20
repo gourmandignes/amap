@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Confiture butternut et cannele
 prix: 4,5 €
 description: >

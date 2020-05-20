@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Yaourt 430 ml crème de marron
 prix: 2,70 €
 description: >

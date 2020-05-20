@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane médicinale articulations
 prix:  7,5 € / 70-100g
 description: >

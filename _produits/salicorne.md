@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Salicorne
 prix: 5 €
 description: >

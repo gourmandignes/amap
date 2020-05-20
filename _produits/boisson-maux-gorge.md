@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Boisson maux de gorge
 prix:  8 € / 200 ml
 description: >

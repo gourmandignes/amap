@@ -1,4 +1,5 @@
 ---
+categorie: Viandes
 nom: Poulet (2-2,4kg)
 prix: 24,20 €
 description: >

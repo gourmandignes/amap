@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Yaourt 430 ml nature entier
 prix: 2,15 €
 description: >

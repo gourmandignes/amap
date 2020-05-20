@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Huile d'olive - pack cadeau
 prix: 18 €
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane délice
 prix:  10€
 description: >

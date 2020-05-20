@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bordeaux cadillac blanc licoreux 2016
 prix: 29,25 € / 6 bouteilles
 description: >

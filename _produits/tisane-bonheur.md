@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane bonheur
 prix:  10€
 description: >

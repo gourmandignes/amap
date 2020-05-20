@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Liniment Sésame sur base d’eau florale de Lavande
 prix:  9€ (350ml)
 description: >

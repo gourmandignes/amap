@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: Cagette de pommes 5 kg
 prix: 10 €
 osm: 234567

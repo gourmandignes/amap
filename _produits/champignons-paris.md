@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: Champignons de paris
 prix: 2,1 € / 250g
 description: >

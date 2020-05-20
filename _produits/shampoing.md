@@ -1,6 +1,7 @@
 ---
+categorie: Beauté & soins
 nom: Shampooing
-prix:  3,30€
+prix: 3,30€
 description: >
    Shampooing
 producteur: Florence

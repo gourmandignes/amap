@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Riz bombita 2kg
 prix: 10 €
 description: >

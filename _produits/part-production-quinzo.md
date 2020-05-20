@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: part quinzomadaire de légumes
 prix: 34,5€/mois
 description: >

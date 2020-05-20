@@ -1,4 +1,5 @@
 ---
+categorie: Boulangerie & Pâtisserie
 nom: Pain aux graines 500 g
 prix: 2,8 €
 description: >

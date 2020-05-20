@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Gelée royale
 prix: 25€
 description: >

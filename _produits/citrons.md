@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: Citrons Caissette (9,5 kg)
 producteur: David-Moya
 description: >

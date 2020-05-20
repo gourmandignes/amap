@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Lait - Lait de chèvre 1 L
 prix: 2,75 €
 description: >

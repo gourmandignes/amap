@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Savon BZZ-BZZ
 prix:  3,30 €
 description: >

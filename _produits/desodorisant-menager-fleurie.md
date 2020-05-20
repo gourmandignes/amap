@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Désodorisant ménager senteur fleurie
 prix:  6€ (250ml)
 description: >

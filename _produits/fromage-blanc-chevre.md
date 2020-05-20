@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Fromage blanc de chèvre 430 ml
 prix: 3,20 €
 description: >

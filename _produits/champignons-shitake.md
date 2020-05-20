@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: Champignons -  Shitake
 prix: 3,75 € / 250g
 description: >

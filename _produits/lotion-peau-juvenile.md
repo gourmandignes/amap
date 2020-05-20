@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Lotion peaux matures
 prix:  8 € / 200 ml
 description: >

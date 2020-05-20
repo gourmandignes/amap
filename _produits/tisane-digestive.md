@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane la digestive
 prix:  10€
 description: >

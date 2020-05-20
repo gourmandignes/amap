@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bière brune
 prix: 4,5 €
 description: >

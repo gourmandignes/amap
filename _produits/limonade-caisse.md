@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Limonade (carton 12x33cl) 
 prix: 18 €
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Yaourt 430 ml fruits rouges
 prix: 2,70 €
 description: >

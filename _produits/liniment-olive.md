@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Liniment Olive sur base d’eau florale de Lavande
 prix:  7€ (350ml)
 description: >

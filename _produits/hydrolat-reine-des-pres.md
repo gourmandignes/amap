@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat reine des prés
 prix:  9€ (200ml)
 description: >

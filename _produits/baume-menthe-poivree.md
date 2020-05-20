@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Baume à la menthe poivrée
 prix:  13€ (125ml)
 description: >

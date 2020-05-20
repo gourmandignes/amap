@@ -6,7 +6,7 @@ mail: frederiquegoussard@icloud.com
 osm: 2939725923
 description: >
     Co-Coordinatrice du contrat Tisanes et légumes
-illustration: archiviste.png
+illustration: frederique.jpg
 contrats : 
     - tisane
     - legumes

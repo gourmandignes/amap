@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Assortiment de fleur de sel
 prix: 12 €
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Huile parfumée « Zen-Emoi »
 prix:  10€ (100ml)
 description: >

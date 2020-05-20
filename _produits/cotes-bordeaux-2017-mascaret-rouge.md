@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Côtes de Bordeaux cuvée Mascaret 2017 (75cl)
 prix: 31,5 € / 6 bouteilles
 description: >

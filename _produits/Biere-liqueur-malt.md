@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bière à la liqueur de malt
 prix: 4,5 €
 description: >

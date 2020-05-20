@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane médicinale oxygène
 prix:  7,5 € / 70-100g
 description: >

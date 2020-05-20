@@ -1,4 +1,5 @@
 ---
+categorie: Boulangerie & Pâtisserie
 nom: Pain normal 2 kg
 prix: 9 €
 description: >

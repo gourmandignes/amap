@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane médicinale minceur
 prix:  7,5 € / 70-100g
 description: >

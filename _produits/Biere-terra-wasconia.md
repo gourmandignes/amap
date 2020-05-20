@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bière Terra wasconia 
 prix: 8 €
 description: >

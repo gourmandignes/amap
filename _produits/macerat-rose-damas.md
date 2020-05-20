@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Macérat huileux rose de Damas
 prix:  13€ (125ml)
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Huile de massage Douleurs
 prix:  11€ (100ml)
 description: >

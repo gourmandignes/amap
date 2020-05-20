@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Gros sel (1kg)
 prix: 2 €
 description: >

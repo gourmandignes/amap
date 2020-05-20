@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane douce nuit
 prix:  10€
 description: >

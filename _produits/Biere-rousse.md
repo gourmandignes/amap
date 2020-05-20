@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bière rousse
 prix: 4 €
 description: >

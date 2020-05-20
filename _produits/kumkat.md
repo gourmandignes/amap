@@ -1,4 +1,5 @@
 ---
+categorie: Fruits & Légumes
 nom: Kumquat (2 Kg) 
 producteur: David-Moya
 description: >

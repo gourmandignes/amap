@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Farine T80
 prix: 2,20 €/kg
 description: >

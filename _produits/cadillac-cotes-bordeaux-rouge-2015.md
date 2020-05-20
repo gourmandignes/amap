@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Côtes de Bordeaux rouge 2015 (50cl)
 prix: 29,25 € / 6 bouteilles
 description: >

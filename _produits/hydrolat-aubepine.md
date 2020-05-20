@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat aubépine
 prix:  9€ (200ml)
 description: >

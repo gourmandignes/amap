@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Hydrolat tanaisie
 prix:  6,5€ (200ml)
 description: >

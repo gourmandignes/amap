@@ -1,4 +1,5 @@
 ---
+categorie: Viandes
 nom: Viande de boeuf mixte (10kg)
 prix: 155 €
 description: >

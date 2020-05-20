@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Fromage chèvre Fantaisie
 prix: 3,60 €
 description: >

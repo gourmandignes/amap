@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Savon lait Crin de douceur (lait de jument)
 prix:  3.3€
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Lait - Lait écrémé de vache 1 L
 prix: 1,2 €
 description: >

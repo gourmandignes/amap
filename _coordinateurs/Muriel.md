@@ -6,7 +6,7 @@ mail: murielle@free.fr
 osm: 2939725923
 description: >
     Coordinatrice des contrats pain, farine et confiture
-illustration: archiviste.png
+illustration: muriel.jpg
 contrats : 
     - farine
     - pain

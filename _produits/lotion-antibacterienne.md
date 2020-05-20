@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Lotion  Lotion antibactérienne
 prix:  6€ / 30 ml
 description: >

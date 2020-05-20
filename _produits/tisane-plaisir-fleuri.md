@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Tisane plaisir fleuri
 prix:  10€
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Boisson respirez
 prix:  8 € / 200 ml
 description: >

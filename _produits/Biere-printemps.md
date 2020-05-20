@@ -1,4 +1,5 @@
 ---
+categorie: Boissons
 nom: Bière printemps
 prix: 4,5 €
 description: >

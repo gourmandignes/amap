@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: Faisselle 200 g
 prix: 1,50 €
 description: >

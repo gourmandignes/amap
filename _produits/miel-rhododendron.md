@@ -1,4 +1,5 @@
 ---
+categorie: Épicerie
 nom: Miel de rhododendron
 prix: 22€/kilo
 description: >

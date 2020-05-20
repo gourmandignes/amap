@@ -1,4 +1,5 @@
 ---
+categorie: Crèmerie
 nom: C1 - beurre doux cru 250 g 
 prix: 4,10 €
 description: >

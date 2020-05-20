@@ -1,4 +1,5 @@
 ---
+categorie: Beauté & soins
 nom: Baume au plantain
 prix:  13€ (125ml)
 description: >
