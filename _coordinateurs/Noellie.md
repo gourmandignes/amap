@@ -6,7 +6,7 @@ mail: noellie@gmail.com
 osm: 2939725923
 description: >
     Coordinatrice du contrat produits laitiers
-illustration: dana.jpg
+illustration: noellie.jpg
 contrats:
     - produits-laitiers
 ---
