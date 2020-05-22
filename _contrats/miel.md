@@ -9,7 +9,9 @@ description: >
 site: http://www.borda-ambrosi.fr
 commande: https://cagette.gourmandignes.org/contract/view/29
 illustration: miel.jpg
-coordinateur: Isabelle
+coordinateur: 
+  - Isabelle
+  - Nicole
 produits:
     - miel-bruyere-cendree
     - miel-acacia

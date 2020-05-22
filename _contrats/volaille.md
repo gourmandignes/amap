@@ -10,7 +10,9 @@ engagement: contrat_volaille.pdf
 site: https://lafermedelaruscade.fr
 commande: https://cagette.gourmandignes.org/contract/view/53
 illustration: poulet.jpg
-coordinateur: Romain
+coordinateur: 
+  - Romain
+  - Cedric
 produits:
   - poulet-petit
   - poulet-moyen

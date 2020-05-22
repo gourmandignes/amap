@@ -10,7 +10,9 @@ engagement: contrat-produits-laitiers.pdf
 commande: https://cagette.gourmandignes.org/contract/view/64
 site: http://www.jarouilles.fr/
 illustration: jarouilles.jpg
-coordinateur: Dana
+coordinateur: 
+  - Dana
+  - Noellie
 produits:
   - lait-ecreme
   - lait-entier
