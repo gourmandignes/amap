@@ -37,7 +37,15 @@
             
 <section id="ghTree" class="ghTree" data-title="tree">
     <header>
-        <h1>Liste des produits distribués par Gourmandignes : </h1>
+        <script>
+            const categorie = decodeURI(document.location.hash.substring(1));
+            console.log(categorie);
+            
+            document.write('<h1>Liste des produits distribués par Gourmandignes : '); 
+            document.write(this.categorie);
+            document.write('</h1>');
+            </script>
+        
     </header>
     <div class="table">
         

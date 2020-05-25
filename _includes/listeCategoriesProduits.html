@@ -4,13 +4,48 @@
         <h1>Catégories des produits distribués par Gourmandignes</h1>
     </header>
     <div class="table">
-        {% assign cat = site[page.collection] | map: 'categorie' | uniq %}
+        <!--{% assign cat = site[page.collection] | map: 'categorie' | uniq %}
+        {{ cat | jsonify }}
         <ul>
-          {% for tag in cat %}{% unless resource.url contains "index.html" %}{% unless resource.url contains "categories.html" %}
+          {% for tag in cat %}{% unless tag == nil %}
             <li><a href="index.html#{{ tag }}">{{ tag }}</a></li>
-            {% endunless %}{% endunless %} {% endfor %}
+            {% endunless %}{% endfor %}
         </ul>
-        
-        
+        -->
+        <div class="row">
+            <div class="cell">
+                <a href="index.html#Boissons">Boissons</a>
+            </div>
+            <div class="cell">
+                <a href="index.html#Crèmerie">Crèmerie</a>
+            </div>
+            <div class="cell">
+                <a href="index.html#Beauté & soins">Beauté & soins</a>
+            </div>
+            
+        </div>
+        <div class="row">
+            <div class="cell">
+                <a href="index.html#Épicerie">Épicerie</a>
+            </div>
+            <div class="cell">
+                <a href="index.html#Fruits & Légumes">Fruits & Légumes</a>
+            </div>
+            <div class="cell">
+                <a href="index.html#Viandes">Viandes</a>
+            </div>
+            
+        </div>
+        <div class="row">
+            <div class="cell">
+                <a href="index.html#Boulangerie & Pâtisserie">Boulangerie & Pâtisserie</a>
+            </div>
+            <div class="cell">
+                <a href="index.html#Maison & Jardin">Maison & Jardin</a>
+            </div>
+            <div class="cell">
+                &nbsp;
+            </div>
+        </div>
     </div>
 </section>
