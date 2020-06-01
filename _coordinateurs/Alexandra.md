@@ -6,7 +6,7 @@ mail: miss.barbier@gmail.Com
 osm: 2939725923
 description: >
     Co-Coordinatrice du contrat tisanes et légumes
-illustration: archiviste.png
+illustration: alexandra.jpg
 contrats : 
     - tisane
     - legumes
