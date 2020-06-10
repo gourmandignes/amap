@@ -3,11 +3,27 @@ title: Gourmandignes
 collections:
   producteurs:
     output: true
-  produits:
+  beaute:
     output: true
+  boissons: 
+    output: true
+  boulangerie:
+    output: true
+  cremerie:
+    output: true
+  epicerie:
+    output: true
+  legumes:
+    output: true
+  maison:
+    output: true
+  viande:
+    output: true  
   coordinateurs:
     output: true
   contrats:
+    output: true
+  produits:
     output: true
 
 defaults:

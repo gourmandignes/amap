@@ -1,16 +1,5 @@
 
 <section id="ghTree" class="ghTree" data-title="tree">
-    <header>
-        <script>
-            const categorie = decodeURI(document.location.hash.substring(1));
-            console.log(categorie);
-            
-            document.write('<h1>Liste des produits distribués par Gourmandignes : '); 
-            document.write(categorie);
-            document.write('</h1>');
-            </script>
-        
-    </header>
     <div class="table">
         {% assign sorted = (site[page.collection] | sort: 'producteur') |  %}
         {% for resource in sorted %} {% unless resource.url contains "index.html" %}{% unless resource.url contains "categories.html" %}

@@ -5,7 +5,7 @@
         {%- include header.html -%}
         <main class="container">
             <div class="blobContent">
-                {%- for contenu in site.collections -%} {%- unless contenu.label == 'posts' %}
+                {%- for contenu in site.collections -%} {%- unless contenu.label == 'posts' or contenu.label == 'cremerie' or contenu.label == 'beaute' or contenu.label == 'legumes' or contenu.label == 'maison' or contenu.label == 'epicerie' or contenu.label == 'boulangerie' or contenu.label == 'boissons' or contenu.label == 'viande' %}
                 <span class="blobContent">
                     <a href="/{{ contenu.label }}">{{ contenu.label | capitalize }}</a>
                 </span>
