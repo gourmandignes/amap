@@ -1,4 +1,5 @@
 ---
+categorie: epicerie
 nom: Confitures de fruits et légumes
 type: contrat variable
 producteur: Icare

@@ -1,4 +1,5 @@
 ---
+categorie: legumes
 nom: Pommes
 type: contrat variable
 producteur: Dominique

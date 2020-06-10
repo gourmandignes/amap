@@ -1,5 +1,5 @@
 ---
-categorie: Viandes
+categorie: viandes
 nom: Caissette viande d'agneau (5kg)
 prix: 17 €/kilo
 description: >

@@ -1,4 +1,5 @@
 ---
+categorie: viandes
 nom: Porc
 type: contrat variable
 producteur: Joel

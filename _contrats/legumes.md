@@ -1,4 +1,5 @@
 ---
+categorie: legumes
 nom: Légumes
 type: contrat fixe
 producteur: Joel

@@ -1,4 +1,5 @@
 ---
+categorie: beaute
 nom: Savons et produits d'entretien
 type: contrat variable
 producteur: Florence

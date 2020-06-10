@@ -1,4 +1,5 @@
 ---
+categorie: legumes
 nom: Champignons, endives, micro-pousses
 type: contrat variable
 producteur: La-cave-agricole

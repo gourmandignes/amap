@@ -1,5 +1,5 @@
 ---
-categorie: Viandes
+categorie: viandes
 nom: Viande de boeuf à griller (5kg)
 prix: 92 €
 description: >

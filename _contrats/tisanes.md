@@ -1,4 +1,5 @@
 ---
+categorie: beaute
 nom: tisanes et derives
 type: contrat variable
 producteur: Josie

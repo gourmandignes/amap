@@ -9,6 +9,5 @@ contrats: pain
 tags: 
   - épicerie
   - pain
+illustration: pain-special.jpg
 ---
-
-![photo du pain](pain-special.jpg)

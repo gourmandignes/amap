@@ -1,4 +1,5 @@
 ---
+categorie: boissons
 nom: Bière et limonade de la Brasserie Saint-Léon
 type: contrat variable
 producteur: Nicolas-Hébert

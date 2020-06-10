@@ -1,4 +1,5 @@
 ---
+categorie: viandes
 nom: Agneau
 type: contrat variable
 producteur: Thereze

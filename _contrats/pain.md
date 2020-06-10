@@ -1,4 +1,5 @@
 ---
+categorie: boulangerie
 nom: Pain
 type: contrat fixe
 producteur: Icare

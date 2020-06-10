@@ -1,4 +1,5 @@
 ---
+categorie: viandes
 nom: Viande de boeuf et de veau
 type: contrat variable
 producteur: david

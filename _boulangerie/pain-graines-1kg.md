@@ -9,6 +9,5 @@ contrats: pain
 tags: 
   - épicerie
   - pain
+illustration: pain-graines.png
 ---
-
-![photo du pain](pain-graines.jpg)

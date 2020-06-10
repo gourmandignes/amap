@@ -1,5 +1,5 @@
 ---
-categorie: Viandes
+categorie: viandes
 nom: Viande de boeuf à cuire (5kg)
 prix: 78 €
 description: >

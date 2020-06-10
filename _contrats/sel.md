@@ -1,4 +1,5 @@
 ---
+categorie: epicerie
 nom: Sel et produits du marais
 type: contrat variable
 producteur: Eloi-Keller

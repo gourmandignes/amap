@@ -1,4 +1,5 @@
 ---
+categorie: epicerie
 nom: Huile d'olive, amandes, riz et charcuterie
 type: contrat variable
 producteur: david-moya

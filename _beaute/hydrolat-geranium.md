@@ -1,7 +1,7 @@
 ---
 categorie: Beauté & soins
-nom: Hydrolat hysope
-prix:  6,5€ (200ml)
+nom: Hydrolat géranium
+prix:  8€ (200ml)
 description: >
    produits aqueux provenant de la distillation des plantes à la vapeur d’eau (1kg de plante fraîche pour 1L d’hydrolat), Flacon de verre teinté.
 producteur: Josie
@@ -9,6 +9,6 @@ contrats: tisanes
 tags: 
   - santé
   - tisane
-illustration: hydrolat-hysope.jpg
+illustration: hydrolat-geranium.jpg
 ---
 

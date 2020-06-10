@@ -1,5 +1,5 @@
 ---
-categorie: Viandes
+categorie: viandes
 nom: Viande de boeuf à griller (10kg)
 prix: 175 €
 description: >

@@ -1,5 +1,5 @@
 ---
-categorie: Viandes
+categorie: viandes
 nom: Poulet (1,6-1,9kg)
 prix:  19,25 €
 description: >

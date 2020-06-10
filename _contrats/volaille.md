@@ -1,4 +1,5 @@
 ---
+categorie: viandes
 nom: Volaille
 type: contrat fixe
 producteur: Olivia

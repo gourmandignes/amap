@@ -1,5 +1,5 @@
 ---
-categorie: Viandes
+categorie: viandes
 nom: Viande de boeuf mixte (5kg)
 prix: 82 €
 description: >

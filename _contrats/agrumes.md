@@ -1,4 +1,5 @@
 ---
+categorie: legumes
 nom: Agrumes
 type: contrat variable
 producteur: David Moya

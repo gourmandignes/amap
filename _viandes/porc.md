@@ -1,5 +1,5 @@
 ---
-categorie: Viandes
+categorie: viandes
 nom: Viande de porc (5kg)
 prix: 60 €
 description: >

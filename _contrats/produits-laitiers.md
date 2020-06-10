@@ -1,4 +1,5 @@
 ---
+categorie: cremerie
 nom: Produits laitiers
 type: contrat variable
 producteur: Jarouilles

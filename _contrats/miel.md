@@ -1,4 +1,5 @@
 ---
+categorie: epicerie
 nom: Produits apicoles
 type: contrat variable
 producteur: Borda-Ambrosie

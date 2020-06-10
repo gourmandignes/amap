@@ -1,4 +1,5 @@
 ---
+categorie: epicerie
 nom: Farine de blé T80
 type: contrat avec engagement
 producteur: Icare

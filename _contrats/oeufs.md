@@ -1,4 +1,5 @@
 ---
+categorie: cremerie
 nom: Oeufs
 type: contrat fixe
 producteur: Olivia

@@ -68,10 +68,11 @@
             <li>Commande : <a href="{{ page.commande }}">{{ page.commande }}</a></li> 
         {% endif %}
         {% if  page.produits %}
-        <li>produits : 
+        <li>produits :
             <ul>
                 {% for produit in page.produits %}
-            <li><a href="/produits/{{ produit }}">{{ produit }}</a></li>
+                
+            <li><a href="/{{page.categorie}}/{{ produit }}.html">{{ produit }}</a></li>
             {% endfor %}
             </ul>
         </li>

@@ -1,4 +1,5 @@
 ---
+categorie: boissons
 nom: Chateau Bessan
 type: contrat variable
 producteur: Matthieu-Verdier

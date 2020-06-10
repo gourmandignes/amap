@@ -17,7 +17,7 @@ collections:
     output: true
   maison:
     output: true
-  viande:
+  viandes:
     output: true  
   coordinateurs:
     output: true

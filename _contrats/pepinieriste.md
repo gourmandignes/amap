@@ -1,4 +1,5 @@
 ---
+categorie: maison
 nom: Plants de fleurs et de légumes bio
 type: contrat variable
 producteur: Jardin-gourmand
