@@ -338,6 +338,9 @@ header .search-engine input[type="submit"] {
 .blobContent blockquote p {
   margin: 0; }
 
+footer {
+  display: block; }
+
 /*
  * TAGS
  */

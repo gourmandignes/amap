@@ -37,3 +37,8 @@ plugins:
   - jekyll-relative-links
   - jekyll-default-layout
   - jekyll-titles-from-headings
+
+social:
+  github: gourmandignes
+  facebook: gourmandignes
+  email: gourmandignes@gmail.com
