@@ -83,7 +83,12 @@ body {
   background: $couleur-fond;
   border-top: 3px solid $couleur-bordure;
 }
+.noList {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0; }
 
+  
 .container {
   margin: 0px auto;
   width: 920px;

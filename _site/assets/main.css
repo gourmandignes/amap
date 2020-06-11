@@ -69,6 +69,11 @@ body {
   background: #fcf9ff;
   border-top: 3px solid #73d56b; }
 
+.noList {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0; }
+
 .container {
   margin: 0px auto;
   width: 920px; }
