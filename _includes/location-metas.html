@@ -44,14 +44,6 @@
         {% if  page.engagement %}
             <li>contrat à télécharger : <a href="{{ page.engagement }}" target="_blank">contrat</a></li>
         {% endif %}
-        {% if page.adresse %}
-            <li>Adresse : 
-            {% if page.osm %}
-                <a href="https://www.openstreetmap.org/{{ page.osm }}">
-            {% endif %}
-                {{ page.adresse }}</a>
-                </li>
-        {% endif %}
         {% if page.mail %}
             <li><span class="glyphicon glyphicon-envelope"> {{ page.mail }}</span>
         {% endif %}
