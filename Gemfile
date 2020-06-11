@@ -8,3 +8,5 @@ gem "jekyll-remote-theme"
 gem "jekyll-github-metadata"
 gem "jekyll-relative-links"
 gem "jekyll-titles-from-headings"
+gem "rubyzip", ">= 1.3.0"
+
