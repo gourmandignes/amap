@@ -6,7 +6,7 @@ description: >
   Icare est installé à Gours en Gironde.
   Il cultive son propre blé en agriculture biologique, le transforme en farine de façon traditionnelle à la meule de pierre et fabrique son pain artisanalement (four à bois et levain biologique).
 
-site: icare.fr
+site: https://www.facebook.com/Ferme.massoubre
 illustration : icare.jpg
 coordinateur: Muriel
 tags:
