@@ -1,6 +1,6 @@
 ---
 categorie: viandes
-nom: poissons du bassin (5kg)
+nom: poissons du bassin (3kg)
 prix: 33 €
 description: >
   produits de la pêche durable du bassin d'Arcachon
