@@ -2,8 +2,8 @@
 categorie: legumes
 nom: Légumes
 type: contrat fixe
-producteur: Joel
-adresse : 1 La Chapelle, Saint-Ciers-de-Canesse
+producteur: Icare
+adresse : 27 avenue Georges Clemenceau 33660 Saint-Seurin-sur-l'Isle
 osm: 89252
 description: >
   Exploitation maraîchère située entre Borg-en-Gironde et Saint-André-de-Cubzac fournissant exclusivement des amaps.
@@ -23,4 +23,4 @@ produits:
   - petite-part-production-quinzo
 ---
 
-Joël le maraicher
+Icare paysan boulanger et maraîcher
