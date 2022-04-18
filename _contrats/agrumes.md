@@ -7,9 +7,9 @@ adresse : Valencia
 osm: 89252170397052
 description: >
   2 types de cagettes (9 et 14kg) sont proposées dans ce contrat : mono-produit et mixtes. Elles sont composées d'agrumes (orange, clémentine, citron, kumqat, pomelos, lime) et fruits (avocats, mangues) écologiques produits dans les parcs naturels de Valence. 
-engagement: contrat_agrumes.pdf
+engagement: contrat-agrumes.pdf
 commande: https://cagette.gourmandignes.org/contract/view/50
-coordinateur: Michel
+coordinateur: Benjamin
 produits:
   - avocats
   - oranges
