@@ -1,7 +1,7 @@
 ---
 categorie: Fruits & Légumes
 nom: petite part quinzomadaire de légumes
-prix: 22€/mois
+prix: 15€/mois
 description: >
   production locale et saisonière de légumes cultivés en agriculture biologique
 producteur: Icare
