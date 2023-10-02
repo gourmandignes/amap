@@ -1,7 +1,7 @@
 ---
 categorie: Fruits & Légumes
 nom: petite part hebdomadaire de légumes
-prix: 45€/mois
+prix: 30€/mois
 description: >
   production locale et saisonière de légumes cultivés en agriculture biologique
 producteur: Icare
