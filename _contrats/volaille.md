@@ -9,11 +9,10 @@ description: >
   Production de volailles en agriculture biologique
 engagement: contrat_volaille.pdf
 site: https://lafermedelaruscade.fr
-commande: https://cagette.gourmandignes.org/contract/view/53
+commande: https://s3.amapj.fr/p/cenon
 illustration: poulet.jpg
 coordinateur: 
   - Romain
-  - Cedric
 produits:
   - poulet-petit
   - poulet-moyen
