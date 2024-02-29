@@ -5,7 +5,7 @@ osm: way/68283246
 description: >
   Paul et Hznri sont des pêcheurs du bassin d'Arcachon
 #site: gayerie.fr
-illustration : jean-marc.jpg
+illustration : paul.png
 commande: https://s3.amapj.fr/p/cenon
 coordinateur: Florence
 tags:
