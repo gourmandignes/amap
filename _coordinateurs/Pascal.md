@@ -2,14 +2,13 @@
 nom: Pascal
 adresse: 5 rue Marc Nouaux
 tel : 0677447453
-mail: keronos@free.fr
+mail: keronos@pm.me
 osm: 2939725923
 description: >
-    Coordinateur du contrat Pommes
+    Coordinateur du contrat sel
 illustration: pascal.jpg
 contrats:
-    - pommes
-    - porc
+    - sel
 ---
 
 Pascal
