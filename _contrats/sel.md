@@ -11,8 +11,8 @@ description: >
 engagement: contrat_sel.pdf
 site: https://www.eloi-keller.fr
 illustration: sel.png
-commande: https://cagette.gourmandignes.org/contract/view/15
-coordinateur: Magalie
+commande: https://s3.amapj.fr/p/cenon
+coordinateur: Pascal
 produits:
     - asssortiment-5-tubes-fleurs-sel
     - caramel
