@@ -9,9 +9,9 @@ description: >
   Fourniture de pain au levain façonnés à partir du blé cultivé par Icare en agriculture biologique et transformé au moulin voisin
 durée: de janvier à décembre
 engagement: contrat-pain.pdf
-commande: https://cagette.gourmandignes.org/contract/view/78
+commande: https://s3.amapj.fr/p/cenon
 illustration: pain.jpg
-coordinateur: Muriel
+coordinateur: Amandine
 produits:
   - pain-normal-500g
   - pain-normal-1kg
