@@ -8,7 +8,7 @@ description: >
     Coordinatrice du contrat huile d'olive et produits de Valence
 illustration: irene.jpg
 contrats : 
-    - Huile
+    - huile-olive
 ---
 
 Irène
