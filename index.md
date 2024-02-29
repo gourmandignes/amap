@@ -19,10 +19,10 @@ L'**alimentation** biologique est encore souvent considérée comme un **privil�
 ![atelier culinaire: fresque](./gourmandignes/atelier.jpg)
 
 ## Adhésion
-Pour formaliser cette relation, nous vous proposons d'adhérer à un ou plusieurs des [contrats](./contrats/) direct avec les [producteur.rice.s](./producteurs/). Leur accès est lié à l'adhésion à l'[association gourmandignes](./gourmandignes/gourmandignes.html) mais l'assocation ne sert pas d'intermédiaire. La cotisation est de 15 € par an (ou 7.5 € si l'adhésion a lieu après le 1er juillet de l'année en cours).
+Pour formaliser cette relation, nous vous proposons d'adhérer à un ou plusieurs des [contrats](./contrats/) direct avec les [producteur.rice.s](./producteurs/). Leur accès est lié à l'adhésion à l'[association gourmandignes](./gourmandignes/gourmandignes.html) mais l'assocation ne sert pas d'intermédiaire. La cotisation est de 18 € par an (ou 9 € si l'adhésion a lieu après le 1er juillet de l'année en cours).
 
-Les [distributions](./gourmandignes/distribution.html) s'effectuent le **jeudi soir de 19h à 20h dans le chalet à gauche du parking de la mairie de Cenon**.
+Les [distributions](./gourmandignes/distribution.html) s'effectuent le **jeudi soir de 19h à 20h dans la maison éco-citoyenne à gauche du parking de la mairie de Cenon** (accessible également par le chemin des carrières).
 
-Vous pouvez nous écrire à gourmandignes at gmail.comou ou vous rendre sur place pour faire connaissance. Vous y découvrirez une aire de compostage, un petit potager et plein de chaleur humaine !
+Vous pouvez nous écrire à contact at gourmandignes.org ou ou vous rendre sur place pour faire connaissance. Vous y découvrirez une aire de compostage, un petit potager et plein de chaleur humaine !
 
 ![potager](./gourmandignes/jardin.jpg)
