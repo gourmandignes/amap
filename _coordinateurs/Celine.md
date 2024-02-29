@@ -5,10 +5,9 @@ tel : 06774474565
 mail: celine.vachier@laposte.net
 osm: 2939725923
 description: >
-    Coordinatrice du contrat boeuf-veau et co-coordinatrice du contrat légumes
+    Coordinatrice du tisanes
 illustration: celine.jpg
 contrats:
-    - boeuf-veau
-    - legumes
+    - tisanes
 ---
 Céline
