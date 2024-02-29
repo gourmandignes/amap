@@ -6,7 +6,7 @@ mail: bchambelland@singularity.fr
 osm: 2939725923
 description: >
     Co-Coordinateur du contrat agrumes
-illustration: archiviste.png
+illustration: benjamin.png
 contrats : 
     - agrumes
 ---
