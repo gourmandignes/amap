@@ -8,12 +8,12 @@ osm: 89252170397052
 description: >
   Groupement d'éléveurs de vache et de chèvre
 engagement: contrat-produits-laitiers.pdf
-commande: https://cagette.gourmandignes.org/contract/view/64
+commande: https://s3.amapj.fr/p/cenon
 site: http://www.jarouilles.fr/
 illustration: jarouilles.jpg
 coordinateur: 
   - Dana
-  - Noellie
+  - Evelyne
 produits:
   - lait-ecreme
   - lait-entier
