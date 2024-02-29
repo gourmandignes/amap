@@ -16,12 +16,13 @@
             </a>
         </div>
             
-        <div class="details">coord.:
+        <div class="details">coordination:
           <ul>{% for coordo in resource.coordinateur %}
             <li><a class="ghTreeReadmore" href="/coordinateurs/{{ coordo }}.html">{{ coordo }}</a></li>
           {% endfor %}
         </ul>
           <span >type: {{ resource.type }} </span>
+          <br\>
           <span>doc: <a class="ghTreeReadmore" title="voir le détail du contrat : {{ resource.nom }}" data-title="fileReadmoreLink"
             href="/contrats/media/{{ resource.engagement }}"> [||||]</a></span>
         </div>
