@@ -9,7 +9,7 @@ description: >
   Production de farine T80 issue de l'agriculture biologique
 engagement: contrat-farine.pdf
 illustration: farine.jpg
-commande: https://cagette.gourmandignes.org/contract/view/79
+commande: https://s3.amapj.fr/p/cenon
 coordinateur: Amandine
 produits:
   - farine
