@@ -7,7 +7,7 @@ description: >
 illustration: davidMoya.jpg
 commande: https://cagette.gourmandignes.org/contract/view/50
 site: https://saborita.es/
-coordinateur: Elie
+coordinateur: Irene
 tags:
   - fruits
   - bio
