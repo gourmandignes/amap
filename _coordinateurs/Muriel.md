@@ -5,12 +5,10 @@ tel : 06774474565
 mail: murielle@free.fr
 osm: 2939725923
 description: >
-    Coordinatrice des contrats pain, farine et confiture
+    Coordinatrice du contrat légumes
 illustration: muriel.jpg
 contrats : 
-    - farine
-    - pain
-    - confiture
+    - légumes
 ---
 
 Muriel
