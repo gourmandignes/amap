@@ -10,7 +10,7 @@ description: >
 engagement: contrat-farine.pdf
 illustration: farine.jpg
 commande: https://cagette.gourmandignes.org/contract/view/79
-coordinateur: Muriel
+coordinateur: Amandine
 produits:
   - farine
 tags:
