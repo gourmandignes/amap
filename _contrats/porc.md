@@ -2,18 +2,18 @@
 categorie: viandes
 nom: Porc
 type: contrat variable
-producteur: Joel
-adresse : 1 La Chapelle, Saint-Ciers-de-Canesse
+producteur: Jarouilles
+adresse : Ferme des Jarouilles, Coutras
 osm: 89252
 description: >
-  Viande de porc fournie par Joël.
+  Viande de porc fournie par la ferme des Jarouilles.
 durée: de janvier à décembre
 engagement: contrat-porc.pdf
 illustration: porc.jpg
-commande: https://cagette.gourmandignes.org/contract/view/51
-coordinateur: Pascal
+commande: https://s3.amapj.fr/p/cenon
+coordinateur: Dana
 produits:
   - colis-porc
 ---
 
-Joël le maraicher fait aussi de la viande de porc
+La ferme des Jarouilles nous propose tous les 2 mois une livraison de porc de ferme élevés uniquement avec des aliments biologiques
