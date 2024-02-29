@@ -10,8 +10,8 @@ description: >
 engagement: contrat-oeufs.pdf
 illustration: oeufs.jpg
 site: https://lafermedelaruscade.fr
-commande: https://cagette.gourmandignes.org/contract/view/53
-coordinateur: Julie
+commande: https://s3.amapj.fr/p/cenon
+coordinateur: Romain
 produits:
   - boite-oeuf                           
 tags:
