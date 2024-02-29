@@ -10,7 +10,7 @@ description: >
 duree: de janvier à decembre
 engagement: contrat-tisanes.pdf
 illustration: tisanes.jpg
-commande: https://cagette.gourmandignes.org/contract/view/68
+commande: https://s3.amapj.fr/p/cenon
 site: https://www.lafermeauxfleurs.fr
 coordinateur: 
   - Céline
