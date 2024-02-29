@@ -2,7 +2,7 @@
 categorie: epicerie
 nom: Huile d'olive, amandes, riz et charcuterie
 type: contrat variable
-producteur: david-moya
+producteur: David-Moya
 adresse : Valencia
 osm: 89252170397052
 description: >
