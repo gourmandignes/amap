@@ -10,7 +10,7 @@ description: >
 engagement: contrat_huile.pdf
 commande: https://cagette.gourmandignes.org/contract/view/61
 illustration: huile-olive.png
-coordinateur: pascal
+coordinateur: Irene
 produits:
   - amande-2
   - amande-10
