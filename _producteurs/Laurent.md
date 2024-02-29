@@ -5,7 +5,7 @@ osm: 2345676311
 description: >
   Laurent produit des plants à partir de graines certifiées agriculture biologique dans des serres situées dans le nord de la Gironde, et puis c'est tout !
 commande: https://s3.amapj.fr/p/cenon
-illustration: laurent.jpg
+illustration: laurent.png
 coordinateur: 
   - Pascal
 tags:
