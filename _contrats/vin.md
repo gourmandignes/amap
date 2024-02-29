@@ -1,6 +1,6 @@
 ---
 categorie: boissons
-nom: Chateau Bessan
+nom: vins du Château Bessan
 type: contrat variable
 producteur: Matthieu-Verdier
 adresse : Tabenac
@@ -8,7 +8,7 @@ osm: 89252170397052
 description: >
   Famille de viticulteurs à Tabenac produisant des vins et du jus de raison bio.
 engagement: contrat-vin.pdf
-commande: https://cagette.gourmandignes.org/contract/view/17
+commande: https://s3.amapj.fr/p/cenon#!/utilisateur
 illustration: vin.jpg
 site: https://chateaubessan.fr/
 coordinateur: Elie
@@ -34,4 +34,4 @@ tags:
   - bio
 ---
 
-Propriété située...
+Propriété située à Tabanac
