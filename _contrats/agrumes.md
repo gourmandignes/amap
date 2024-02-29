@@ -2,7 +2,7 @@
 categorie: legumes
 nom: Agrumes
 type: contrat variable
-producteur: David Moya
+producteur: David-Moya
 adresse : Valencia
 osm: 89252170397052
 description: >
