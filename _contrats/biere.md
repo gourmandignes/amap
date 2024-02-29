@@ -8,8 +8,8 @@ osm: node/4699356069
 description: >
   Fourniture de bières et de limonades produites à base de céréales cultivées par Nicolas et brassées localement.
 engagement: contrat_biere.pdf
-commande: https://cagette.gourmandignes.org/contract/view/16
-coordinateur: Sonia
+commande: https://s3.amapj.fr/p/cenon
+coordinateur: Karine
 illustration: biere.jpg
 produits:
 
