@@ -9,7 +9,7 @@ description: >
   Eléveur de vache et de veau pour la production de viande de race Hilford
 engagement: contrat-boeuf.pdf
 illustration: boeuf-veau.jpg
-coordinateur: Celine
+coordinateur: Maylis
 produits:
   - caissette-boeuf-grillade-5k
   - caissette-boeuf-grillade-10k
