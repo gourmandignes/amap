@@ -8,7 +8,7 @@ osm: way/442273773
 description: >
   Apiculteurs installés à Sillas dans la région de Langon, Nicolas et Guillaume produisent du miel et des produits dérivés des ruches en agriculture biologique.
 site: http://www.borda-ambrosi.fr
-commande: https://cagette.gourmandignes.org/contract/view/29
+commande: https://s3.amapj.fr/p/cenon
 illustration: miel.jpg
 coordinateur: 
   - Isabelle
