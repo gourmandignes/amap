@@ -6,7 +6,7 @@ mail: maylis.guillard@mailo.com
 osm: 2939725923
 description: >
     Coordinatrice du contrat boeuf/veau 
-illustration: maylis.jpg
+illustration: archiviste.png
 contrats : 
     - boeuf-veau
 ---
