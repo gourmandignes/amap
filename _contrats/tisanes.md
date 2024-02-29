@@ -2,7 +2,7 @@
 categorie: beaute
 nom: tisanes et derives
 type: contrat variable
-producteur: Josie
+producteur: Sandrine
 adresse : 11 le bourg-est, Gours
 osm: 89252
 description: >
@@ -13,8 +13,7 @@ illustration: tisanes.jpg
 commande: https://cagette.gourmandignes.org/contract/view/68
 site: https://www.lafermeauxfleurs.fr
 coordinateur: 
-  - Frederique
-  - Alexandra
+  - Céline
 produits:
     - baume-bobos
     - baume-carotte
@@ -157,4 +156,4 @@ tags:
   - beauté
 ---
 
-Josie
+Sandrine
