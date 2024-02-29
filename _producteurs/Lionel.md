@@ -11,7 +11,7 @@ description: >
   La viande fournie est d’un rapport qualité/prix exceptionnel. Le mode d’abattage des animaux est conventionnel.
 
 commande: https://s3.amapj.fr/p/cenon
-illustration : lionel.jpg
+illustration : lionel.png
 coordinateur: Maylis
 tags:
   - viande
