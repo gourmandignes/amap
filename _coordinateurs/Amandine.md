@@ -6,7 +6,7 @@ mail: amandine.merial@gmail.com
 osm: 2939725923
 description: >
     Coordinatrice des contrats pain et farine
-illustration: amandine.jpg
+illustration: archiviste.png
 contrats : 
     - pain
     - farine
