@@ -2,7 +2,7 @@
 categorie: viandes
 nom: Viande de boeuf et de veau
 type: contrat variable
-producteur: david
+producteur: lionel
 adresse : 4 rue des Esteys, 33240 Saint-Gervais
 osm: way/162986432
 description: >
@@ -28,4 +28,4 @@ tags:
   - veau
 ---
 
-David
+Lionel
