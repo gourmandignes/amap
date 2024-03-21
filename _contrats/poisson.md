@@ -8,7 +8,7 @@ osm: 89252
 description: >
   Caisse de 3kg de poissons vidés issus de la pêche durable sur le bassin d'Arcachon
 durée: de janvier à décembre
-engagement: media/contrat-poisson.pdf
+engagement: contrat-poisson.pdf
 illustration: poisson.jpg
 commande: https://s3.amapj.fr/p/cenon
 coordinateur: Florence
